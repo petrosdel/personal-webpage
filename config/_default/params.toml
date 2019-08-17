@@ -58,8 +58,8 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "p dot surname at ucl.ac.uk 
-"
+email = "p dot surname at ucl.ac.uk"
+
 phone = "+44(0)2031083244"
 address = "Department of Statistical Science, University College, Gower Street, London, C1E 6B"
 
