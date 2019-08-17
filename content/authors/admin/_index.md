@@ -14,16 +14,16 @@ role: Professor of Statistical Science
 organizations:
 - name: University College London
 - name: Athens University of Economics and Business
-- NAME: The Alan Turing Institute
+- name: The Alan Turing Institute
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include  Bayesian theory and applications, machine learning, financial modelling.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Bayesian statistics
+- Machine learning
+- Financial econometrics
 
 #education:
 #  courses:
