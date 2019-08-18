@@ -47,42 +47,12 @@ subtitle = ""
  css_class = ""
 +++
 
-
-<!--------------------Thales-------------------------->
-  
-<div id="thales"  style="display: none">
-
-<div id="pics"> <a href="http://thalesandfriends.org/"> <img src="thales.png"> </a>	</div>
-	<br><br>
-	
-	<p>
-	I am a co-founder -- together with the writer <a href="http://www.apostolosdoxiadis.com//"> Apostolos Doxiadis</a>  and the school teacher and writer 
-	<a href="https://tefcrosmichaelidesen.wordpress.com/tag/mathematics///"> Tefcros Michaelides</a>  of the not-for-profit organization
-	 <a href="http://thalesandfriends.org/"> Thales+Friends </a> (For the very active Greek site click  <a href="http://thalesandfriends.org/el/"> here</a>).
-	Thales + Friends works to bridge the chasm between mathematics and other forms of cultural activity.
-	To achieve its aims, Thales + Friends works to create opportunities for interdisciplinary research and communication, through lectures, discussions, publications, and reading groups.
-	</p>
-		<br><br>
-	
-	<ul>
-		<li><a href="http://thalesandfriends.org/mykonos-conference/"> Mykonos conference</a>: Mathematics and narrative. 
-			See the related article in <a href="http://link.springer.com/article/10.1007%2FBF02987152"> Nature </a> </li><br>
-		<li><a href="http://thalesandfriends.org/delphi-conference/"> Delphi conference</a>: Circles Disturbed. 
-			See the proceedings of the conference  in this <a href="http://press.princeton.edu/titles/9764.html"> book </a> edited by 
-<a href="http://www.apostolosdoxiadis.com//"> Apostolos Doxiadis</a>
-			and <a href="http://www.math.harvard.edu/~mazur/">Barry Mazur</a> </li><br>
-	</ul>
-	
-	
-</div>
-
-
-
-Mykonos conference: Mathematics and narrative. See the related article in Nature
-
-Delphi conference: Circles Disturbed. See the proceedings of the conference in this book edited by Apostolos Doxiadis and Barry Mazur
-
-
+I am a co-founder -- together with the writer  Apostolos Doxiadis and the school teacher and writer Tefcros Michaelide of the not-for-profit organisation
+[**Thales and Friends**](http://thalesandfriends.org/). For the very active Greek site see the {**Greek language version**](http://thalesandfriends.org/el/).
+Thales + Friends works to bridge the chasm between mathematics and other forms of cultural activity.	To achieve its aims, Thales + Friends works to create opportunities for interdisciplinary research and communication, through lectures, discussions, publications, and reading groups.  Some international activities include:
+- [**Mykonos conference: Mathematics and narrative**](http://thalesandfriends.org/mykonos-conference/).	See the related article in [**Nature**](http://link.springer.com/article/10.1007%2FBF02987152)
+- [**Delphi Conference: Circles Disturbed**](http://thalesandfriends.org/delphi-conference/). See the proceedings of the conference  in this [**book**](http://press.princeton.edu/titles/9764.html) edited by 
+Apostolos Doxiadis and Barry Mazur.
 
 
 
