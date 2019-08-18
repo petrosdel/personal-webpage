@@ -18,7 +18,7 @@ description = ""
 sharing_image = ""
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = ""
+twitter = "Dellaportas"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -32,7 +32,7 @@ highlight_languages = ["r"]  # Add support for highlighting additional languages
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
-math = false
+math = true
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
@@ -61,7 +61,7 @@ time_format = "3:04 PM"
 email = "p dot surname at ucl.ac.uk"
 
 phone = "+44(0)2031083244"
-address = "Department of Statistical Science, University College, Gower Street, London, C1E 6B"
+address = "Department of Statistical Science, University College, Gower Street, London, WC1E 6BT"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""

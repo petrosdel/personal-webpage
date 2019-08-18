@@ -24,6 +24,7 @@ interests:
 - Bayesian statistics
 - Machine learning
 - Financial econometrics
+- Dynamic pricing 
 
 #education:
 #  courses:
