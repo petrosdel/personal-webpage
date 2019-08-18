@@ -67,10 +67,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
-- Visitors
+#- Researchers
+#- Visitors
 ---
 
-Petros Dellaportas has a joint appointment as a professor in Statistical Science in the department of Statistical Science, University College London and as a professor of Statistics in the department of Statistics, Athens University of Economics and Business. He is also a Turing fellow of the Alan Turing Institute, the United Kingdom's national institute for data science and artificial intelligence.
+Petros Dellaportas has a joint appointment as a professor in Statistical Science in the department of Statistical Science, [**University College London**](https://www.ucl.ac.uk/statistics/), and as a professor of Statistics in the department of Statistics, [**Athens University of Economics and Business**](https://www.dept.aueb.gr/en/stat/content/department-statistics). He is also a Turing fellow of the [**Alan Turing Institute**](https://www.turing.ac.uk/), the United Kingdom's national institute for data science and artificial intelligence.
 
 
