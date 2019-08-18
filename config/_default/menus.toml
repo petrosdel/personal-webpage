@@ -8,6 +8,7 @@
   url = "#about"
   weight = 10
 
+[[main]]
  name = "Thales and Friends"  # A name for the link.
     url = "#demo"  # URL of the section.
     weight = 50  # Position of the link in the menu
