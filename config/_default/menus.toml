@@ -10,7 +10,7 @@
 
  name = "Thales and Friends"  # A name for the link.
     url = "#demo"  # URL of the section.
-    weight = 200  # Position of the link in the menu
+    weight = 50  # Position of the link in the menu
 
 [[main]]
   name = "Current Projects"
