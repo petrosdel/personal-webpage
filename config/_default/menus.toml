@@ -11,7 +11,7 @@
 [[main]]
  name = "Thales and Friends"  # A name for the link.
     url = "#thales"  # URL of the section.
-    weight = 50  # Position of the link in the menu
+    weight = 55  # Position of the link in the menu
 
 [[main]]
   name = "Current Projects"
@@ -26,7 +26,7 @@
 [[main]]
   name = "Supervision"
   url = "#featured"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Contact"
