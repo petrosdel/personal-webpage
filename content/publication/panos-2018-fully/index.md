@@ -5,7 +5,7 @@ publishDate: 2019-09-15T18:30:28.653435Z
 authors: ["Aristeidis Panos", "Petros Dellaportas", "Michalis K Titsias"]
 publication_types: ["0"]
 abstract: ""
-featured: false
+featured: true
 publication: ""
 ---
 

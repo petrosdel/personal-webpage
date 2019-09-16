@@ -5,7 +5,7 @@ publishDate: 2019-09-15T18:32:18.117116Z
 authors: ["Petros Dellaportas", "Mike G Tsionas"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Journal of Econometrics*"
 ---
 
