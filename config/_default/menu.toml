@@ -29,10 +29,10 @@
   weight = 35
 
 
-[[main]]
-  name = "Supervision"
-  url = "#featured"
-  weight = 50
+#[[main]]
+#  name = "Supervision"
+#  url = "#featured"
+#  weight = 50
 
 [[main]]
   name = "Contact"
