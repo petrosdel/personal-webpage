@@ -1,6 +1,7 @@
 ---
 title: machine learning for economics
-summary: Using machine learning techniques together with modern experimentation strategies to model dynamic optimisation problems as faced by agents in economic models.
+summary: Using machine learning techniques together with modern experimentation strategies to model dynamic optimisation problems as faced by agents in economic models.  The project is funded by just-eat plc. and involves two PhD students, William Greenal and Marta Grzeskiewicz registered in the department of Statistical Science, UCL.  They both have a degree in economics and experience in statistical machne learning. 
+
 tags:
 - Dynamic pricing
 #date: "2016-04-27T00:00:00Z"
@@ -26,4 +27,3 @@ url_video: ""
 slides = ""   
 ---
 
-The project involves two PhD students William Greenal and Marta Grzeskiewicz registered in the department of Statistical Science, UCL.  They both have a degree in economics and experience in statistical machne learning. 
