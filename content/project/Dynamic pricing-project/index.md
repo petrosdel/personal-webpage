@@ -14,4 +14,5 @@ image:
    
 slides = ""   
 ---
+
 The project involves two PhD students William Greenal and Marta Grzeskiewicz registered in the department of Statistical Science, UCL.  They both have a degree in economics and experience in statistical machne learning. 
