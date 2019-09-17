@@ -28,9 +28,9 @@ subtitle = ""
      name = "Alan Turing Institute"
      tag = "Alan Turing Institute"
   
-   [[content.filter_button]]
-     name = "Dynamic pricing"
-     tag = "Dynamic"
+#   [[content.filter_button]]
+#     name = "Dynamic pricing"
+#     tag = "Dynamic"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
