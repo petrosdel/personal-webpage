@@ -9,7 +9,7 @@ tags:
  external_link: ""
 
 image:
-#  caption: Photo by Toa Heftiba on Unsplash
+   caption: Photo by from Wikipedia
    focal_point: Smart
 
 links:
