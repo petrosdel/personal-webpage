@@ -6,9 +6,10 @@ tags:
 #date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-#external_link: https://www.turing.ac.uk/research/research-projects/detecting-anomalies-vat-network
+ external_link: ""
 
 #image:
 #  caption: Photo by Toa Heftiba on Unsplash
-#  focal_point: Smart
+   focal_point: Smart
 ---
+The project involves two PhD students William Greenal and Marta Grzeskiewicz registered in the department of Statistical Science, UCL.  They both have a degree in economics and experience in statistical machne learning. 
