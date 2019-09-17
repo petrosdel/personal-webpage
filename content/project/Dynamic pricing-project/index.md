@@ -7,21 +7,21 @@ date: ""
 
 external_link: https://www.turing.ac.uk/research/research-projects/forecasting-large-macroeconomic-and-financial-datasets
 
-image:
-   caption: Photo by from Wikipedia
-   focal_point: Smart
+#image:
+#   caption: Photo by from Wikipedia
+#   focal_point: Smart
 
-links:
+#links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
+#url_video: ""
 
    
-slides = ""   
+#slides = ""   
 ---
 
