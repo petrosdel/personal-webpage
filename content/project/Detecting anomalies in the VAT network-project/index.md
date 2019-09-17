@@ -1,8 +1,8 @@
 ---
 title: Detecting anomalies in the VAT network
 summary: Developing tools to identify abnormal data events (and fraudulent behaviour) in the VAT transactions network.
-#tags:
-#- Demo
+tags:
+- Alan Turing Institute
 #date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
