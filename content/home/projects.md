@@ -31,7 +31,7 @@ subtitle = ""
   
    [[content.filter_button]]
      name = "Dynamic pricing"
-     tag = "Demo"
+     tag = "Dynamic pricing"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
