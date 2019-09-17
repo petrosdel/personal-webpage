@@ -5,8 +5,7 @@ tags:
 - Dynamic pricing
 date: ""
 
-# Optional external URL for project (replaces project detail page).
-# external_link: ""
+external_link: https://www.turing.ac.uk/research/research-projects/forecasting-large-macroeconomic-and-financial-datasets
 
 image:
    caption: Photo by from Wikipedia
