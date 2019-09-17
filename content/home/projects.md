@@ -26,11 +26,11 @@ subtitle = ""
   #   tag = "*"
   
   # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  #   name = "Alan Turing Institute"
+  #   tag = "Alan Turing Institute"
   
   # [[content.filter_button]]
-  #   name = "Other"
+  #   name = "Dynamic pricing"
   #   tag = "Demo"
 
 [design]
