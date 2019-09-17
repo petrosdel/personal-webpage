@@ -21,17 +21,17 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+   [[content.filter_button]]
+     name = "All"
+     tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Alan Turing Institute"
-  #   tag = "Alan Turing Institute"
+   [[content.filter_button]]
+     name = "Alan Turing Institute"
+     tag = "Alan Turing Institute"
   
-  # [[content.filter_button]]
-  #   name = "Dynamic pricing"
-  #   tag = "Demo"
+   [[content.filter_button]]
+     name = "Dynamic pricing"
+     tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -54,11 +54,11 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
+   color = "navy"
   
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+   gradient_start = "DeepSkyBlue"
+   gradient_end = "SkyBlue"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
