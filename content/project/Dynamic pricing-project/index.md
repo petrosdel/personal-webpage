@@ -5,7 +5,7 @@ tags:
 - Dynamic pricing
 date: ""
 
-external_link: https://www.turing.ac.uk/research/research-projects/forecasting-large-macroeconomic-and-financial-datasets
+#external_link: https://www.turing.ac.uk/research/research-projects/forecasting-large-macroeconomi#c-and-financial-datasets
 
 #image:
 #   caption: Photo by from Wikipedia
