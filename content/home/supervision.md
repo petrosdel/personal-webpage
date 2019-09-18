@@ -66,8 +66,8 @@ Post-doctoral students:
 PhD students: 
 
 
-- Marta Grzeskiewicz -- "Policy search via multitask Gaussian processes and reinforcement learning"
-- William Greenall -- "Economic Modelling Applications of Reinforcement Learning Techniques"
+- Marta Grzeskiewicz -- "Policy search via multitask Gaussian processes and reinforcement learning", current, UCL
+- William Greenall -- "Economic Modelling Applications of Reinforcement Learning Techniques", current, UCL
 - Jacopo Thomas Capra -- "Portfolio construction with macro views", current, UCL
 - Marcel Hirt -- "Price impact in high frequency markets", current, UCL
 - Zhongzhen Wang -- "Tensor factorisations for event sequence forecasting" (jointly supervised with Ioannis Kosmidis ), current, UCL
