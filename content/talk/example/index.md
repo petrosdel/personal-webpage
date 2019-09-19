@@ -1,54 +1,39 @@
 ---
-title: Example Talk
-event: Academic Theme Conference
-location: UCL
+
+## Post-doctoral students
+
+- Angelos Alexopoulos 2019-
+- Anastasios Plataniotis 2013-2015
+- Athanassios Petralias  2013
+- Ioannis Dendramis  2013
+- Loukia Meligotsidou  2007-2008
+- Michalis Papathomas  2004-2006
+- Ioulia Papageorgiou 2002-2003
+- Leonardo Bottolo 2002
+- Luigi Spezia 2001
+- Nial Friel 2000
+- Claudia Tarantola  1999
+- Stefano Tonellato  1998
 
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030"
-#date_end: "2030-06-01T15:00:00Z"
-all_day: false
+## PhD students
 
-# Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
 
-authors: []
-tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
-
-links:
-- icon: ""
-  icon_pack: ""
-  name: ""
-  url: ""
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-- internal-project
-
-# Enable math on this page?
-math: true
----
+- Marta Grzeskiewicz -- "Policy search via multitask Gaussian processes and reinforcement learning", current, UCL
+- William Greenall -- "Economic Modelling Applications of Reinforcement Learning Techniques", current, UCL
+- Jacopo Thomas Capra -- "Portfolio construction with macro views", current, UCL
+- Marcel Hirt -- "Price impact in high frequency markets", current, UCL
+- Zhongzhen Wang -- "Tensor factorisations for event sequence forecasting" (jointly supervised with Ioannis Kosmidis ), current, UCL
+- Santhosh Narayanan -- "Point processes for sports modelling" (jointly supervised with Ioannis Kosmidis ), current, Warwick
+- Fiori Labrinakou -- "Modelling of High frequency trading", current,AUEB
+- Aris Panos -- "Extreme multi-label learning with Gaussian processes", 2019
+- Angelos Alexopoulos -- "Bayesian modelling of high dimensional financial data using latent Gaussian models",2017
+- Zoe Tsourti -- "Issues of Markov Chain Monte Carlo", 2012
+- Athanassios Petralias -- "Bayesian Model Determination and Nonlinear Threshold Volatility Models", 2011
+- Anastasios Plataniotis -- "Multivariate Stochastic Volatility Models", 2011
+- Konstantinos Kalogeropoulos -- "Bayesian Inference for Multidimensional Diffusion Processes", 2007 Savage Award
+- Stefanos Giakoumatos -- "Auxiliary Variable Sampling for Some Time-Varying Volatility Models", 2004
+- Michalis Linardakis -- "Extensions of Latent Variable Models with Applications on Econometric and Educational Models", 2004
+- Ioannis Vrontos -- "MCMC Applications in Time-Varying Volatility Models", 2001
+- Ioannis Ntzoufras -- "Aspects of Bayesian Model and Variable Selection Using MCMC", 1999---
 
