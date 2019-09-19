@@ -14,19 +14,26 @@
     weight = 55  # Position of the link in the menu
 
 [[main]]
+ name = "Supervision"  # A name for the link.
+    url = "#supervision"  # URL of the section.
+    weight = 50  # Position of the link in the menu
+
+
+[[main]]
   name = "Current Projects"
   url = "#projects"
   weight = 30
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "#publications"
   weight = 40
 
 [[main]]
-  name = "Supervision"
+  name = "Recent Publications"
   url = "#featured"
-  weight = 50
+  weight = 35
+
 
 [[main]]
   name = "Contact"
