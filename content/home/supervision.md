@@ -25,4 +25,4 @@ date_format = "2019"
 [[Anastasios Plataniotis]]
   title = "Professor"
   location = "California"
- +++
++++
