@@ -69,12 +69,5 @@ subtitle = ""
 
 [**Greek Stochastics λ**](http://www.stochastics.gr/meetings/lambda/) : Stochastic processes and computation
 
-I am a co-founder -- together with the writer  Apostolos Doxiadis and the school teacher and writer Tefcros Michaelides of the not-for-profit organisation
-[**Thales and Friends**](http://thalesandfriends.org/). For the very active Greek site see the [**Greek language version**](http://thalesandfriends.org/el/).
-Thales + Friends works to bridge the chasm between mathematics and other forms of cultural activity.	To achieve its aims, Thales + Friends works to create opportunities for interdisciplinary research and communication, through lectures, discussions, publications, and reading groups.  Some international activities include:
 
-- [**Mykonos conference: Mathematics and narrative**](http://thalesandfriends.org/mykonos-conference/).	See the related article in [**Nature**](http://link.springer.com/article/10.1007%2FBF02987152)
-
-- [**Delphi Conference: Circles Disturbed**](http://thalesandfriends.org/delphi-conference/). See the proceedings of the conference  in this [**book**](http://press.princeton.edu/titles/9764.html) edited by 
-Apostolos Doxiadis and Barry Mazur.
 
