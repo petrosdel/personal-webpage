@@ -5,7 +5,7 @@ publishDate: 2019-09-15T18:30:28.654423Z
 authors: ["Angelos Alexopoulos", "Petros Dellaportas", "Omiros Papaspiliopoulos"]
 publication_types: ["0"]
 abstract: ""
-featured: false
+featured: true
 publication: ""
 ---
 
