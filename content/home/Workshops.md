@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 125  # Order that this section will appear.
 
-title = "Workshops"
+title = "Greek Stochastics group"
 subtitle = ""
 
 [design]
@@ -47,27 +47,27 @@ subtitle = ""
  css_class = ""
 +++
 
-[**Greek Stochastics α**](http://www.stochastics.gr/meetings/alpha/index.html): Monte Carlo: Probability and Methods
+[**Greek Stochastics α**](http://www.stochastics.gr/meetings/alpha/index.html): Monte Carlo: Probability and Methods (2009)
 
-[**Greek Stochastics β**](http://www.stochastics.gr/meetings/beta/index.html): Interaction between Biology and Probabilistic/Statistical Theory and Methods
+[**Greek Stochastics β**](http://www.stochastics.gr/meetings/beta/index.html): Interaction between Biology and Probabilistic/Statistical Theory and Methods (2010)
 
-[**Greek Stochastics γ**](http://www.stochastics.gr/meetings/gamma/index.html) : Markov Chain Monte Carlo methods
+[**Greek Stochastics γ**](http://www.stochastics.gr/meetings/gamma/index.html) : Markov Chain Monte Carlo methods (2011)
 
-[**Greek Stochastics δ**](http://www.stochastics.gr/meetings/delta/index.html) : Inference for Dynamical Systems
+[**Greek Stochastics δ**](http://www.stochastics.gr/meetings/delta/index.html) : Inference for Dynamical Systems (2012)
 
-[**Greek Stochastics ε**](http://www.stochastics.gr/meetings/epsilon/index.html) : Jump processes: probability, statistical inference and financial modelling
+[**Greek Stochastics ε**](http://www.stochastics.gr/meetings/epsilon/index.html) : Jump processes: probability, statistical inference and financial modelling (2013)
 
-[**Greek Stochastics ζ**](http://www.stochastics.gr/meetings/zeta/index.html): Networks: Theory, Methods and Applications
+[**Greek Stochastics ζ**](http://www.stochastics.gr/meetings/zeta/index.html): Networks: Theory, Methods and Applications (2014)
 
-[**Greek Stochastics η**](http://www.stochastics.gr/meetings/eta/index.html) : Sequential and On-line Learning
+[**Greek Stochastics η**](http://www.stochastics.gr/meetings/eta/index.html) : Sequential and On-line Learning (2015)
 
-[**Greek Stochastics θ**](http://www.stochastics.gr/meetings/theta/index.html) : Big Data and Models
+[**Greek Stochastics θ**](http://www.stochastics.gr/meetings/theta/index.html) : Big Data and Models (2016)
 
-[**Greek Stochastics ι**](http://www.stochastics.gr/meetings/iota/) : Model detrmination
+[**Greek Stochastics ι**](http://www.stochastics.gr/meetings/iota/) : Model determination (2017)
 
-[**Greek Stochastics κ**](http://www.stochastics.gr/meetings/kappa/) : Statistical Learning
+[**Greek Stochastics κ**](http://www.stochastics.gr/meetings/kappa/) : Statistical Learning (2018)
 
-[**Greek Stochastics λ**](http://www.stochastics.gr/meetings/lambda/) : Stochastic processes and computation
+[**Greek Stochastics λ**](http://www.stochastics.gr/meetings/lambda/) : Stochastic processes and computation (2019)
 
 
 
