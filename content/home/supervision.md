@@ -47,7 +47,7 @@ subtitle = ""
  css_class = ""
 +++
 
-## [**Post-doctoral students**]
+## Post-doctoral students
 
 - Angelos Alexopoulos 2019-
 - Anastasios Plataniotis 2013-2015
