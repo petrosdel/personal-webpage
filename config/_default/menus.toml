@@ -14,13 +14,19 @@
     weight = 55  # Position of the link in the menu
 
 [[main]]
+  name = "Workshops"
+  url = "#Workshops"
+  weight = 54
+
+
+[[main]]
  name = "Supervision"  # A name for the link.
     url = "#supervision"  # URL of the section.
     weight = 50  # Position of the link in the menu
 
 
 [[main]]
-  name = "Current Projects"
+  name = "Projects"
   url = "#projects"
   weight = 30
 
