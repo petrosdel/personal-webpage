@@ -9,8 +9,8 @@ title = "Petros Dellaportas"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-#baseurl = "https://petrosdel.github.io/"
-baseurl = "http://www.homepages.ucl.ac.uk/~ucakpde/"
+baseurl = "https://petrosdel.github.io/"
+#baseurl = "http://www.homepages.ucl.ac.uk/~ucakpde/"
 
 #<<<<<<< HEAD
 
