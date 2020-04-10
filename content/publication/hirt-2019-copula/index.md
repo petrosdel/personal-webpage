@@ -6,6 +6,6 @@ authors: ["Marcel Hirt", "Petros Dellaportas", "Alain Durmus"]
 publication_types: ["1"]
 abstract: ""
 featured: true
-publication: "*Neurips, to appear*"
+publication: "*Advances in Neural Information Processing Systems*"
 ---
 
