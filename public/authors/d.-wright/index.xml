@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Wright | Petros Dellaportas</title>
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/d.-wright/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/d.-wright/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Wright</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 1992 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <title>D. Wright</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/d.-wright/</link>
+    </image>
+    
+    <item>
+      <title>A Numerical Integration Strategy in Bayesian Analysis</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/data-47/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/data-47/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

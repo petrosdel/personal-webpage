@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul Damien | Petros Dellaportas</title>
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/paul-damien/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/paul-damien/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paul Damien</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <title>Paul Damien</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/paul-damien/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian Theory and Applications</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/damien-2013-bayesian/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/damien-2013-bayesian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

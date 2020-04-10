@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I Guttman | Petros Dellaportas</title>
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/i-guttman/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/i-guttman/index.xml" rel="self" type="application/rss+xml" />
+    <description>I Guttman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 1996 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <title>I Guttman</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/i-guttman/</link>
+    </image>
+    
+    <item>
+      <title>A comparative study of perinatal mortality using a two-component mixture model</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-1996-comparative/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-1996-comparative/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

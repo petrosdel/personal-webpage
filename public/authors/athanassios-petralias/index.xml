@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Athanassios Petralias | Petros Dellaportas</title>
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/athanassios-petralias/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/athanassios-petralias/index.xml" rel="self" type="application/rss+xml" />
+    <description>Athanassios Petralias</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <title>Athanassios Petralias</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/athanassios-petralias/</link>
+    </image>
+    
+    <item>
+      <title>Volatility prediction based on scheduled macroeconomic announcements</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/petralias-2015-volatility/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/petralias-2015-volatility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An MCMC model search algorithm for regression problems</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/petralias-2013-mcmc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/petralias-2013-mcmc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nathan Harmston | Petros Dellaportas</title>
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/nathan-harmston/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/nathan-harmston/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nathan Harmston</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <title>Nathan Harmston</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/nathan-harmston/</link>
+    </image>
+    
+    <item>
+      <title>A Bayesian Approach for Analysis of Whole-Genome Bisulfite Sequencing Data Identifies Disease-Associated Changes in DNA Methylation</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/rackham-2017-bayesian/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/rackham-2017-bayesian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

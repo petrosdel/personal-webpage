@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ronald Cools | Petros Dellaportas</title>
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/ronald-cools/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/ronald-cools/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ronald Cools</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 1996 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <title>Ronald Cools</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/ronald-cools/</link>
+    </image>
+    
+    <item>
+      <title>The role of embedded integration rules in Bayesian statistics</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/cools-1996-role/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/cools-1996-role/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

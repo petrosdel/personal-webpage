@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gareth O Roberts | Petros Dellaportas</title>
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/gareth-o-roberts/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/gareth-o-roberts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gareth O Roberts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <title>Gareth O Roberts</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/gareth-o-roberts/</link>
+    </image>
+    
+    <item>
+      <title>Likelihood-based inference for correlated diffusions</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/kalogeropoulos-2011-likelihood/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/kalogeropoulos-2011-likelihood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inference for stochastic volatility models using time change transformations</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/kalogeropoulos-2010-inference/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/kalogeropoulos-2010-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian model selection for partially observed diffusion models</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2006-bayesian/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2006-bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian inference for non-Gaussian Ornstein--Uhlenbeck stochastic volatility processes</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/roberts-2004-bayesian/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/roberts-2004-bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An introduction to MCMC</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2003-introduction/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2003-introduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An approach to diagnosing total variation convergence of MCMC algorithms</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/brooks-1997-approach/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/brooks-1997-approach/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

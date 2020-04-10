@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohsen Pourahmadi | Petros Dellaportas</title>
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/mohsen-pourahmadi/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/mohsen-pourahmadi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mohsen Pourahmadi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <title>Mohsen Pourahmadi</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/mohsen-pourahmadi/</link>
+    </image>
+    
+    <item>
+      <title>Cholesky-GARCH models with applications to finance</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2012-cholesky/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2012-cholesky/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

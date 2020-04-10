@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G Kokolakis | Petros Dellaportas</title>
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/g-kokolakis/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/g-kokolakis/index.xml" rel="self" type="application/rss+xml" />
+    <description>G Kokolakis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 1996 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <title>G Kokolakis</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/g-kokolakis/</link>
+    </image>
+    
+    <item>
+      <title>Hierarchical modelling for classifying binary data</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/kokolakis-1996-hierarchical/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/kokolakis-1996-hierarchical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

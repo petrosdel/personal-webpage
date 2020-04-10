@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adrian FM Smith | Petros Dellaportas</title>
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/adrian-fm-smith/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/adrian-fm-smith/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adrian FM Smith</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2001 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <title>Adrian FM Smith</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/adrian-fm-smith/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian analysis of mortality data</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2001-bayesian/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2001-bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian inference for generalized linear and proportional hazards models via Gibbs sampling</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-1993-bayesian/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-1993-bayesian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

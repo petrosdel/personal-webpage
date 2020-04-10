@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ioannis Vrontos | Petros Dellaportas</title>
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/ioannis-vrontos/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/ioannis-vrontos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ioannis Vrontos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <title>Ioannis Vrontos</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/ioannis-vrontos/</link>
+    </image>
+    
+    <item>
+      <title>Communication impacting financial markets</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/andersen-2014-communication/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/andersen-2014-communication/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

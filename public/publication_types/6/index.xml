@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | Petros Dellaportas</title>
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/6/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <title>6</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/6/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian Hierarchical Mixture Models</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/bottolo-2015/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/bottolo-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An introduction to MCMC</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2003-introduction/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2003-introduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An approach to multidimensional item response modeling</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/linardakis-2000-approach/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/linardakis-2000-approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian variable selection using the Gibbs sampler</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2000-bayesian/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2000-bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparative study of perinatal mortality using a two-component mixture model</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-1996-comparative/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-1996-comparative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical modelling for classifying binary data</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/kokolakis-1996-hierarchical/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/kokolakis-1996-hierarchical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Numerical Integration Strategy in Bayesian Analysis</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/data-47/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/data-47/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian analysis of generalised linear models with covariate measurement error</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/stephens-1992-bayesian/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/stephens-1992-bayesian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

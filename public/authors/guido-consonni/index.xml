@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guido Consonni | Petros Dellaportas</title>
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/guido-consonni/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/guido-consonni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guido Consonni</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <title>Guido Consonni</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/guido-consonni/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian clustering for row effects models</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/tarantola-2008-bayesian/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/tarantola-2008-bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian analysis of extreme values by mixture modeling</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/bottolo-2003-bayesian/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/bottolo-2003-bayesian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
