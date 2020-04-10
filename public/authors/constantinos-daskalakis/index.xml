@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Constantinos Daskalakis  | Petros Dellaportas</title>
+    <link>https://petrosdel.github.io/authors/constantinos-daskalakis/</link>
+      <atom:link href="https://petrosdel.github.io/authors/constantinos-daskalakis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Constantinos Daskalakis </description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <title>Constantinos Daskalakis </title>
+      <link>https://petrosdel.github.io/authors/constantinos-daskalakis/</link>
+    </image>
+    
+    <item>
+      <title>Faster Gaussian Processes via Deep Embeddings</title>
+      <link>https://petrosdel.github.io/publication/daskalakis2020faster/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/daskalakis2020faster/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

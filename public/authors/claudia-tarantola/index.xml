@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Claudia Tarantola | Petros Dellaportas</title>
-    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/claudia-tarantola/</link>
-      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/claudia-tarantola/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/claudia-tarantola/</link>
+      <atom:link href="https://petrosdel.github.io/authors/claudia-tarantola/index.xml" rel="self" type="application/rss+xml" />
     <description>Claudia Tarantola</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Claudia Tarantola</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/claudia-tarantola/</link>
+      <link>https://petrosdel.github.io/authors/claudia-tarantola/</link>
     </image>
     
     <item>
       <title>Bayesian clustering for row effects models</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/tarantola-2008-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/tarantola-2008-bayesian/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/tarantola-2008-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/tarantola-2008-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model determination for categorical data with factor level merging</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2005-model/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2005-model/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2005-model/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2005-model/</guid>
       <description></description>
     </item>
     

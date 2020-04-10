@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aristeidis Panos | Petros Dellaportas</title>
-    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/aristeidis-panos/</link>
-      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/aristeidis-panos/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/aristeidis-panos/</link>
+      <atom:link href="https://petrosdel.github.io/authors/aristeidis-panos/index.xml" rel="self" type="application/rss+xml" />
     <description>Aristeidis Panos</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Aristeidis Panos</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/aristeidis-panos/</link>
+      <link>https://petrosdel.github.io/authors/aristeidis-panos/</link>
     </image>
     
     <item>
+      <title>Faster Gaussian Processes via Deep Embeddings</title>
+      <link>https://petrosdel.github.io/publication/daskalakis2020faster/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/daskalakis2020faster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fully Scalable Gaussian Processes using Subspace Inducing Inputs</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/panos-2018-fully/</link>
+      <link>https://petrosdel.github.io/publication/panos-2018-fully/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/panos-2018-fully/</guid>
+      <guid>https://petrosdel.github.io/publication/panos-2018-fully/</guid>
       <description></description>
     </item>
     

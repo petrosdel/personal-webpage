@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nial Friel | Petros Dellaportas</title>
-    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/nial-friel/</link>
-      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/nial-friel/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/nial-friel/</link>
+      <atom:link href="https://petrosdel.github.io/authors/nial-friel/index.xml" rel="self" type="application/rss+xml" />
     <description>Nial Friel</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Nial Friel</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/nial-friel/</link>
+      <link>https://petrosdel.github.io/authors/nial-friel/</link>
     </image>
     
     <item>
       <title>Bayesian model selection for partially observed diffusion models</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2006-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2006-bayesian/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2006-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2006-bayesian/</guid>
       <description></description>
     </item>
     

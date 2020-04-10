@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luigi Spezia | Petros Dellaportas</title>
-    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/luigi-spezia/</link>
-      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/luigi-spezia/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/luigi-spezia/</link>
+      <atom:link href="https://petrosdel.github.io/authors/luigi-spezia/index.xml" rel="self" type="application/rss+xml" />
     <description>Luigi Spezia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Luigi Spezia</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/luigi-spezia/</link>
+      <link>https://petrosdel.github.io/authors/luigi-spezia/</link>
     </image>
     
     <item>
       <title>Periodic Markov switching autoregressive models for Bayesian analysis and forecasting of air pollution</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/spezia-2004-periodic/</link>
+      <link>https://petrosdel.github.io/publication/spezia-2004-periodic/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/spezia-2004-periodic/</guid>
+      <guid>https://petrosdel.github.io/publication/spezia-2004-periodic/</guid>
       <description></description>
     </item>
     
