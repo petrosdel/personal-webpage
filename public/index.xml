@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/</link>
-      <atom:link href="https://petrosdel.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/index.xml" rel="self" type="application/rss+xml" />
     <description>Petros Dellaportas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
       <title>Petros Dellaportas</title>
-      <link>https://petrosdel.github.io/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/</link>
     </image>
     
     <item>
       <title>Publications</title>
-      <link>https://petrosdel.github.io/publication/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>https://petrosdel.github.io/post/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/post/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://petrosdel.github.io/project/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/project/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://petrosdel.github.io/talk/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/talk/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/talk/</guid>
       <description></description>
     </item>
     

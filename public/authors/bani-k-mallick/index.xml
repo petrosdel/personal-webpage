@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bani K Mallick | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/authors/bani-k-mallick/</link>
-      <atom:link href="https://petrosdel.github.io/authors/bani-k-mallick/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/bani-k-mallick/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/bani-k-mallick/index.xml" rel="self" type="application/rss+xml" />
     <description>Bani K Mallick</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2001 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
       <title>Bani K Mallick</title>
-      <link>https://petrosdel.github.io/authors/bani-k-mallick/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/bani-k-mallick/</link>
     </image>
     
     <item>
       <title>Wind speed prediction in a complex terrain</title>
-      <link>https://petrosdel.github.io/publication/denison-2001-wind/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/denison-2001-wind/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/denison-2001-wind/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/denison-2001-wind/</guid>
       <description></description>
     </item>
     
