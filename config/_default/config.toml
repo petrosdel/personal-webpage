@@ -9,8 +9,8 @@ title = "Petros Dellaportas"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-#baseurl = "https://petrosdel.github.io/"
-baseurl = "http://www.homepages.ucl.ac.uk/~ucakpde/"
+baseurl = "https://petrosdel.github.io/"
+#baseurl = "http://www.homepages.ucl.ac.uk/~ucakpde/"
 
 
 # Enter a copyright notice to display in the site footer.
@@ -18,7 +18,7 @@ baseurl = "http://www.homepages.ucl.ac.uk/~ucakpde/"
 copyright = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-150758773-1"
 
 ############################
 ## Advanced options below ##

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michalis Linardakis | Petros Dellaportas</title>
-    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/michalis-linardakis/</link>
-      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/michalis-linardakis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/michalis-linardakis/</link>
+      <atom:link href="https://petrosdel.github.io/authors/michalis-linardakis/index.xml" rel="self" type="application/rss+xml" />
     <description>Michalis Linardakis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Michalis Linardakis</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/michalis-linardakis/</link>
+      <link>https://petrosdel.github.io/authors/michalis-linardakis/</link>
     </image>
     
     <item>
       <title>Assessment of Athens&#39;s metro passenger behaviour via a multiranked probit model</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/linardakis-2003-assessment/</link>
+      <link>https://petrosdel.github.io/publication/linardakis-2003-assessment/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/linardakis-2003-assessment/</guid>
+      <guid>https://petrosdel.github.io/publication/linardakis-2003-assessment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An approach to multidimensional item response modeling</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/linardakis-2000-approach/</link>
+      <link>https://petrosdel.github.io/publication/linardakis-2000-approach/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/linardakis-2000-approach/</guid>
+      <guid>https://petrosdel.github.io/publication/linardakis-2000-approach/</guid>
       <description></description>
     </item>
     
