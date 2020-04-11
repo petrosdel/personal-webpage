@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christos Kotsogiannis | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/authors/christos-kotsogiannis/</link>
-      <atom:link href="https://petrosdel.github.io/authors/christos-kotsogiannis/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/christos-kotsogiannis/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/christos-kotsogiannis/index.xml" rel="self" type="application/rss+xml" />
     <description>Christos Kotsogiannis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
       <title>Christos Kotsogiannis</title>
-      <link>https://petrosdel.github.io/authors/christos-kotsogiannis/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/christos-kotsogiannis/</link>
     </image>
     
     <item>
       <title>Sample size determination for risk-based tax auditing</title>
-      <link>https://petrosdel.github.io/publication/dellaportas-2019-sample/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2019-sample/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/dellaportas-2019-sample/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2019-sample/</guid>
       <description></description>
     </item>
     
