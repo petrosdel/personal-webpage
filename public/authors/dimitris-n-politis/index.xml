@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dimitris N Politis | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/authors/dimitris-n-politis/</link>
-      <atom:link href="https://petrosdel.github.io/authors/dimitris-n-politis/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/dimitris-n-politis/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/dimitris-n-politis/index.xml" rel="self" type="application/rss+xml" />
     <description>Dimitris N Politis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
       <title>Dimitris N Politis</title>
-      <link>https://petrosdel.github.io/authors/dimitris-n-politis/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/dimitris-n-politis/</link>
     </image>
     
     <item>
       <title>Bayesian analysis of the unobserved arch model</title>
-      <link>https://petrosdel.github.io/publication/giakoumatos-2005-bayesian/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/giakoumatos-2005-bayesian/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/giakoumatos-2005-bayesian/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/giakoumatos-2005-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A full-factor multivariate GARCH model</title>
-      <link>https://petrosdel.github.io/publication/vrontos-2003-full/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/vrontos-2003-full/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/vrontos-2003-full/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/vrontos-2003-full/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inference for some multivariate ARCH and GARCH models</title>
-      <link>https://petrosdel.github.io/publication/vrontos-2003-inference/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/vrontos-2003-inference/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/vrontos-2003-inference/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/vrontos-2003-inference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An application of three bivariate time-varying volatility models</title>
-      <link>https://petrosdel.github.io/publication/vrontos-2001-application/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/vrontos-2001-application/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/vrontos-2001-application/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/vrontos-2001-application/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Full Bayesian inference for GARCH and EGARCH models</title>
-      <link>https://petrosdel.github.io/publication/vrontos-2000-full/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/vrontos-2000-full/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/vrontos-2000-full/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/vrontos-2000-full/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Markov chain Monte Carlo convergence diagnostic using subsampling</title>
-      <link>https://petrosdel.github.io/publication/giakoumatos-1999-markov/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/giakoumatos-1999-markov/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/giakoumatos-1999-markov/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/giakoumatos-1999-markov/</guid>
       <description></description>
     </item>
     

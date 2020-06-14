@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David GT Denison | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/authors/david-gt-denison/</link>
-      <atom:link href="https://petrosdel.github.io/authors/david-gt-denison/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/david-gt-denison/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/david-gt-denison/index.xml" rel="self" type="application/rss+xml" />
     <description>David GT Denison</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
       <title>David GT Denison</title>
-      <link>https://petrosdel.github.io/authors/david-gt-denison/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/david-gt-denison/</link>
     </image>
     
     <item>
       <title>Flexible threshold models for modelling interest rate volatility</title>
-      <link>https://petrosdel.github.io/publication/dellaportas-2007-flexible/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2007-flexible/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/dellaportas-2007-flexible/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2007-flexible/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wind speed prediction in a complex terrain</title>
-      <link>https://petrosdel.github.io/publication/denison-2001-wind/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/denison-2001-wind/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/denison-2001-wind/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/denison-2001-wind/</guid>
       <description></description>
     </item>
     
