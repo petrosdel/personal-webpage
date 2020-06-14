@@ -5,7 +5,7 @@
     <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/aristeidis-panos/</link>
       <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/aristeidis-panos/index.xml" rel="self" type="application/rss+xml" />
     <description>Aristeidis Panos</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
       <title>Aristeidis Panos</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Fully Scalable Gaussian Processes using Subspace Inducing Inputs</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/panos-2018-fully/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/panos-2018-fully/</guid>
+      <title>Scalable Gaussian Processes, with Guarantees: Kernel Approximations and Deep Feature Extraction</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Scalable Gaussian Processes, with Guarantees: Kernel Approximations and Deep Feature Extraction</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</guid>
+      <title>Fully Scalable Gaussian Processes using Subspace Inducing Inputs</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/panos-2018-fully/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/panos-2018-fully/</guid>
       <description></description>
     </item>
     

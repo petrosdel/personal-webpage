@@ -3,6 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/3/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/aristeidis-panos/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/constantinos-daskalakis/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/petros-dellaportas/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/0/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -34,16 +79,6 @@
   
   <url>
     <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/angelos-alexopoulos/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/aristeidis-panos/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -129,26 +164,6 @@
   
   <url>
     <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/omiros-papaspiliopoulos/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/petros-dellaportas/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -862,19 +877,11 @@
   </url>
   
   <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/3/</loc>
-  </url>
-  
-  <url>
     <loc>http://www.homepages.ucl.ac.uk/~ucakpde/tags/alan-turing-institute/</loc>
   </url>
   
   <url>
     <loc>http://www.homepages.ucl.ac.uk/~ucakpde/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/constantinos-daskalakis/</loc>
   </url>
   
   <url>
@@ -903,10 +910,6 @@
   
   <url>
     <loc>http://www.homepages.ucl.ac.uk/~ucakpde/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</loc>
   </url>
   
   <url>
