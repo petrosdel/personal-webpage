@@ -1,7 +1,7 @@
 ---
-title: "Faster Gaussian Processes via Deep Embeddings"
-date: 2020-01-01
-publishDate: 2020-04-09T18:32:18.115422Z
+title: "Scalable Gaussian Processes, with Guarantees: Kernel Approximations and Deep Feature Extraction"
+date: 2020-04-03
+publishDate: 14:15:10
 authors: ["Constantinos Daskalakis ",  "Petros Dellaportas", "Aristeidis Panos"]
 publication_types: ["3"]
 abstract: ""

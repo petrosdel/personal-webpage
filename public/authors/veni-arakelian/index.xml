@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Veni Arakelian | Petros Dellaportas</title>
-    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/veni-arakelian/</link>
-      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/veni-arakelian/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/veni-arakelian/</link>
+      <atom:link href="https://petrosdel.github.io/authors/veni-arakelian/index.xml" rel="self" type="application/rss+xml" />
     <description>Veni Arakelian</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Veni Arakelian</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/veni-arakelian/</link>
+      <link>https://petrosdel.github.io/authors/veni-arakelian/</link>
     </image>
     
     <item>
       <title>Sovereign risk zones in Europe during and after the debt crisis</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/arakelian-2019-sovereign/</link>
+      <link>https://petrosdel.github.io/publication/arakelian-2019-sovereign/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/arakelian-2019-sovereign/</guid>
+      <guid>https://petrosdel.github.io/publication/arakelian-2019-sovereign/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contagion determination via copula and volatility threshold models</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/arakelian-2012-contagion/</link>
+      <link>https://petrosdel.github.io/publication/arakelian-2012-contagion/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/arakelian-2012-contagion/</guid>
+      <guid>https://petrosdel.github.io/publication/arakelian-2012-contagion/</guid>
       <description></description>
     </item>
     

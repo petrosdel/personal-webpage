@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AFM Smith | Petros Dellaportas</title>
-    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/afm-smith/</link>
-      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/afm-smith/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/afm-smith/</link>
+      <atom:link href="https://petrosdel.github.io/authors/afm-smith/index.xml" rel="self" type="application/rss+xml" />
     <description>AFM Smith</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 1996 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>AFM Smith</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/afm-smith/</link>
+      <link>https://petrosdel.github.io/authors/afm-smith/</link>
     </image>
     
     <item>
       <title>A comparative study of perinatal mortality using a two-component mixture model</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-1996-comparative/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-1996-comparative/</link>
       <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-1996-comparative/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-1996-comparative/</guid>
       <description></description>
     </item>
     

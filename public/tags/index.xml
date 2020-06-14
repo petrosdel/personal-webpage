@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Petros Dellaportas</title>
-    <link>http://www.homepages.ucl.ac.uk/~ucakpde/tags/</link>
-      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/tags/</link>
+      <atom:link href="https://petrosdel.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Tags</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/tags/</link>
+      <link>https://petrosdel.github.io/tags/</link>
     </image>
     
     <item>
       <title>Alan Turing Institute</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/tags/alan-turing-institute/</link>
+      <link>https://petrosdel.github.io/tags/alan-turing-institute/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/tags/alan-turing-institute/</guid>
+      <guid>https://petrosdel.github.io/tags/alan-turing-institute/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic pricing</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/tags/dynamic-pricing/</link>
+      <link>https://petrosdel.github.io/tags/dynamic-pricing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/tags/dynamic-pricing/</guid>
+      <guid>https://petrosdel.github.io/tags/dynamic-pricing/</guid>
       <description></description>
     </item>
     
