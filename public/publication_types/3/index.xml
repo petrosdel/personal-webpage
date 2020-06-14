@@ -5,7 +5,7 @@
     <link>https://petrosdel.github.io/publication_types/3/</link>
       <atom:link href="https://petrosdel.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>3</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Scalable Gaussian Processes, with Guarantees: Kernel Approximations and Deep Feature Extraction</title>
       <link>https://petrosdel.github.io/publication/daskalakis2020scalable/</link>
-      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://petrosdel.github.io/publication/daskalakis2020scalable/</guid>
       <description></description>
     </item>

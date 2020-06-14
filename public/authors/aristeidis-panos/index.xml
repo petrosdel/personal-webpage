@@ -5,7 +5,7 @@
     <link>https://petrosdel.github.io/authors/aristeidis-panos/</link>
       <atom:link href="https://petrosdel.github.io/authors/aristeidis-panos/index.xml" rel="self" type="application/rss+xml" />
     <description>Aristeidis Panos</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Aristeidis Panos</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Scalable Gaussian Processes, with Guarantees: Kernel Approximations and Deep Feature Extraction</title>
-      <link>https://petrosdel.github.io/publication/daskalakis2020scalable/</link>
-      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/daskalakis2020scalable/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Fully Scalable Gaussian Processes using Subspace Inducing Inputs</title>
       <link>https://petrosdel.github.io/publication/panos-2018-fully/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://petrosdel.github.io/publication/panos-2018-fully/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Gaussian Processes, with Guarantees: Kernel Approximations and Deep Feature Extraction</title>
+      <link>https://petrosdel.github.io/publication/daskalakis2020scalable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/daskalakis2020scalable/</guid>
       <description></description>
     </item>
     
