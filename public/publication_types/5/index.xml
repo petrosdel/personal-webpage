@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>5 | Petros Dellaportas</title>
-    <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/5/</link>
-      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/publication_types/5/</link>
+      <atom:link href="https://petrosdel.github.io/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
     <description>5</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>5</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/5/</link>
+      <link>https://petrosdel.github.io/publication_types/5/</link>
     </image>
     
     <item>
       <title>Bayesian Theory and Applications</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/damien-2013-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/damien-2013-bayesian/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/damien-2013-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/damien-2013-bayesian/</guid>
       <description></description>
     </item>
     

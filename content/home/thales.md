@@ -56,3 +56,8 @@ Thales + Friends works to bridge the chasm between mathematics and other forms o
 - [**Delphi Conference: Circles Disturbed**](http://thalesandfriends.org/delphi-conference/). See the proceedings of the conference  in this [**book**](http://press.princeton.edu/titles/9764.html) edited by 
 Apostolos Doxiadis and Barry Mazur.
 
+Some of my public lectures about probability and statistics (in Greek) are here:
+
+- [**youtube channel**](https://www.youtube.com/user/thalesandfriends/search?query=%CE%94%CE%B5%CE%BB%CE%BB%CE%B1%CF%80%CF%8C%CF%81%CF%84%CE%B1%CF%82)
+
+- [**Bodossaki lectures on demand**](https://www.blod.gr/speakers/dellaportas-petros/)

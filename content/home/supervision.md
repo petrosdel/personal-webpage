@@ -49,7 +49,8 @@ subtitle = ""
 
 ## Post-doctoral students
 
-- Angelos Alexopoulos 2019-
+- Aristeidis Panos (jointly with Ioannis Kosmidis) 2020-2021
+- Angelos Alexopoulos 2019
 - Anastasios Plataniotis 2013-2015
 - Athanassios Petralias  2013
 - Ioannis Dendramis  2013
@@ -66,15 +67,16 @@ subtitle = ""
 ## PhD students
 
 
+- Jeremy Sellier -- "Modelling Poisson processes", current, UCL
 - Marta Grzeskiewicz -- "Policy search via multitask Gaussian processes and reinforcement learning", current, UCL
 - William Greenall -- "Economic Modelling Applications of Reinforcement Learning Techniques", current, UCL
 - Jacopo Thomas Capra -- "Portfolio construction with macro views", current, UCL
 - Marcel Hirt -- "Price impact in high frequency markets", current, UCL
 - Zhongzhen Wang -- "Tensor factorisations for event sequence forecasting" (jointly supervised with Ioannis Kosmidis ), current, UCL
-- Santhosh Narayanan -- "Point processes for sports modelling" (jointly supervised with Ioannis Kosmidis ), current, Warwick
+- Santhosh Narayanan -- "Point processes for sports modelling" (jointly supervised with Ioannis Kosmidis ), 2020
 - Fiori Labrinakou -- "Modelling of High frequency trading", current,AUEB
 - Aris Panos -- "Extreme multi-label learning with Gaussian processes", 2019
-- Angelos Alexopoulos -- "Bayesian modelling of high dimensional financial data using latent Gaussian models",2017
+- Angelos Alexopoulos -- "Bayesian modelling of high dimensional financial data using latent Gaussian models", 2017
 - Zoe Tsourti -- "Issues of Markov Chain Monte Carlo", 2012
 - Athanassios Petralias -- "Bayesian Model Determination and Nonlinear Threshold Volatility Models", 2011
 - Anastasios Plataniotis -- "Multivariate Stochastic Volatility Models", 2011
