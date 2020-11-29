@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anastasios Plataniotis | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/authors/anastasios-plataniotis/</link>
-      <atom:link href="https://petrosdel.github.io/authors/anastasios-plataniotis/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/anastasios-plataniotis/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/anastasios-plataniotis/index.xml" rel="self" type="application/rss+xml" />
     <description>Anastasios Plataniotis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
       <title>Anastasios Plataniotis</title>
-      <link>https://petrosdel.github.io/authors/anastasios-plataniotis/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/anastasios-plataniotis/</link>
     </image>
     
     <item>
       <title>Scalable inference for a full multivariate stochastic volatility model</title>
-      <link>https://petrosdel.github.io/publication/dellaportas-2015-scalable/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2015-scalable/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/dellaportas-2015-scalable/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2015-scalable/</guid>
       <description></description>
     </item>
     
