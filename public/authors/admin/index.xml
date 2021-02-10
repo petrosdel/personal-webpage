@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Petros Dellaportas</title>
-    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/admin/</link>
-      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/admin/</link>
+      <atom:link href="https://petrosdel.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Petros Dellaportas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Petros Dellaportas</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/admin/</link>
+      <link>https://petrosdel.github.io/authors/admin/</link>
     </image>
     
   </channel>

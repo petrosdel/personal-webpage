@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Petros Dellaportas</title>
-    <link>http://www.homepages.ucl.ac.uk/~ucakpde/project/</link>
-      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/project/</link>
+      <atom:link href="https://petrosdel.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Projects</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/project/</link>
+      <link>https://petrosdel.github.io/project/</link>
     </image>
     
     <item>
       <title>Detecting anomalies in the VAT network</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/project/detecting-anomalies-in-the-vat-network-project/</link>
+      <link>https://petrosdel.github.io/project/detecting-anomalies-in-the-vat-network-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/project/detecting-anomalies-in-the-vat-network-project/</guid>
+      <guid>https://petrosdel.github.io/project/detecting-anomalies-in-the-vat-network-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Forecasting with large macroeconomic and financial datasets</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/project/forecasting-with-large-macroeconomic-and-financial-datasets-project/</link>
+      <link>https://petrosdel.github.io/project/forecasting-with-large-macroeconomic-and-financial-datasets-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/project/forecasting-with-large-macroeconomic-and-financial-datasets-project/</guid>
+      <guid>https://petrosdel.github.io/project/forecasting-with-large-macroeconomic-and-financial-datasets-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reinforcement learning in economics</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/project/dynamic-pricing-project/</link>
+      <link>https://petrosdel.github.io/project/dynamic-pricing-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/project/dynamic-pricing-project/</guid>
+      <guid>https://petrosdel.github.io/project/dynamic-pricing-project/</guid>
       <description></description>
     </item>
     
