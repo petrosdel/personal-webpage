@@ -8,7 +8,7 @@ date: ""
 #external_link: https://www.turing.ac.uk/research/research-projects/forecasting-large-macroeconomi#c-and-financial-datasets
 
 image:
-   caption: Photo by from Wikipedia
+   caption: Photo from Wikipedia
    focal_point: Smart
 
 #links:

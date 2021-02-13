@@ -33,6 +33,16 @@ subtitle = ""
      name = "Dynamic pricing"
      tag = "Dynamic pricing"
 
+
+    [[content.filter_button]]
+     name = "Poisson processes for  identity systems and cyber security"
+     tag = "Poisson processes for  identity systems and cyber security"
+
+    [[content.filter_button]]
+     name = "Reservoir Computing for Macroeconomic Modelling"
+     tag = "Reservoir Computing for Macroeconomic Modelling"
+
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
