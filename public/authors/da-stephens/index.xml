@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DA Stephens | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/authors/da-stephens/</link>
-      <atom:link href="https://petrosdel.github.io/authors/da-stephens/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/da-stephens/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/da-stephens/index.xml" rel="self" type="application/rss+xml" />
     <description>DA Stephens</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 1996 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
       <title>DA Stephens</title>
-      <link>https://petrosdel.github.io/authors/da-stephens/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/da-stephens/</link>
     </image>
     
     <item>
       <title>A comparative study of perinatal mortality using a two-component mixture model</title>
-      <link>https://petrosdel.github.io/publication/dellaportas-1996-comparative/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-1996-comparative/</link>
       <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/dellaportas-1996-comparative/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-1996-comparative/</guid>
       <description></description>
     </item>
     
