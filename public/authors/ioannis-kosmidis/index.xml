@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ioannis Kosmidis | Petros Dellaportas</title>
+    <link>https://petrosdel.github.io/authors/ioannis-kosmidis/</link>
+      <atom:link href="https://petrosdel.github.io/authors/ioannis-kosmidis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ioannis Kosmidis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <title>Ioannis Kosmidis</title>
+      <link>https://petrosdel.github.io/authors/ioannis-kosmidis/</link>
+    </image>
+    
+    <item>
+      <title>Flexible marked spatio-temporal point processes with applications to event sequences from association football</title>
+      <link>https://petrosdel.github.io/publication/narayanan2021flexible/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/narayanan2021flexible/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

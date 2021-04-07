@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alain Durmus | Petros Dellaportas</title>
-    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/alain-durmus/</link>
-      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/alain-durmus/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/alain-durmus/</link>
+      <atom:link href="https://petrosdel.github.io/authors/alain-durmus/index.xml" rel="self" type="application/rss+xml" />
     <description>Alain Durmus</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Alain Durmus</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/alain-durmus/</link>
+      <link>https://petrosdel.github.io/authors/alain-durmus/</link>
     </image>
     
     <item>
       <title>Copula-like Variational Inference</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/hirt-2019-copula/</link>
+      <link>https://petrosdel.github.io/publication/hirt-2019-copula/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/hirt-2019-copula/</guid>
+      <guid>https://petrosdel.github.io/publication/hirt-2019-copula/</guid>
       <description></description>
     </item>
     

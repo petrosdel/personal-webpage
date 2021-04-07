@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michalis K Titsias | Petros Dellaportas</title>
-    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/michalis-k-titsias/</link>
-      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/michalis-k-titsias/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/michalis-k-titsias/</link>
+      <atom:link href="https://petrosdel.github.io/authors/michalis-k-titsias/index.xml" rel="self" type="application/rss+xml" />
     <description>Michalis K Titsias</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Michalis K Titsias</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/michalis-k-titsias/</link>
+      <link>https://petrosdel.github.io/authors/michalis-k-titsias/</link>
     </image>
     
     <item>
       <title>Large scale multi-label learning using Gaussian processes</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/panos-2021-large/</link>
+      <link>https://petrosdel.github.io/publication/panos-2021-large/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/panos-2021-large/</guid>
+      <guid>https://petrosdel.github.io/publication/panos-2021-large/</guid>
       <description></description>
     </item>
     

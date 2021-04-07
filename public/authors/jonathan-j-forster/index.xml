@@ -2,69 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jonathan J Forster | Petros Dellaportas</title>
-    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/jonathan-j-forster/</link>
-      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/jonathan-j-forster/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/jonathan-j-forster/</link>
+      <atom:link href="https://petrosdel.github.io/authors/jonathan-j-forster/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonathan J Forster</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Jonathan J Forster</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/jonathan-j-forster/</link>
+      <link>https://petrosdel.github.io/authors/jonathan-j-forster/</link>
     </image>
     
     <item>
-      <title>Bayesian forecasting of mortality rates by using latent Gaussian models</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos-2019-bayesian/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos-2019-bayesian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Joint specification of model space and parameter space prior distributions</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2012-joint/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2012-joint/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2012-joint/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2012-joint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian variable and link determination for generalised linear models</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/ntzoufras-2003-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/ntzoufras-2003-bayesian/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/ntzoufras-2003-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/ntzoufras-2003-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Bayesian model and variable selection using MCMC</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2002-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2002-bayesian/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2002-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2002-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian variable selection using the Gibbs sampler</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2000-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2000-bayesian/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2000-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2000-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stochastic search variable selection for log-linear models</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/ntzoufras-2000-stochastic/</link>
+      <link>https://petrosdel.github.io/publication/ntzoufras-2000-stochastic/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/ntzoufras-2000-stochastic/</guid>
+      <guid>https://petrosdel.github.io/publication/ntzoufras-2000-stochastic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markov chain Monte Carlo model determination for hierarchical and graphical log-linear models</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-1999-markov/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-1999-markov/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-1999-markov/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-1999-markov/</guid>
       <description></description>
     </item>
     
