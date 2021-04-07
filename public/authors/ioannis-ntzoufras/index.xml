@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ioannis Ntzoufras | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/authors/ioannis-ntzoufras/</link>
-      <atom:link href="https://petrosdel.github.io/authors/ioannis-ntzoufras/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/ioannis-ntzoufras/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/ioannis-ntzoufras/index.xml" rel="self" type="application/rss+xml" />
     <description>Ioannis Ntzoufras</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
       <title>Ioannis Ntzoufras</title>
-      <link>https://petrosdel.github.io/authors/ioannis-ntzoufras/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/ioannis-ntzoufras/</link>
     </image>
     
     <item>
       <title>Joint specification of model space and parameter space prior distributions</title>
-      <link>https://petrosdel.github.io/publication/dellaportas-2012-joint/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2012-joint/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/dellaportas-2012-joint/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2012-joint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian variable and link determination for generalised linear models</title>
-      <link>https://petrosdel.github.io/publication/ntzoufras-2003-bayesian/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/ntzoufras-2003-bayesian/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/ntzoufras-2003-bayesian/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/ntzoufras-2003-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian modelling of outstanding liabilities incorporating claim count uncertainty</title>
-      <link>https://petrosdel.github.io/publication/ntzoufras-2002-bayesian/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/ntzoufras-2002-bayesian/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/ntzoufras-2002-bayesian/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/ntzoufras-2002-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Bayesian model and variable selection using MCMC</title>
-      <link>https://petrosdel.github.io/publication/dellaportas-2002-bayesian/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2002-bayesian/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/dellaportas-2002-bayesian/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2002-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian variable selection using the Gibbs sampler</title>
-      <link>https://petrosdel.github.io/publication/dellaportas-2000-bayesian/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2000-bayesian/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/dellaportas-2000-bayesian/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2000-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stochastic search variable selection for log-linear models</title>
-      <link>https://petrosdel.github.io/publication/ntzoufras-2000-stochastic/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/ntzoufras-2000-stochastic/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/ntzoufras-2000-stochastic/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/ntzoufras-2000-stochastic/</guid>
       <description></description>
     </item>
     

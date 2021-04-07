@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Angelos Alexopoulos | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/authors/angelos-alexopoulos/</link>
-      <atom:link href="https://petrosdel.github.io/authors/angelos-alexopoulos/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/angelos-alexopoulos/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/angelos-alexopoulos/index.xml" rel="self" type="application/rss+xml" />
     <description>Angelos Alexopoulos</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
       <title>Angelos Alexopoulos</title>
-      <link>https://petrosdel.github.io/authors/angelos-alexopoulos/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/angelos-alexopoulos/</link>
     </image>
     
     <item>
       <title>Bayesian prediction of jumps in large panels of time series data</title>
-      <link>https://petrosdel.github.io/publication/alexopoulos-2019-bayesianjumps/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos-2019-bayesianjumps/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/alexopoulos-2019-bayesianjumps/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos-2019-bayesianjumps/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maria Kateri | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/authors/maria-kateri/</link>
-      <atom:link href="https://petrosdel.github.io/authors/maria-kateri/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/maria-kateri/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/maria-kateri/index.xml" rel="self" type="application/rss+xml" />
     <description>Maria Kateri</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
       <title>Maria Kateri</title>
-      <link>https://petrosdel.github.io/authors/maria-kateri/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/maria-kateri/</link>
     </image>
     
     <item>
       <title>Conditional symmetry models for three-way contingency tables</title>
-      <link>https://petrosdel.github.io/publication/kateri-2012-conditional/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/kateri-2012-conditional/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/kateri-2012-conditional/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/kateri-2012-conditional/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian analysis of correlated proportions</title>
-      <link>https://petrosdel.github.io/publication/kateri-2001-bayesian/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/kateri-2001-bayesian/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/kateri-2001-bayesian/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/kateri-2001-bayesian/</guid>
       <description></description>
     </item>
     

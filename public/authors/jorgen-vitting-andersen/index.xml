@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jorgen Vitting Andersen | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/authors/jorgen-vitting-andersen/</link>
-      <atom:link href="https://petrosdel.github.io/authors/jorgen-vitting-andersen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/jorgen-vitting-andersen/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/jorgen-vitting-andersen/index.xml" rel="self" type="application/rss+xml" />
     <description>Jorgen Vitting Andersen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
       <title>Jorgen Vitting Andersen</title>
-      <link>https://petrosdel.github.io/authors/jorgen-vitting-andersen/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/jorgen-vitting-andersen/</link>
     </image>
     
     <item>
       <title>Communication impacting financial markets</title>
-      <link>https://petrosdel.github.io/publication/andersen-2014-communication/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/andersen-2014-communication/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/andersen-2014-communication/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/andersen-2014-communication/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vasilis GS Vasdekis | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/authors/vasilis-gs-vasdekis/</link>
-      <atom:link href="https://petrosdel.github.io/authors/vasilis-gs-vasdekis/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/vasilis-gs-vasdekis/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/vasilis-gs-vasdekis/index.xml" rel="self" type="application/rss+xml" />
     <description>Vasilis GS Vasdekis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
       <title>Vasilis GS Vasdekis</title>
-      <link>https://petrosdel.github.io/authors/vasilis-gs-vasdekis/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/vasilis-gs-vasdekis/</link>
     </image>
     
     <item>
       <title>A novel reversible jump algorithm for generalized linear models</title>
-      <link>https://petrosdel.github.io/publication/papathomas-2011-novel/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/papathomas-2011-novel/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/papathomas-2011-novel/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/papathomas-2011-novel/</guid>
       <description></description>
     </item>
     
