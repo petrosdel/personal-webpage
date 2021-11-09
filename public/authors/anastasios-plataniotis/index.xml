@@ -5,12 +5,20 @@
     <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/anastasios-plataniotis/</link>
       <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/anastasios-plataniotis/index.xml" rel="self" type="application/rss+xml" />
     <description>Anastasios Plataniotis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
       <title>Anastasios Plataniotis</title>
       <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/anastasios-plataniotis/</link>
     </image>
+    
+    <item>
+      <title>Scalable inference for a full multivariate stochastic volatility model</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2021-scalable/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2021-scalable/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Scalable inference for a full multivariate stochastic volatility model</title>

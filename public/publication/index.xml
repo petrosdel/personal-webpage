@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Entropy-based adaptive Hamiltonian Monte Carlo</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/hirt-2021-hmc/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/hirt-2021-hmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Flexible marked spatio-temporal point processes with applications to event sequences from association football</title>
       <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/narayanan2021flexible/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -45,6 +53,14 @@
     </item>
     
     <item>
+      <title>Scalable inference for a full multivariate stochastic volatility model</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2021-scalable/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2021-scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Interview with Professor Adrian FM Smith</title>
       <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas2020interview/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -65,6 +81,14 @@
       <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian forecasting of mortality rates by using latent Gaussian models</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos-2019-bayesian/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos-2019-bayesian/</guid>
       <description></description>
     </item>
     

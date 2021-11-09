@@ -8,6 +8,21 @@
   </url>
   
   <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/1/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/2/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/anastasios-plataniotis/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/angelos-alexopoulos/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -28,6 +43,11 @@
   </url>
   
   <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/hirt-2021-hmc/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/narayanan2021flexible/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -43,6 +63,11 @@
   </url>
   
   <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/katerina-petrova/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/panos-2021-large/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -53,7 +78,17 @@
   </url>
   
   <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/marcel-hirt/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/michalis-k-titsias/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/michalis-titsias/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,13 +123,13 @@
   </url>
   
   <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/yvo-pokern/</loc>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2021-scalable/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/1/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/yvo-pokern/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -138,11 +173,6 @@
   </url>
   
   <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/2/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/alain-durmus/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -153,12 +183,12 @@
   </url>
   
   <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/anastasios-plataniotis/</loc>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/axel-finke/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/axel-finke/</loc>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos-2019-bayesian/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -183,7 +213,7 @@
   </url>
   
   <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/marcel-hirt/</loc>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/jonathan-j-forster/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -414,11 +444,6 @@
   
   <url>
     <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2012-joint/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/jonathan-j-forster/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
