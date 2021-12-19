@@ -3,12 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/0/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/1/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/1/</loc>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/aristeidis-panos/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/constantinos-daskalakis/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/petros-dellaportas/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/0/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -24,16 +64,6 @@
   
   <url>
     <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/angelos-alexopoulos/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/aristeidis-panos/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -98,26 +128,6 @@
   </url>
   
   <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/petros-dellaportas/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/santhosh-narayanan/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -133,17 +143,7 @@
   </url>
   
   <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/3/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/christos-kotsogiannis/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/constantinos-daskalakis/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -164,11 +164,6 @@
   
   <url>
     <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2020-sample/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   

@@ -5,7 +5,7 @@
     <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/aristeidis-panos/</link>
       <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/aristeidis-panos/index.xml" rel="self" type="application/rss+xml" />
     <description>Aristeidis Panos</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
       <title>Aristeidis Panos</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Large scale multi-label learning using Gaussian processes</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/panos-2021-large/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/panos-2021-large/</guid>
+      <title>How Good are Low-Rank Approximations in Gaussian Process Regression?</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Scalable Gaussian Processes, with Guarantees: Kernel Approximations and Deep Feature Extraction</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</guid>
+      <title>Large scale multi-label learning using Gaussian processes</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/panos-2021-large/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/panos-2021-large/</guid>
       <description></description>
     </item>
     

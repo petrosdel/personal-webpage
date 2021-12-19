@@ -5,12 +5,20 @@
     <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/</link>
       <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
       <title>Publication_types</title>
       <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/</link>
     </image>
+    
+    <item>
+      <title>1</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/1/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>0</title>
@@ -21,26 +29,10 @@
     </item>
     
     <item>
-      <title>1</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/1/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>2</title>
       <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/2/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>3</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/3/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/3/</guid>
       <description></description>
     </item>
     

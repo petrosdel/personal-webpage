@@ -66,15 +66,14 @@ subtitle = ""
 
 ## PhD students
 
-
+- Siran Liu -- "Monte Carlo in machine learning", current, UCL
 - Jeremy Sellier -- "Modelling Poisson processes", current, UCL
-- Marta Grzeskiewicz -- "Policy search via multitask Gaussian processes and reinforcement learning", current, UCL
+- Marta Grzeskiewicz -- "Policy search via reinforcement learning", current, UCL
 - William Greenall -- "Economic Modelling Applications of Reinforcement Learning Techniques", current, UCL
 - Jacopo Thomas Capra -- "Portfolio construction with macro views", current, UCL
-- Marcel Hirt -- "Price impact in high frequency markets", current, UCL
-- Zhongzhen Wang -- "Tensor factorisations for event sequence forecasting" (jointly supervised with Ioannis Kosmidis ), current, UCL
-- Santhosh Narayanan -- "Point processes for sports modelling" (jointly supervised with Ioannis Kosmidis ), 2020
-- Fiori Labrinakou -- "Modelling of High frequency trading", current,AUEB
+- Marcel Hirt -- "Approximate inference methods in probabilistic machine learning and Bayesian statistics", 2021
+- Zhongzhen Wang -- "Statistical modelling approaches with Bayesian tensor factorisations", 2021
+- Fiori Labrinakou -- "An Econometric analysis of high frequency data", 2021
 - Aris Panos -- "Extreme multi-label learning with Gaussian processes", 2019
 - Angelos Alexopoulos -- "Bayesian modelling of high dimensional financial data using latent Gaussian models", 2017
 - Zoe Tsourti -- "Issues of Markov Chain Monte Carlo", 2012

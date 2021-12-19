@@ -1,10 +1,11 @@
 ---
-title: "Scalable Gaussian Processes, with Guarantees: Kernel Approximations and Deep Feature Extraction"
-date: 2020-01-01
+title: "How Good are Low-Rank Approximations in Gaussian Process Regression?"
+date: 2021-12-01
 authors: ["Constantinos Daskalakis ",  "Petros Dellaportas", "Aristeidis Panos"]
-publication_types: ["3"]
+publishDate: 2021-01-15T18:32:18.114475Z
+publication_types: ["1"]
 abstract: ""
 featured: true
-publication: "*arXiv preprint arXiv:2004.01584*"
+publication: "36th AAAI Conference on Artificial Intelligence"
 ---
 
