@@ -69,5 +69,4 @@ subtitle = ""
 
 [**Greek Stochastics λ**](http://www.stochastics.gr/meetings/lambda/) : Stochastic processes and computation (2019)
 
-
-
+[**Greek Stochastics μ**](http://stochastics.gr/meetings/mu/) : Causal learning (2022)

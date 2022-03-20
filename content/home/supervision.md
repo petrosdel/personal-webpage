@@ -49,6 +49,7 @@ subtitle = ""
 
 ## Post-doctoral students
 
+- Marcel Hirt 2021-2022
 - Aristeidis Panos (jointly with Ioannis Kosmidis) 2020-2021
 - Angelos Alexopoulos 2019
 - Anastasios Plataniotis 2013-2015
