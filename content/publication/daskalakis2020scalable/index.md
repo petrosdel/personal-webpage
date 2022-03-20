@@ -6,6 +6,6 @@ publishDate: 2021-01-15T18:32:18.114475Z
 publication_types: ["1"]
 abstract: ""
 featured: true
-publication: "36th AAAI Conference on Artificial Intelligence"
+publication: "36th AAAI Conference on Artificial Intelligence (oral presentation)"
 ---
 
