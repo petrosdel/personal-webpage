@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photis Stavropoulos | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/authors/photis-stavropoulos/</link>
-      <atom:link href="https://petrosdel.github.io/authors/photis-stavropoulos/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/photis-stavropoulos/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/photis-stavropoulos/index.xml" rel="self" type="application/rss+xml" />
     <description>Photis Stavropoulos</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2001 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
       <title>Photis Stavropoulos</title>
-      <link>https://petrosdel.github.io/authors/photis-stavropoulos/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/photis-stavropoulos/</link>
     </image>
     
     <item>
       <title>Bayesian analysis of mortality data</title>
-      <link>https://petrosdel.github.io/publication/dellaportas-2001-bayesian/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2001-bayesian/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/dellaportas-2001-bayesian/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2001-bayesian/</guid>
       <description></description>
     </item>
     
