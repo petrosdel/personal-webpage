@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ioulia Papageorgiou | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/authors/ioulia-papageorgiou/</link>
-      <atom:link href="https://petrosdel.github.io/authors/ioulia-papageorgiou/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/ioulia-papageorgiou/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/ioulia-papageorgiou/index.xml" rel="self" type="application/rss+xml" />
     <description>Ioulia Papageorgiou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
       <title>Ioulia Papageorgiou</title>
-      <link>https://petrosdel.github.io/authors/ioulia-papageorgiou/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/ioulia-papageorgiou/</link>
     </image>
     
     <item>
       <title>Multivariate mixtures of normals with unknown number of components</title>
-      <link>https://petrosdel.github.io/publication/dellaportas-2006-multivariate/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2006-multivariate/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/dellaportas-2006-multivariate/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2006-multivariate/</guid>
       <description></description>
     </item>
     

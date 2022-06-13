@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>0 | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/publication_types/0/</link>
-      <atom:link href="https://petrosdel.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/0/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
       <title>0</title>
-      <link>https://petrosdel.github.io/publication_types/0/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/0/</link>
     </image>
     
     <item>
       <title>Bayesian prediction of jumps in large panels of time series data</title>
-      <link>https://petrosdel.github.io/publication/alexopoulos-2019-bayesianjumps/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos-2019-bayesianjumps/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/alexopoulos-2019-bayesianjumps/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos-2019-bayesianjumps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inference for partially observed Riemannian Ornstein-Uhlenbeck diffusions of covariance matrices</title>
-      <link>https://petrosdel.github.io/publication/bui2021inference/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/bui2021inference/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/bui2021inference/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/bui2021inference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Large scale multi-label learning using Gaussian processes</title>
-      <link>https://petrosdel.github.io/publication/panos-2021-large/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/panos-2021-large/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/panos-2021-large/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/panos-2021-large/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sample size determination for risk-based tax auditing</title>
-      <link>https://petrosdel.github.io/publication/dellaportas-2020-sample/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2020-sample/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/dellaportas-2020-sample/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2020-sample/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scalable inference for a full multivariate stochastic volatility model</title>
-      <link>https://petrosdel.github.io/publication/dellaportas-2015-scalable/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2015-scalable/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/dellaportas-2015-scalable/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2015-scalable/</guid>
       <description></description>
     </item>
     

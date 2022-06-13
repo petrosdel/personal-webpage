@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aristeidis Panos | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/authors/aristeidis-panos/</link>
-      <atom:link href="https://petrosdel.github.io/authors/aristeidis-panos/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/aristeidis-panos/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/aristeidis-panos/index.xml" rel="self" type="application/rss+xml" />
     <description>Aristeidis Panos</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
       <title>Aristeidis Panos</title>
-      <link>https://petrosdel.github.io/authors/aristeidis-panos/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/aristeidis-panos/</link>
     </image>
     
     <item>
       <title>How Good are Low-Rank Approximations in Gaussian Process Regression?</title>
-      <link>https://petrosdel.github.io/publication/daskalakis2020scalable/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/daskalakis2020scalable/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Large scale multi-label learning using Gaussian processes</title>
-      <link>https://petrosdel.github.io/publication/panos-2021-large/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/panos-2021-large/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/panos-2021-large/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/panos-2021-large/</guid>
       <description></description>
     </item>
     
