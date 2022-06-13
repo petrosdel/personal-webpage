@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ioannis D Vrontos | Petros Dellaportas</title>
-    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/ioannis-d-vrontos/</link>
-      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/ioannis-d-vrontos/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/ioannis-d-vrontos/</link>
+      <atom:link href="https://petrosdel.github.io/authors/ioannis-d-vrontos/index.xml" rel="self" type="application/rss+xml" />
     <description>Ioannis D Vrontos</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Ioannis D Vrontos</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/ioannis-d-vrontos/</link>
+      <link>https://petrosdel.github.io/authors/ioannis-d-vrontos/</link>
     </image>
     
     <item>
       <title>Modelling nonlinearities and heavy tails via threshold normal mixture GARCH models</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/giannikis-2008-modelling/</link>
+      <link>https://petrosdel.github.io/publication/giannikis-2008-modelling/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/giannikis-2008-modelling/</guid>
+      <guid>https://petrosdel.github.io/publication/giannikis-2008-modelling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelling volatility asymmetries: a Bayesian analysis of a class of tree structured multivariate GARCH models</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2007-modelling/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2007-modelling/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2007-modelling/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2007-modelling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A full-factor multivariate GARCH model</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/vrontos-2003-full/</link>
+      <link>https://petrosdel.github.io/publication/vrontos-2003-full/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/vrontos-2003-full/</guid>
+      <guid>https://petrosdel.github.io/publication/vrontos-2003-full/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inference for some multivariate ARCH and GARCH models</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/vrontos-2003-inference/</link>
+      <link>https://petrosdel.github.io/publication/vrontos-2003-inference/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/vrontos-2003-inference/</guid>
+      <guid>https://petrosdel.github.io/publication/vrontos-2003-inference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An application of three bivariate time-varying volatility models</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/vrontos-2001-application/</link>
+      <link>https://petrosdel.github.io/publication/vrontos-2001-application/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/vrontos-2001-application/</guid>
+      <guid>https://petrosdel.github.io/publication/vrontos-2001-application/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Full Bayesian inference for GARCH and EGARCH models</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/vrontos-2000-full/</link>
+      <link>https://petrosdel.github.io/publication/vrontos-2000-full/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/vrontos-2000-full/</guid>
+      <guid>https://petrosdel.github.io/publication/vrontos-2000-full/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Markov chain Monte Carlo convergence diagnostic using subsampling</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/giakoumatos-1999-markov/</link>
+      <link>https://petrosdel.github.io/publication/giakoumatos-1999-markov/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/giakoumatos-1999-markov/</guid>
+      <guid>https://petrosdel.github.io/publication/giakoumatos-1999-markov/</guid>
       <description></description>
     </item>
     

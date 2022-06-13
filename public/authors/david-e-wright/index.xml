@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David E Wright | Petros Dellaportas</title>
-    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/david-e-wright/</link>
-      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/david-e-wright/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/david-e-wright/</link>
+      <atom:link href="https://petrosdel.github.io/authors/david-e-wright/index.xml" rel="self" type="application/rss+xml" />
     <description>David E Wright</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 1991 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>David E Wright</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/david-e-wright/</link>
+      <link>https://petrosdel.github.io/authors/david-e-wright/</link>
     </image>
     
     <item>
       <title>Positive embedded integration in Bayesian analysis</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-1991-positive/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-1991-positive/</link>
       <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-1991-positive/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-1991-positive/</guid>
       <description></description>
     </item>
     

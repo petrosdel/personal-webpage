@@ -2,69 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Petros Dellaportas</title>
-    <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/1/</link>
-      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/publication_types/1/</link>
+      <atom:link href="https://petrosdel.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>1</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/1/</link>
+      <link>https://petrosdel.github.io/publication_types/1/</link>
     </image>
     
     <item>
       <title>Variance Reduction for Metropolis-Hastings Samplers</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos2022variance/</link>
+      <link>https://petrosdel.github.io/publication/alexopoulos2022variance/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos2022variance/</guid>
+      <guid>https://petrosdel.github.io/publication/alexopoulos2022variance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Good are Low-Rank Approximations in Gaussian Process Regression?</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</link>
+      <link>https://petrosdel.github.io/publication/daskalakis2020scalable/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</guid>
+      <guid>https://petrosdel.github.io/publication/daskalakis2020scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting anomalies in heterogeneous population-scale VAT networks</title>
+      <link>https://petrosdel.github.io/publication/alexopoulos2021vat/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/alexopoulos2021vat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Entropy-based adaptive Hamiltonian Monte Carlo</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/hirt-2021-hmc/</link>
+      <link>https://petrosdel.github.io/publication/hirt-2021-hmc/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/hirt-2021-hmc/</guid>
+      <guid>https://petrosdel.github.io/publication/hirt-2021-hmc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interview with Professor Adrian FM Smith</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas2020interview/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas2020interview/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas2020interview/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas2020interview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Copula-like Variational Inference</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/hirt-2019-copula/</link>
+      <link>https://petrosdel.github.io/publication/hirt-2019-copula/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/hirt-2019-copula/</guid>
+      <guid>https://petrosdel.github.io/publication/hirt-2019-copula/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gradient-based adaptive Markov chain Monte Carlo</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/titsias-2019-gradient/</link>
+      <link>https://petrosdel.github.io/publication/titsias-2019-gradient/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/titsias-2019-gradient/</guid>
+      <guid>https://petrosdel.github.io/publication/titsias-2019-gradient/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scalable Bayesian Learning for State Space Models using Variational Inference with SMC Samplers</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/hirt-19-a/</link>
+      <link>https://petrosdel.github.io/publication/hirt-19-a/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/hirt-19-a/</guid>
+      <guid>https://petrosdel.github.io/publication/hirt-19-a/</guid>
       <description></description>
     </item>
     

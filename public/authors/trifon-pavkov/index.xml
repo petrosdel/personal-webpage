@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trifon Pavkov | Petros Dellaportas</title>
+    <link>https://petrosdel.github.io/authors/trifon-pavkov/</link>
+      <atom:link href="https://petrosdel.github.io/authors/trifon-pavkov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Trifon Pavkov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <title>Trifon Pavkov</title>
+      <link>https://petrosdel.github.io/authors/trifon-pavkov/</link>
+    </image>
+    
+    <item>
+      <title>Detecting anomalies in heterogeneous population-scale VAT networks</title>
+      <link>https://petrosdel.github.io/publication/alexopoulos2021vat/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/alexopoulos2021vat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

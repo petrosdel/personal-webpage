@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marcel Hirt | Petros Dellaportas</title>
-    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/marcel-hirt/</link>
-      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/marcel-hirt/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/marcel-hirt/</link>
+      <atom:link href="https://petrosdel.github.io/authors/marcel-hirt/index.xml" rel="self" type="application/rss+xml" />
     <description>Marcel Hirt</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Marcel Hirt</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/marcel-hirt/</link>
+      <link>https://petrosdel.github.io/authors/marcel-hirt/</link>
     </image>
     
     <item>
       <title>Entropy-based adaptive Hamiltonian Monte Carlo</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/hirt-2021-hmc/</link>
+      <link>https://petrosdel.github.io/publication/hirt-2021-hmc/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/hirt-2021-hmc/</guid>
+      <guid>https://petrosdel.github.io/publication/hirt-2021-hmc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Copula-like Variational Inference</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/hirt-2019-copula/</link>
+      <link>https://petrosdel.github.io/publication/hirt-2019-copula/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/hirt-2019-copula/</guid>
+      <guid>https://petrosdel.github.io/publication/hirt-2019-copula/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scalable Bayesian Learning for State Space Models using Variational Inference with SMC Samplers</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/hirt-19-a/</link>
+      <link>https://petrosdel.github.io/publication/hirt-19-a/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/hirt-19-a/</guid>
+      <guid>https://petrosdel.github.io/publication/hirt-19-a/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>D Stephens | Petros Dellaportas</title>
-    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/d-stephens/</link>
-      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/d-stephens/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/d-stephens/</link>
+      <atom:link href="https://petrosdel.github.io/authors/d-stephens/index.xml" rel="self" type="application/rss+xml" />
     <description>D Stephens</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 1992 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>D Stephens</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/d-stephens/</link>
+      <link>https://petrosdel.github.io/authors/d-stephens/</link>
     </image>
     
     <item>
       <title>Bayesian analysis of generalised linear models with covariate measurement error</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/stephens-1992-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/stephens-1992-bayesian/</link>
       <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/stephens-1992-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/stephens-1992-bayesian/</guid>
       <description></description>
     </item>
     
