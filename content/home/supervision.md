@@ -67,6 +67,7 @@ subtitle = ""
 
 ## PhD students
 
+- Domna Ladopoulou -- "Wind energy applications", current, UCL
 - Siran Liu -- "Monte Carlo in machine learning", current, UCL
 - Jeremy Sellier -- "Modelling Poisson processes", current, UCL
 - Marta Grzeskiewicz -- "Policy search via reinforcement learning", current, UCL

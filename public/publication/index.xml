@@ -5,7 +5,7 @@
     <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/</link>
       <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
       <title>Publications</title>
@@ -15,32 +15,64 @@
     <item>
       <title>Flexible marked spatio-temporal point processes with applications to event sequences from association football</title>
       <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/narayanan2021flexible/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/narayanan2021flexible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inference for partially observed Riemannian Ornstein-Uhlenbeck diffusions of covariance matrices</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/bui2021inference/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/bui2021inference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variance Reduction for Metropolis-Hastings Samplers</title>
       <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos2022variance/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos2022variance/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>How Good are Low-Rank Approximations in Gaussian Process Regression?</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</guid>
+      <title>Doubly-online changepoint detection for monitoring health status during sports activities</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/stival2022doubly/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/stival2022doubly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Missing data patterns in runners&#39; careers: do they matter?</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/stival2022missing/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/stival2022missing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reservoir Computing for Macroeconomic Forecasting with Mixed Frequency Data</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/ballarin2022reservoir/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/ballarin2022reservoir/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian prediction of jumps in large panels of time series data</title>
       <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos-2019-bayesianjumps/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos-2019-bayesianjumps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Good are Low-Rank Approximations in Gaussian Process Regression?</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</guid>
       <description></description>
     </item>
     
@@ -57,14 +89,6 @@
       <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/hirt-2021-hmc/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/hirt-2021-hmc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Inference for partially observed Riemannian Ornstein-Uhlenbeck diffusions of covariance matrices</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/bui2021inference/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/bui2021inference/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/</link>
       <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Angelos Alexopoulos</title>
       <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/angelos-alexopoulos/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://www.homepages.ucl.ac.uk/~ucakpde/authors/angelos-alexopoulos/</guid>
       <description></description>
     </item>
@@ -23,15 +23,23 @@
     <item>
       <title>Ioannis Kosmidis</title>
       <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/ioannis-kosmidis/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://www.homepages.ucl.ac.uk/~ucakpde/authors/ioannis-kosmidis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mai Ngoc Bui</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/mai-ngoc-bui/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/authors/mai-ngoc-bui/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Michalis K Titsias</title>
       <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/michalis-k-titsias/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://www.homepages.ucl.ac.uk/~ucakpde/authors/michalis-k-titsias/</guid>
       <description></description>
     </item>
@@ -39,7 +47,7 @@
     <item>
       <title>Petros Dellaportas</title>
       <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/petros-dellaportas/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://www.homepages.ucl.ac.uk/~ucakpde/authors/petros-dellaportas/</guid>
       <description></description>
     </item>
@@ -47,15 +55,87 @@
     <item>
       <title>Santhosh Narayanan</title>
       <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/santhosh-narayanan/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://www.homepages.ucl.ac.uk/~ucakpde/authors/santhosh-narayanan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yvo Pokern</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/yvo-pokern/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/authors/yvo-pokern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manuela Cattelan</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/manuela-cattelan/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/authors/manuela-cattelan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mattia Stival</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/mattia-stival/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/authors/mattia-stival/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mauro Bernardi</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/mauro-bernardi/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/authors/mauro-bernardi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Giovanni Ballarin</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/giovanni-ballarin/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/authors/giovanni-ballarin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan-Pablo Ortega</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/juan-pablo-ortega/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/authors/juan-pablo-ortega/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lyudmila Grigoryeva</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/lyudmila-grigoryeva/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/authors/lyudmila-grigoryeva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcel Hirt</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/marcel-hirt/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/authors/marcel-hirt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sophie van Huellen</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/sophie-van-huellen/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/authors/sophie-van-huellen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aristeidis Panos</title>
       <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/aristeidis-panos/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://www.homepages.ucl.ac.uk/~ucakpde/authors/aristeidis-panos/</guid>
       <description></description>
     </item>
@@ -63,8 +143,16 @@
     <item>
       <title>Constantinos Daskalakis </title>
       <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/constantinos-daskalakis/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://www.homepages.ucl.ac.uk/~ucakpde/authors/constantinos-daskalakis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Omiros Papaspiliopoulos</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/omiros-papaspiliopoulos/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/authors/omiros-papaspiliopoulos/</guid>
       <description></description>
     </item>
     
@@ -93,34 +181,10 @@
     </item>
     
     <item>
-      <title>Mai Ngoc Bui</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/mai-ngoc-bui/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/authors/mai-ngoc-bui/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marcel Hirt</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/marcel-hirt/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/authors/marcel-hirt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Michalis Titsias</title>
       <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/michalis-titsias/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://www.homepages.ucl.ac.uk/~ucakpde/authors/michalis-titsias/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Omiros Papaspiliopoulos</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/omiros-papaspiliopoulos/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/authors/omiros-papaspiliopoulos/</guid>
       <description></description>
     </item>
     
@@ -145,14 +209,6 @@
       <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/trifon-pavkov/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://www.homepages.ucl.ac.uk/~ucakpde/authors/trifon-pavkov/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yvo Pokern</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/yvo-pokern/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/authors/yvo-pokern/</guid>
       <description></description>
     </item>
     
@@ -793,7 +849,7 @@
       <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://www.homepages.ucl.ac.uk/~ucakpde/authors/admin/</guid>
-      <description>&lt;p&gt;Petros Dellaportas has a joint appointment as a professor in Statistical Science in the department of Statistical Science, &lt;a href=&#34;https://www.ucl.ac.uk/statistics/&#34;&gt;&lt;strong&gt;University College London&lt;/strong&gt;&lt;/a&gt;, and as a professor of Statistics in the department of Statistics, &lt;a href=&#34;https://www.dept.aueb.gr/en/stat/content/department-statistics&#34;&gt;&lt;strong&gt;Athens University of Economics and Business&lt;/strong&gt;&lt;/a&gt;. He is also a Turing fellow of the &lt;a href=&#34;https://www.turing.ac.uk/&#34;&gt;&lt;strong&gt;Alan Turing Institute&lt;/strong&gt;&lt;/a&gt;, the United Kingdom&amp;rsquo;s national institute for data science and artificial intelligence.&lt;/p&gt;
+      <description>&lt;p&gt;Petros Dellaportas has a joint appointment as a professor in Statistical Science in the department of Statistical Science, &lt;a href=&#34;https://www.ucl.ac.uk/statistics/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;University College London&lt;/strong&gt;&lt;/a&gt;, and as a professor of Statistics in the department of Statistics, &lt;a href=&#34;https://www.dept.aueb.gr/en/stat/content/department-statistics&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Athens University of Economics and Business&lt;/strong&gt;&lt;/a&gt;. He is also a Turing fellow of the &lt;a href=&#34;https://www.turing.ac.uk/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Alan Turing Institute&lt;/strong&gt;&lt;/a&gt;, the United Kingdom&amp;rsquo;s national institute for data science and artificial intelligence.&lt;/p&gt;
 </description>
     </item>
     
