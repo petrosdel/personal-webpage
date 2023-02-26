@@ -5,20 +5,12 @@
     <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/marcel-hirt/</link>
       <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/marcel-hirt/index.xml" rel="self" type="application/rss+xml" />
     <description>Marcel Hirt</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 09 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
       <title>Marcel Hirt</title>
       <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/marcel-hirt/</link>
     </image>
-    
-    <item>
-      <title>Reservoir Computing for Macroeconomic Forecasting with Mixed Frequency Data</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/ballarin2022reservoir/</link>
-      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/ballarin2022reservoir/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Entropy-based adaptive Hamiltonian Monte Carlo</title>

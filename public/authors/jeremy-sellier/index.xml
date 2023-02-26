@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeremy Sellier | Petros Dellaportas</title>
+    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/jeremy-sellier/</link>
+      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/jeremy-sellier/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jeremy Sellier</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <title>Jeremy Sellier</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/jeremy-sellier/</link>
+    </image>
+    
+    <item>
+      <title>Sparse Spectral Bayesian Permanental Process with Generalized Kernel</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/sellier2023sparse/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/sellier2023sparse/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

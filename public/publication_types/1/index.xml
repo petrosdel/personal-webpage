@@ -13,17 +13,25 @@
     </image>
     
     <item>
-      <title>Variance Reduction for Metropolis-Hastings Samplers</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos2022variance/</link>
+      <title>Scalable and Interpretable Marked Point Processes</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/panos2023scalable/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos2022variance/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/panos2023scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Spectral Bayesian Permanental Process with Generalized Kernel</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/sellier2023sparse/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/sellier2023sparse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Good are Low-Rank Approximations in Gaussian Process Regression?</title>
       <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</guid>
       <description></description>
     </item>

@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/0/</loc>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/1/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/1/</loc>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/2/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,17 +18,22 @@
   </url>
   
   <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/aristeidis-panos/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/stival2022doubly/</loc>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/stival2023doubly/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/narayanan2021flexible/</loc>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/narayanan2023flexible/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,7 +48,17 @@
   </url>
   
   <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/jeremy-sellier/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/mai-ngoc-bui/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/manuela-catalan/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,12 +78,17 @@
   </url>
   
   <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/</loc>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/stival2023missing/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/petros-dellaportas/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,7 +108,17 @@
   </url>
   
   <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos2022variance/</loc>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/panos2023scalable/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/sellier2023sparse/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos2023variance/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -98,62 +128,7 @@
   </url>
   
   <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/manuela-cattelan/</loc>
-    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/stival2022missing/</loc>
-    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/giovanni-ballarin/</loc>
-    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/juan-pablo-ortega/</loc>
-    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/lyudmila-grigoryeva/</loc>
-    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/marcel-hirt/</loc>
-    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/ballarin2022reservoir/</loc>
-    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/sophie-van-huellen/</loc>
-    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/aristeidis-panos/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos-2019-bayesianjumps/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/constantinos-daskalakis/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</loc>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos2022bayesian/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -163,7 +138,17 @@
   </url>
   
   <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/2/</loc>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/constantinos-daskalakis/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/0/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -194,6 +179,11 @@
   
   <url>
     <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/panos-2021-large/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/marcel-hirt/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   

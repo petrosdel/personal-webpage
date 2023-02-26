@@ -14,17 +14,17 @@
     
     <item>
       <title>Doubly-online changepoint detection for monitoring health status during sports activities</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/stival2022doubly/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/stival2023doubly/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/stival2022doubly/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/stival2023doubly/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flexible marked spatio-temporal point processes with applications to event sequences from association football</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/narayanan2021flexible/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/narayanan2023flexible/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/narayanan2021flexible/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/narayanan2023flexible/</guid>
       <description></description>
     </item>
     
@@ -37,41 +37,49 @@
     </item>
     
     <item>
-      <title>Variance Reduction for Metropolis-Hastings Samplers</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos2022variance/</link>
+      <title>Missing data patterns in runners’ careers: do they matter?</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/stival2023missing/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos2022variance/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/stival2023missing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Missing data patterns in runners&#39; careers: do they matter?</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/stival2022missing/</link>
-      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/stival2022missing/</guid>
+      <title>Scalable and Interpretable Marked Point Processes</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/panos2023scalable/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/panos2023scalable/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Reservoir Computing for Macroeconomic Forecasting with Mixed Frequency Data</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/ballarin2022reservoir/</link>
-      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/ballarin2022reservoir/</guid>
+      <title>Sparse Spectral Bayesian Permanental Process with Generalized Kernel</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/sellier2023sparse/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/sellier2023sparse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variance Reduction for Metropolis-Hastings Samplers</title>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos2023variance/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos2023variance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian prediction of jumps in large panels of time series data</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos-2019-bayesianjumps/</link>
+      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos2022bayesian/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos-2019-bayesianjumps/</guid>
+      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos2022bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Good are Low-Rank Approximations in Gaussian Process Regression?</title>
       <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</guid>
       <description></description>
     </item>
