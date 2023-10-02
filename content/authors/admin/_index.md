@@ -14,8 +14,7 @@ role: Professor of Statistical Science
 organizations:
 - name: University College London
 - name: Athens University of Economics and Business
-- name: The Alan Turing Institute
-  url: ""
+-  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include  Bayesian theory and applications, machine learning, financial modelling.
@@ -71,6 +70,5 @@ user_groups:
 #- Visitors
 ---
 
-Petros Dellaportas has a joint appointment as a professor in Statistical Science in the department of Statistical Science, [**University College London**](https://www.ucl.ac.uk/statistics/), and as a professor of Statistics in the department of Statistics, [**Athens University of Economics and Business**](https://www.dept.aueb.gr/en/stat/content/department-statistics). He is also a Turing fellow of the [**Alan Turing Institute**](https://www.turing.ac.uk/), the United Kingdom's national institute for data science and artificial intelligence.
-
+Petros Dellaportas has a joint appointment as a professor in Statistical Science in the department of Statistical Science, [**University College London**](https://www.ucl.ac.uk/statistics/), and as a professor of Statistics in the department of Statistics, [**Athens University of Economics and Business**](https://www.dept.aueb.gr/en/stat/content/department-statistics). 
 
