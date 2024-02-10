@@ -6,6 +6,6 @@ publishDate: 2023-02-15T18:33:18.114475Z
 publication_types: ["2"]
 abstract: ""
 featured: true
-publication: "*International Journal of Forecasting (to appear)*"
+publication: "*International Journal of Forecasting*"
 ---
 

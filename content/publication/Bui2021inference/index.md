@@ -7,6 +7,6 @@ authors: ["Mai Ngoc Bui", "Yvo Pokern", "Petros Dellaportas"]
 publication_types: ["2"]
 abstract: ""
 featured: true
-publication: "*Bernoulli, to appear*"
+publication: "*Bernoulli*"
 ---
 

@@ -73,3 +73,6 @@ subtitle = ""
 
 
 [**Greek Stochastics ν**](http://stochastics.gr/meetings/nu/) : Contemporary Bayesian inference (2023)
+
+
+[**Greek Stochastics ξ**](http://stochastics.gr/meetings/ksi/) : Statistics in Health (2024)

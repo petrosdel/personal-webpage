@@ -6,6 +6,6 @@ publishDate: 2023-01-15T18:32:18.114475Z
 publication_types: ["2"]
 abstract: ""
 featured: true
-publication: "*Annals of Applied Statistics, to appear*"
+publication: "*Annals of Applied Statistics*"
 ---
 
