@@ -68,11 +68,11 @@ subtitle = ""
 ## PhD students
 
 - Domna Ladopoulou -- "Wind energy applications", current, UCL
-- Siran Liu -- "Monte Carlo in machine learning", current, UCL
-- Jeremy Sellier -- "Modelling Poisson processes", current, UCL
-- Marta Grzeskiewicz -- "Policy search via reinforcement learning", current, UCL
-- William Greenall -- "Economic Modelling Applications of Reinforcement Learning Techniques", current, UCL
 - Jacopo Thomas Capra -- "Portfolio construction with macro views", current, UCL
+- Siran Liu -- "Variance reduction in Monte Carlo", current, UCL
+- Jeremy Sellier -- "Efficient Spatial and Temporal Learning with Sparse Spectral Gaussian Processes", 2024
+- Marta Grzeskiewicz -- "Uncovering Utility Functions from Observational Data with Revealed Preference Inverse Reinforcement Learning", 2024
+- William Greenall -- "Orthogonality in Machine Learning", 2024
 - Marcel Hirt -- "Approximate inference methods in probabilistic machine learning and Bayesian statistics", 2021
 - Zhongzhen Wang -- "Statistical modelling approaches with Bayesian tensor factorisations", 2021
 - Fiori Labrinakou -- "An Econometric analysis of high frequency data", 2021

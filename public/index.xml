@@ -5,7 +5,7 @@
     <link>http://www.homepages.ucl.ac.uk/~ucakpde/</link>
       <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/index.xml" rel="self" type="application/rss+xml" />
     <description>Petros Dellaportas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
       <title>Petros Dellaportas</title>
@@ -15,16 +15,8 @@
     <item>
       <title>Publications</title>
       <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/</link>
-      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid></guid>
       <description></description>
     </item>
     

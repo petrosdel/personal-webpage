@@ -60,7 +60,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "p dot surname at ucl.ac.uk"
 
-phone = "+44(0)2031083244"
+phone = "+44 20 8016 8454"
 address = "Department of Statistical Science, University College, Gower Street, London, WC1E 6BT"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours

@@ -1,15 +1,50 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/2/</loc>
-    <lastmod>2023-03-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/</loc>
-    <lastmod>2023-03-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/hirt2024learning/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/marcel-hirt/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/petros-dellaportas/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/vasileios-kreouzis/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -19,26 +54,6 @@
   
   <url>
     <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/ioannis-kosmidis/</loc>
-    <lastmod>2023-03-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/</loc>
-    <lastmod>2023-03-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/petros-dellaportas/</loc>
-    <lastmod>2023-03-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/</loc>
-    <lastmod>2023-03-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/</loc>
     <lastmod>2023-03-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -59,11 +74,6 @@
   
   <url>
     <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/lyudmila-grigoryeva/</loc>
-    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/marcel-hirt/</loc>
     <lastmod>2023-02-02T00:00:00+00:00</lastmod>
   </url>
   
