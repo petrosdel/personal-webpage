@@ -49,6 +49,7 @@ subtitle = ""
 
 ## Post-doctoral students
 
+- William Greenall 2024-2025 
 - Marcel Hirt 2021-2022
 - Aristeidis Panos (jointly with Ioannis Kosmidis) 2020-2021
 - Angelos Alexopoulos 2019
@@ -67,9 +68,10 @@ subtitle = ""
 
 ## PhD students
 
-- Domna Ladopoulou -- "Wind energy applications", current, UCL
-- Jacopo Thomas Capra -- "Portfolio construction with macro views", current, UCL
-- Siran Liu -- "Variance reduction in Monte Carlo", current, UCL
+- Peng Xiang -- "Financial market microstructure modelling", current, UCL
+- Domna Ladopoulou -- "Wind energy modelling", current, UCL
+- Siran Liu -- "Variance reduction in MCMC", current, UCL
+- Jacopo Thomas Capra -- "Modern statistics applications to systematic trading: low and high frequency perspectives", 2024
 - Jeremy Sellier -- "Efficient Spatial and Temporal Learning with Sparse Spectral Gaussian Processes", 2024
 - Marta Grzeskiewicz -- "Uncovering Utility Functions from Observational Data with Revealed Preference Inverse Reinforcement Learning", 2024
 - William Greenall -- "Orthogonality in Machine Learning", 2024

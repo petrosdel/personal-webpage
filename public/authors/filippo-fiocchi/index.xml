@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Filippo Fiocchi | Petros Dellaportas</title>
+    <link>https://petrosdel.github.io/authors/filippo-fiocchi/</link>
+      <atom:link href="https://petrosdel.github.io/authors/filippo-fiocchi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Filippo Fiocchi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <title>Filippo Fiocchi</title>
+      <link>https://petrosdel.github.io/authors/filippo-fiocchi/</link>
+    </image>
+    
+    <item>
+      <title>Probabilistic multilayer perceptrons for wind farm condition monitoring</title>
+      <link>https://petrosdel.github.io/publication/fiocchi2025probabilistic/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/fiocchi2025probabilistic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

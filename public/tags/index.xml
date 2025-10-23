@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Petros Dellaportas</title>
-    <link>http://www.homepages.ucl.ac.uk/~ucakpde/tags/</link>
-      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/tags/</link>
+      <atom:link href="https://petrosdel.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Tags</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/tags/</link>
+      <link>https://petrosdel.github.io/tags/</link>
     </image>
     
     <item>
       <title>Alan Turing Institute</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/tags/alan-turing-institute/</link>
+      <link>https://petrosdel.github.io/tags/alan-turing-institute/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/tags/alan-turing-institute/</guid>
+      <guid>https://petrosdel.github.io/tags/alan-turing-institute/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Dynamic pricing</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/tags/dynamic-pricing/</link>
+      <title>Dynamic Pricing</title>
+      <link>https://petrosdel.github.io/tags/dynamic-pricing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/tags/dynamic-pricing/</guid>
+      <guid>https://petrosdel.github.io/tags/dynamic-pricing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Poisson processes for  identity systems and cyber-security</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/tags/poisson-processes-for-identity-systems-and-cyber-security/</link>
+      <title>Poisson Processes for  Identity Systems and Cyber-Security</title>
+      <link>https://petrosdel.github.io/tags/poisson-processes-for--identity-systems-and-cyber-security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/tags/poisson-processes-for-identity-systems-and-cyber-security/</guid>
+      <guid>https://petrosdel.github.io/tags/poisson-processes-for--identity-systems-and-cyber-security/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reservoir Computing for Macroeconomic Modelling</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/tags/reservoir-computing-for-macroeconomic-modelling/</link>
+      <link>https://petrosdel.github.io/tags/reservoir-computing-for-macroeconomic-modelling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/tags/reservoir-computing-for-macroeconomic-modelling/</guid>
+      <guid>https://petrosdel.github.io/tags/reservoir-computing-for-macroeconomic-modelling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wind Energy</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/tags/wind-energy/</link>
+      <link>https://petrosdel.github.io/tags/wind-energy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/tags/wind-energy/</guid>
+      <guid>https://petrosdel.github.io/tags/wind-energy/</guid>
       <description></description>
     </item>
     

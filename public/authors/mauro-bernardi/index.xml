@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mauro Bernardi | Petros Dellaportas</title>
-    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/mauro-bernardi/</link>
-      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/mauro-bernardi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/mauro-bernardi/</link>
+      <atom:link href="https://petrosdel.github.io/authors/mauro-bernardi/index.xml" rel="self" type="application/rss+xml" />
     <description>Mauro Bernardi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Mauro Bernardi</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/mauro-bernardi/</link>
+      <link>https://petrosdel.github.io/authors/mauro-bernardi/</link>
     </image>
     
     <item>
       <title>Doubly-online changepoint detection for monitoring health status during sports activities</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/stival2023doubly/</link>
+      <link>https://petrosdel.github.io/publication/stival2023doubly/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/stival2023doubly/</guid>
+      <guid>https://petrosdel.github.io/publication/stival2023doubly/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Missing data patterns in runners’ careers: do they matter?</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/stival2023missing/</link>
+      <link>https://petrosdel.github.io/publication/stival2023missing/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/stival2023missing/</guid>
+      <guid>https://petrosdel.github.io/publication/stival2023missing/</guid>
       <description></description>
     </item>
     

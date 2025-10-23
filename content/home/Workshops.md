@@ -76,3 +76,5 @@ subtitle = ""
 
 
 [**Greek Stochastics ξ**](http://stochastics.gr/meetings/ksi/) : Statistics in Health (2024)
+
+[**Greek Stochastics ο**](http://stochastics.gr/meetings/omicron/) : Simulation-based Inference (2025)

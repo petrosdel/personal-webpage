@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Katerina Petrova | Petros Dellaportas</title>
-    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/katerina-petrova/</link>
-      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/katerina-petrova/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/katerina-petrova/</link>
+      <atom:link href="https://petrosdel.github.io/authors/katerina-petrova/index.xml" rel="self" type="application/rss+xml" />
     <description>Katerina Petrova</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Katerina Petrova</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/katerina-petrova/</link>
+      <link>https://petrosdel.github.io/authors/katerina-petrova/</link>
     </image>
     
     <item>
       <title>Scalable inference for a full multivariate stochastic volatility model</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2021-scalable/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2021-scalable/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2021-scalable/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2021-scalable/</guid>
       <description></description>
     </item>
     

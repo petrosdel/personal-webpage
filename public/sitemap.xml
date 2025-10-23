@@ -1,1108 +1,705 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/2/</loc>
+    <loc>https://petrosdel.github.io/publication_types/2/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/domna-ladopoulou/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/filippo-fiocchi/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petrosdel.github.io/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/petros-dellaportas/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/fiocchi2025probabilistic/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication_types/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/alberini-cristina-maria/</loc>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/alessi-lucia/</loc>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/baussano-iacopo/</loc>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/guerra-ranieri/</loc>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/khozin-sean/</loc>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/modena-andrea/</loc>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/pecorelli-sergio/</loc>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/rasi-guido/</loc>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/roberto-savona/</loc>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/siviero-paolo-daniele/</loc>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/stein-roger-m./</loc>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/savona2025towards/</loc>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/hirt2024learning/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/marcel-hirt/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/hirt2024learning/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/vasileios-kreouzis/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/marcel-hirt/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/petros-dellaportas/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/vasileios-kreouzis/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/wang2023bayesian/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/wang2023bayesian/</loc>
     <lastmod>2023-03-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/ioannis-kosmidis/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/ioannis-kosmidis/</loc>
     <lastmod>2023-03-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/zhongzhen-wang/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/zhongzhen-wang/</loc>
     <lastmod>2023-03-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/giovanni-ballarin/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/giovanni-ballarin/</loc>
     <lastmod>2023-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/juan-pablo-ortega/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/juan-pablo-ortega/</loc>
     <lastmod>2023-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/lyudmila-grigoryeva/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/lyudmila-grigoryeva/</loc>
     <lastmod>2023-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/ballarin2023reservoir/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/ballarin2023reservoir/</loc>
     <lastmod>2023-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/sophie-van-huellen/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/sophie-van-huellen/</loc>
     <lastmod>2023-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/1/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication_types/1/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/angelos-alexopoulos/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/angelos-alexopoulos-/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/aristeidis-panos/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/aristeidis-panos/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/sellier2023bayesian/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/sellier2023bayesian/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/stival2023doubly/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/stival2023doubly/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/narayanan2023flexible/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/narayanan2023flexible/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/bui2021inference/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/bui2021inference/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/jeremy-sellier/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/jeremy-sellier/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/mai-ngoc-bui/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/mai-ngoc-bui/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/manuela-catalan/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/manuela-catalan/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/mattia-stival/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/mattia-stival/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/mauro-bernardi/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/mauro-bernardi/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/michalis-k-titsias/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/michalis-k-titsias/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/stival2023missing/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/stival2023missing/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/santhosh-narayanan/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/santhosh-narayanan/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/panos2023scalable/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/panos2023scalable/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/sellier2023sparse/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/sellier2023sparse/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos2023variance/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/alexopoulos2023variance/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/yvo-pokern/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/yvo-pokern/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos2022bayesian/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/angelos-alexopoulos/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/omiros-papaspiliopoulos/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/alexopoulos2022bayesian/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/constantinos-daskalakis/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/omiros-papaspiliopoulos/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/constantinos-daskalakis-/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/daskalakis2020scalable/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/daskalakis2020scalable/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/0/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication_types/0/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/anastasios-plataniotis/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/anastasios-plataniotis/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/christos-kotsogiannis/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/christos-kotsogiannis/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos2021vat/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/alexopoulos2021vat/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/hirt-2021-hmc/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/hirt-2021-hmc/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/katerina-petrova/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/katerina-petrova/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/panos-2021-large/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/panos-2021-large/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/michalis-titsias/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/michalis-titsias/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2021-scalable/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-2021-scalable/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/sofia-c-olhede/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/sofia-c-olhede/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/stanley-gyoshev/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/stanley-gyoshev/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/trifon-pavkov/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/trifon-pavkov/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/david-a-stephens/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/david-a-stephens/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/evangelos-ioannidis/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/evangelos-ioannidis/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas2020interview/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas2020interview/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2020-sample/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-2020-sample/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/alain-durmus/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/alain-durmus/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/alexandros-beskos/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/alexandros-beskos/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/axel-finke/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/axel-finke/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos-2019-bayesian/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/alexopoulos-2019-bayesian/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/hirt-2019-copula/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/hirt-2019-copula/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/finke-2019-efficient/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/finke-2019-efficient/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/titsias-2019-gradient/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/titsias-2019-gradient/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2019-importance/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-2019-importance/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/jonathan-j-forster/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/jonathan-j-forster/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/marika-vezzoli/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/marika-vezzoli/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/michailis-k-titsias/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/michailis-k-titsias/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/mike-g-tsionas/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/mike-g-tsionas/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/roberto-savona/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/ruth-king/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/ruth-king/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/hirt-19-a/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/hirt-19-a/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-2015-scalable/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2015-scalable/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/arakelian-2019-sovereign/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/arakelian-2019-sovereign/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/titsias-michalis/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/titsias-michalis/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/veni-arakelian/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/veni-arakelian/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/rackham-2017-bayesian/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/rackham-2017-bayesian/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/eleni-vradi/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/eleni-vradi/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/enrico-petretto/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/enrico-petretto/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/jacques-behmoaras/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/jacques-behmoaras/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/leonardo-bottolo/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/leonardo-bottolo/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/nathan-harmston/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/nathan-harmston/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/owen-jl-rackham/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/owen-jl-rackham/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/prashant-k-srivastava/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/prashant-k-srivastava/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/sarah-r-langley/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/sarah-r-langley/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/thomas-oates/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/thomas-oates/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/6/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication_types/6/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/bottolo-2015/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/bottolo-2015/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/athanassios-petralias/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/athanassios-petralias/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/petralias-2015-volatility/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/petralias-2015-volatility/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/rackham-2015-wgbssuite/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/rackham-2015-wgbssuite/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/aleksandar-mijatovic/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/aleksandar-mijatovic/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2014-arbitrage/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-2014-arbitrage/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/andersen-2014-communication/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/andersen-2014-communication/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/effie-papageorgiou/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/effie-papageorgiou/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/georgios-panagiaris/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/georgios-panagiaris/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/ioannis-vrontos/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/ioannis-vrontos/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/jorgen-vitting-andersen/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/jorgen-vitting-andersen/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2014-museum/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-2014-museum/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/serge-galam/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/serge-galam/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication_types/5/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication_types/5/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/petralias-2013-mcmc/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/petralias-2013-mcmc/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/damien-2013-bayesian/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/damien-2013-bayesian/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/nicholas-g-polson/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/nicholas-g-polson/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/paul-damien/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/paul-damien/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2012-cholesky/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-2012-cholesky/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/kateri-2012-conditional/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/kateri-2012-conditional/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/arakelian-2012-contagion/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/arakelian-2012-contagion/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2012-control/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-2012-control/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/ioannis-kontoyiannis/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/ioannis-kontoyiannis/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/ioannis-ntzoufras/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/ioannis-ntzoufras/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2012-joint/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-2012-joint/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/maria-kateri/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/maria-kateri/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/mohsen-pourahmadi/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/mohsen-pourahmadi/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/papathomas-2011-novel/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/papathomas-2011-novel/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/meligkotsidou-2011-forecasting/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/meligkotsidou-2011-forecasting/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/gareth-o-roberts/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/gareth-o-roberts/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/konstantinos-kalogeropoulos/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/konstantinos-kalogeropoulos/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/kalogeropoulos-2011-likelihood/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/kalogeropoulos-2011-likelihood/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/loukia-meligkotsidou/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/loukia-meligkotsidou/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/michalis-papathomas/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/michalis-papathomas/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/vasilis-gs-vasdekis/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/vasilis-gs-vasdekis/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/kalogeropoulos-2010-inference/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/kalogeropoulos-2010-inference/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/tarantola-2008-bayesian/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/tarantola-2008-bayesian/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/claudia-tarantola/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/claudia-tarantola/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/dimitris-giannikis/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/dimitris-giannikis/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/guido-consonni/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/guido-consonni/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/ioannis-d-vrontos/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/ioannis-d-vrontos/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/giannikis-2008-modelling/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/giannikis-2008-modelling/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/chris-holmes/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/chris-holmes/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/david-gt-denison/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/david-gt-denison/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2007-flexible/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-2007-flexible/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2007-modelling/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-2007-modelling/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2006-bayesian/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-2006-bayesian/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/ioulia-papageorgiou/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/ioulia-papageorgiou/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2006-multivariate/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-2006-multivariate/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/nial-friel/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/nial-friel/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/giakoumatos-2005-bayesian/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/giakoumatos-2005-bayesian/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/dimitris-n-politis/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/dimitris-n-politis/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2005-model/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-2005-model/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/stefanos-g-giakoumatos/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/stefanos-g-giakoumatos/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/roberts-2004-bayesian/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/roberts-2004-bayesian/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/luigi-spezia/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/luigi-spezia/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/martin-j-crowder/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/martin-j-crowder/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/spezia-2004-periodic/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/spezia-2004-periodic/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/stephens-2004-quantification/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/stephens-2004-quantification/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/roberta-paroli/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/roberta-paroli/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/vrontos-2003-full/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/vrontos-2003-full/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2003-introduction/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-2003-introduction/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/antonio-lijoi/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/antonio-lijoi/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/linardakis-2003-assessment/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/linardakis-2003-assessment/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/bottolo-2003-bayesian/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/bottolo-2003-bayesian/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2003-bayesian/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-2003-bayesian/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/ntzoufras-2003-bayesian/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/ntzoufras-2003-bayesian/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/gareth-roberts/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/gareth-roberts/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/vrontos-2003-inference/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/vrontos-2003-inference/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/michalis-linardakis/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/michalis-linardakis/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/paolo-giudici/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/paolo-giudici/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/ntzoufras-2002-bayesian/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/ntzoufras-2002-bayesian/</loc>
     <lastmod>2002-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2002-bayesian/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-2002-bayesian/</loc>
     <lastmod>2002-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2001-bsimulation/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-2001-bsimulation/</loc>
     <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2001-simulation/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-2001-simulation/</loc>
     <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/adrian-fm-smith/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/adrian-fm-smith/</loc>
     <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/vrontos-2001-application/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/vrontos-2001-application/</loc>
     <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/bani-k-mallick/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/bani-k-mallick/</loc>
     <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/kateri-2001-bayesian/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/kateri-2001-bayesian/</loc>
     <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2001-bayesian/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-2001-bayesian/</loc>
     <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/dimitris-karlis/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/dimitris-karlis/</loc>
     <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/photis-stavropoulos/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/photis-stavropoulos/</loc>
     <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/takis-papaioannou/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/takis-papaioannou/</loc>
     <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/denison-2001-wind/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/denison-2001-wind/</loc>
     <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/linardakis-2000-approach/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/linardakis-2000-approach/</loc>
     <lastmod>2000-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-2000-bayesian/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-2000-bayesian/</loc>
     <lastmod>2000-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/vrontos-2000-full/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/vrontos-2000-full/</loc>
     <lastmod>2000-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/ntzoufras-2000-stochastic/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/ntzoufras-2000-stochastic/</loc>
     <lastmod>2000-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/giakoumatos-1999-markov/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/giakoumatos-1999-markov/</loc>
     <lastmod>1999-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/evaggelos-morfiadakis/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/evaggelos-morfiadakis/</loc>
     <lastmod>1999-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/evangelos-morfiadakis/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/evangelos-morfiadakis/</loc>
     <lastmod>1999-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/mouzakis-1999-fatigue/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/mouzakis-1999-fatigue/</loc>
     <lastmod>1999-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/fragiskos-mouzakis/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/fragiskos-mouzakis/</loc>
     <lastmod>1999-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/georgia-glinou/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/georgia-glinou/</loc>
     <lastmod>1999-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-1999-markov/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-1999-markov/</loc>
     <lastmod>1999-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/zaphiropoulos-1999-prediction/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/zaphiropoulos-1999-prediction/</loc>
     <lastmod>1999-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/yiorgos-zaphiropoulos/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/yiorgos-zaphiropoulos/</loc>
     <lastmod>1999-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-1998-bayesian/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-1998-bayesian/</loc>
     <lastmod>1998-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/brooks-1997-approach/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/brooks-1997-approach/</loc>
     <lastmod>1997-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/steve-p-brooks/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/steve-p-brooks/</loc>
     <lastmod>1997-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-1996-comparative/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-1996-comparative/</loc>
     <lastmod>1996-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/afm-smith/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/afm-smith/</loc>
     <lastmod>1996-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/da-stephens/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/da-stephens/</loc>
     <lastmod>1996-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/g-kokolakis/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/g-kokolakis/</loc>
     <lastmod>1996-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/kokolakis-1996-hierarchical/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/kokolakis-1996-hierarchical/</loc>
     <lastmod>1996-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/i-guttman/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/i-guttman/</loc>
     <lastmod>1996-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/p-dellaportas/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/p-dellaportas/</loc>
     <lastmod>1996-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/ronald-cools/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/ronald-cools/</loc>
     <lastmod>1996-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/cools-1996-role/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/cools-1996-role/</loc>
     <lastmod>1996-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-1995-bayesian/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-1995-bayesian/</loc>
     <lastmod>1995-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-1995-random/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-1995-random/</loc>
     <lastmod>1995-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-1993-bayesian/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-1993-bayesian/</loc>
     <lastmod>1993-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/data-47/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/data-47/</loc>
     <lastmod>1992-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/stephens-1992-bayesian/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/stephens-1992-bayesian/</loc>
     <lastmod>1992-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/d-stephens/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/d-stephens/</loc>
     <lastmod>1992-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/d.-wright/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/d.-wright/</loc>
     <lastmod>1992-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/p.-dellaportas/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/p.-dellaportas/</loc>
     <lastmod>1992-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/david-e-wright/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/david-e-wright/</loc>
     <lastmod>1991-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/david-wright/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/david-wright/</loc>
     <lastmod>1991-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-1991-numerical/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-1991-numerical/</loc>
     <lastmod>1991-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/publication/dellaportas-1991-positive/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/publication/dellaportas-1991-positive/</loc>
     <lastmod>1991-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petrosdel.github.io/authors/admin/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/tags/alan-turing-institute/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/categories/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/project/detecting-anomalies-in-the-vat-network-project/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/tags/dynamic-pricing/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/project/forecasting-with-large-macroeconomic-and-financial-datasets-project/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/tags/poisson-processes-for--identity-systems-and-cyber-security/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/project/poisson-processes-for--identity-systems-and-cyber-security/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/post/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/project/wind-energy/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/project/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/talk/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/project/dynamic-pricing-project/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/project/reservoir-computing-for-macroeconomic-modelling/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/tags/reservoir-computing-for-macroeconomic-modelling/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/tags/</loc>
+  </url><url>
+    <loc>https://petrosdel.github.io/tags/wind-energy/</loc>
   </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/tags/alan-turing-institute/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/project/detecting-anomalies-in-the-vat-network-project/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/tags/dynamic-pricing/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/project/forecasting-with-large-macroeconomic-and-financial-datasets-project/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/tags/poisson-processes-for-identity-systems-and-cyber-security/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/project/poisson-processes-for-identity-systems-and-cyber-security/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/post/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/project/wind-energy/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/project/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/project/dynamic-pricing-project/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/tags/reservoir-computing-for-macroeconomic-modelling/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/project/reservoir-computing-for-macroeconomic-modelling/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.homepages.ucl.ac.uk/~ucakpde/tags/wind-energy/</loc>
-  </url>
-  
 </urlset>

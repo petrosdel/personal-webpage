@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modena Andrea | Petros Dellaportas</title>
+    <link>https://petrosdel.github.io/authors/modena-andrea/</link>
+      <atom:link href="https://petrosdel.github.io/authors/modena-andrea/index.xml" rel="self" type="application/rss+xml" />
+    <description>Modena Andrea</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 02 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <title>Modena Andrea</title>
+      <link>https://petrosdel.github.io/authors/modena-andrea/</link>
+    </image>
+    
+    <item>
+      <title>Towards a framework for a new research ecosystem</title>
+      <link>https://petrosdel.github.io/publication/savona2025towards/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://petrosdel.github.io/publication/savona2025towards/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

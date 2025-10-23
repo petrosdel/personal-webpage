@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sophie van Huellen | Petros Dellaportas</title>
-    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/sophie-van-huellen/</link>
-      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/sophie-van-huellen/index.xml" rel="self" type="application/rss+xml" />
-    <description>Sophie van Huellen</description>
+    <title>Sophie Van Huellen | Petros Dellaportas</title>
+    <link>https://petrosdel.github.io/authors/sophie-van-huellen/</link>
+      <atom:link href="https://petrosdel.github.io/authors/sophie-van-huellen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sophie Van Huellen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
-      <title>Sophie van Huellen</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/sophie-van-huellen/</link>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <title>Sophie Van Huellen</title>
+      <link>https://petrosdel.github.io/authors/sophie-van-huellen/</link>
     </image>
     
     <item>
       <title>Reservoir computing for macroeconomic forecasting with mixed frequency data</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/ballarin2023reservoir/</link>
+      <link>https://petrosdel.github.io/publication/ballarin2023reservoir/</link>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/ballarin2023reservoir/</guid>
+      <guid>https://petrosdel.github.io/publication/ballarin2023reservoir/</guid>
       <description></description>
     </item>
     

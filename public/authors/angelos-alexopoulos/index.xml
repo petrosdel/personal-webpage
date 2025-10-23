@@ -2,45 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Angelos Alexopoulos | Petros Dellaportas</title>
-    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/angelos-alexopoulos/</link>
-      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/angelos-alexopoulos/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/angelos-alexopoulos/</link>
+      <atom:link href="https://petrosdel.github.io/authors/angelos-alexopoulos/index.xml" rel="self" type="application/rss+xml" />
     <description>Angelos Alexopoulos</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Angelos Alexopoulos</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/angelos-alexopoulos/</link>
+      <link>https://petrosdel.github.io/authors/angelos-alexopoulos/</link>
     </image>
     
     <item>
-      <title>Variance Reduction for Metropolis-Hastings Samplers</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos2023variance/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos2023variance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Bayesian prediction of jumps in large panels of time series data</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos2022bayesian/</link>
+      <link>https://petrosdel.github.io/publication/alexopoulos2022bayesian/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos2022bayesian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Detecting anomalies in heterogeneous population-scale VAT networks</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos2021vat/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos2021vat/</guid>
+      <guid>https://petrosdel.github.io/publication/alexopoulos2022bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian forecasting of mortality rates by using latent Gaussian models</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos-2019-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/alexopoulos-2019-bayesian/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/alexopoulos-2019-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/alexopoulos-2019-bayesian/</guid>
       <description></description>
     </item>
     

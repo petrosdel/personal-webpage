@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Juan-Pablo Ortega | Petros Dellaportas</title>
-    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/juan-pablo-ortega/</link>
-      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/juan-pablo-ortega/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/juan-pablo-ortega/</link>
+      <atom:link href="https://petrosdel.github.io/authors/juan-pablo-ortega/index.xml" rel="self" type="application/rss+xml" />
     <description>Juan-Pablo Ortega</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Juan-Pablo Ortega</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/juan-pablo-ortega/</link>
+      <link>https://petrosdel.github.io/authors/juan-pablo-ortega/</link>
     </image>
     
     <item>
       <title>Reservoir computing for macroeconomic forecasting with mixed frequency data</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/ballarin2023reservoir/</link>
+      <link>https://petrosdel.github.io/publication/ballarin2023reservoir/</link>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/ballarin2023reservoir/</guid>
+      <guid>https://petrosdel.github.io/publication/ballarin2023reservoir/</guid>
       <description></description>
     </item>
     

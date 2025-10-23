@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mai Ngoc Bui | Petros Dellaportas</title>
-    <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/mai-ngoc-bui/</link>
-      <atom:link href="http://www.homepages.ucl.ac.uk/~ucakpde/authors/mai-ngoc-bui/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/mai-ngoc-bui/</link>
+      <atom:link href="https://petrosdel.github.io/authors/mai-ngoc-bui/index.xml" rel="self" type="application/rss+xml" />
     <description>Mai Ngoc Bui</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.homepages.ucl.ac.uk/~ucakpde/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Mai Ngoc Bui</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/authors/mai-ngoc-bui/</link>
+      <link>https://petrosdel.github.io/authors/mai-ngoc-bui/</link>
     </image>
     
     <item>
       <title>Inference for partially observed Riemannian Ornstein-Uhlenbeck diffusions of covariance matrices</title>
-      <link>http://www.homepages.ucl.ac.uk/~ucakpde/publication/bui2021inference/</link>
+      <link>https://petrosdel.github.io/publication/bui2021inference/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.homepages.ucl.ac.uk/~ucakpde/publication/bui2021inference/</guid>
+      <guid>https://petrosdel.github.io/publication/bui2021inference/</guid>
       <description></description>
     </item>
     

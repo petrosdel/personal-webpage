@@ -9,8 +9,8 @@ title = "Petros Dellaportas"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-#baseurl = "https://petrosdel.github.io/"
-baseurl = "http://www.homepages.ucl.ac.uk/~ucakpde/"
+baseurl = "https://petrosdel.github.io/"
+#baseurl = "http://www.homepages.ucl.ac.uk/~ucakpde/"
 
 
 # Enter a copyright notice to display in the site footer.
@@ -36,10 +36,12 @@ hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
 
-paginate = 10  # Number of items per page in paginated lists.
+[pagination]
+  pagerSize = 10
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreLogs = ['warning-goldmark-raw-html']
 
 [outputs]
   home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
