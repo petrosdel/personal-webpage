@@ -18,7 +18,7 @@ baseurl = "https://petrosdel.github.io/"
 copyright = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-150758773-1"
+GoogleAnalytics = ""
 
 ############################
 ## Advanced options below ##
