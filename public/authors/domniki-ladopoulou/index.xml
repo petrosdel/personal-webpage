@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Domniki Ladopoulou | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/authors/domniki-ladopoulou/</link>
-      <atom:link href="https://petrosdel.github.io/authors/domniki-ladopoulou/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/domniki-ladopoulou/</link>
+      <atom:link href="http://localhost:1313/authors/domniki-ladopoulou/index.xml" rel="self" type="application/rss+xml" />
     <description>Domniki Ladopoulou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Domniki Ladopoulou</title>
-      <link>https://petrosdel.github.io/authors/domniki-ladopoulou/</link>
+      <link>http://localhost:1313/authors/domniki-ladopoulou/</link>
     </image>
     
     <item>
       <title>Multi-task neural diffusion processes for uncertainty-quantified wind power prediction</title>
-      <link>https://petrosdel.github.io/publication/rawson2025multi/</link>
+      <link>http://localhost:1313/publication/rawson2025multi/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/rawson2025multi/</guid>
+      <guid>http://localhost:1313/publication/rawson2025multi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probabilistic Wind Power Forecasting via Non-Stationary Gaussian Processes</title>
-      <link>https://petrosdel.github.io/publication/ladopoulou2025probabilistic/</link>
+      <link>http://localhost:1313/publication/ladopoulou2025probabilistic/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/ladopoulou2025probabilistic/</guid>
+      <guid>http://localhost:1313/publication/ladopoulou2025probabilistic/</guid>
       <description></description>
     </item>
     

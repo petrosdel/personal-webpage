@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Omiros Papaspiliopoulos | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/authors/omiros-papaspiliopoulos/</link>
-      <atom:link href="https://petrosdel.github.io/authors/omiros-papaspiliopoulos/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/omiros-papaspiliopoulos/</link>
+      <atom:link href="http://localhost:1313/authors/omiros-papaspiliopoulos/index.xml" rel="self" type="application/rss+xml" />
     <description>Omiros Papaspiliopoulos</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Omiros Papaspiliopoulos</title>
-      <link>https://petrosdel.github.io/authors/omiros-papaspiliopoulos/</link>
+      <link>http://localhost:1313/authors/omiros-papaspiliopoulos/</link>
     </image>
     
     <item>
       <title>Bayesian prediction of jumps in large panels of time series data</title>
-      <link>https://petrosdel.github.io/publication/alexopoulos2022bayesian/</link>
+      <link>http://localhost:1313/publication/alexopoulos2022bayesian/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/alexopoulos2022bayesian/</guid>
+      <guid>http://localhost:1313/publication/alexopoulos2022bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian inference for non-Gaussian Ornstein--Uhlenbeck stochastic volatility processes</title>
-      <link>https://petrosdel.github.io/publication/roberts-2004-bayesian/</link>
+      <link>http://localhost:1313/publication/roberts-2004-bayesian/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/roberts-2004-bayesian/</guid>
+      <guid>http://localhost:1313/publication/roberts-2004-bayesian/</guid>
       <description></description>
     </item>
     

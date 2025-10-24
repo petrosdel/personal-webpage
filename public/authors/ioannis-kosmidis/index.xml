@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ioannis Kosmidis | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/authors/ioannis-kosmidis/</link>
-      <atom:link href="https://petrosdel.github.io/authors/ioannis-kosmidis/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/ioannis-kosmidis/</link>
+      <atom:link href="http://localhost:1313/authors/ioannis-kosmidis/index.xml" rel="self" type="application/rss+xml" />
     <description>Ioannis Kosmidis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Ioannis Kosmidis</title>
-      <link>https://petrosdel.github.io/authors/ioannis-kosmidis/</link>
+      <link>http://localhost:1313/authors/ioannis-kosmidis/</link>
     </image>
     
     <item>
       <title>Bayesian Tensor Factorisations for Time Series of Counts</title>
-      <link>https://petrosdel.github.io/publication/wang2023bayesian/</link>
+      <link>http://localhost:1313/publication/wang2023bayesian/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/wang2023bayesian/</guid>
+      <guid>http://localhost:1313/publication/wang2023bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flexible marked spatio-temporal point processes with applications to event sequences from association football</title>
-      <link>https://petrosdel.github.io/publication/narayanan2023flexible/</link>
+      <link>http://localhost:1313/publication/narayanan2023flexible/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/narayanan2023flexible/</guid>
+      <guid>http://localhost:1313/publication/narayanan2023flexible/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scalable and Interpretable Marked Point Processes</title>
-      <link>https://petrosdel.github.io/publication/panos2023scalable/</link>
+      <link>http://localhost:1313/publication/panos2023scalable/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/panos2023scalable/</guid>
+      <guid>http://localhost:1313/publication/panos2023scalable/</guid>
       <description></description>
     </item>
     

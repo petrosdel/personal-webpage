@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Giovanni Ballarin | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/authors/giovanni-ballarin/</link>
-      <atom:link href="https://petrosdel.github.io/authors/giovanni-ballarin/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/giovanni-ballarin/</link>
+      <atom:link href="http://localhost:1313/authors/giovanni-ballarin/index.xml" rel="self" type="application/rss+xml" />
     <description>Giovanni Ballarin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Giovanni Ballarin</title>
-      <link>https://petrosdel.github.io/authors/giovanni-ballarin/</link>
+      <link>http://localhost:1313/authors/giovanni-ballarin/</link>
     </image>
     
     <item>
       <title>Multi-Horizon Echo State Network Prediction of Intraday Stock Returns</title>
-      <link>https://petrosdel.github.io/publication/ballarin2025multi/</link>
+      <link>http://localhost:1313/publication/ballarin2025multi/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/ballarin2025multi/</guid>
+      <guid>http://localhost:1313/publication/ballarin2025multi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reservoir computing for macroeconomic forecasting with mixed frequency data</title>
-      <link>https://petrosdel.github.io/publication/ballarin2023reservoir/</link>
+      <link>http://localhost:1313/publication/ballarin2023reservoir/</link>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/ballarin2023reservoir/</guid>
+      <guid>http://localhost:1313/publication/ballarin2023reservoir/</guid>
       <description></description>
     </item>
     

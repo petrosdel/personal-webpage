@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>5 | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/publication_types/5/</link>
-      <atom:link href="https://petrosdel.github.io/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication_types/5/</link>
+      <atom:link href="http://localhost:1313/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
     <description>5</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>5</title>
-      <link>https://petrosdel.github.io/publication_types/5/</link>
+      <link>http://localhost:1313/publication_types/5/</link>
     </image>
     
     <item>
       <title>Gaussian Invariant Markov Chain Monte Carlo</title>
-      <link>https://petrosdel.github.io/publication/titsias2025gaussian/</link>
+      <link>http://localhost:1313/publication/titsias2025gaussian/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/titsias2025gaussian/</guid>
+      <guid>http://localhost:1313/publication/titsias2025gaussian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Horizon Echo State Network Prediction of Intraday Stock Returns</title>
-      <link>https://petrosdel.github.io/publication/ballarin2025multi/</link>
+      <link>http://localhost:1313/publication/ballarin2025multi/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/ballarin2025multi/</guid>
+      <guid>http://localhost:1313/publication/ballarin2025multi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-task neural diffusion processes for uncertainty-quantified wind power prediction</title>
-      <link>https://petrosdel.github.io/publication/rawson2025multi/</link>
+      <link>http://localhost:1313/publication/rawson2025multi/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/rawson2025multi/</guid>
+      <guid>http://localhost:1313/publication/rawson2025multi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probabilistic Wind Power Forecasting via Non-Stationary Gaussian Processes</title>
-      <link>https://petrosdel.github.io/publication/ladopoulou2025probabilistic/</link>
+      <link>http://localhost:1313/publication/ladopoulou2025probabilistic/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/ladopoulou2025probabilistic/</guid>
+      <guid>http://localhost:1313/publication/ladopoulou2025probabilistic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variance Reduction for the Independent Metropolis Sampler</title>
-      <link>https://petrosdel.github.io/publication/liu2024variance/</link>
+      <link>http://localhost:1313/publication/liu2024variance/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/liu2024variance/</guid>
+      <guid>http://localhost:1313/publication/liu2024variance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian Theory and Applications</title>
-      <link>https://petrosdel.github.io/publication/damien-2013-bayesian/</link>
+      <link>http://localhost:1313/publication/damien-2013-bayesian/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/damien-2013-bayesian/</guid>
+      <guid>http://localhost:1313/publication/damien-2013-bayesian/</guid>
       <description></description>
     </item>
     

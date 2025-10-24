@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joseph Rawson | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/authors/joseph-rawson/</link>
-      <atom:link href="https://petrosdel.github.io/authors/joseph-rawson/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/joseph-rawson/</link>
+      <atom:link href="http://localhost:1313/authors/joseph-rawson/index.xml" rel="self" type="application/rss+xml" />
     <description>Joseph Rawson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Joseph Rawson</title>
-      <link>https://petrosdel.github.io/authors/joseph-rawson/</link>
+      <link>http://localhost:1313/authors/joseph-rawson/</link>
     </image>
     
     <item>
       <title>Multi-task neural diffusion processes for uncertainty-quantified wind power prediction</title>
-      <link>https://petrosdel.github.io/publication/rawson2025multi/</link>
+      <link>http://localhost:1313/publication/rawson2025multi/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/rawson2025multi/</guid>
+      <guid>http://localhost:1313/publication/rawson2025multi/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ioannis Kontoyiannis | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/authors/ioannis-kontoyiannis/</link>
-      <atom:link href="https://petrosdel.github.io/authors/ioannis-kontoyiannis/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/ioannis-kontoyiannis/</link>
+      <atom:link href="http://localhost:1313/authors/ioannis-kontoyiannis/index.xml" rel="self" type="application/rss+xml" />
     <description>Ioannis Kontoyiannis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Ioannis Kontoyiannis</title>
-      <link>https://petrosdel.github.io/authors/ioannis-kontoyiannis/</link>
+      <link>http://localhost:1313/authors/ioannis-kontoyiannis/</link>
     </image>
     
     <item>
       <title>Control variates for estimation based on reversible Markov chain Monte Carlo samplers</title>
-      <link>https://petrosdel.github.io/publication/dellaportas-2012-control/</link>
+      <link>http://localhost:1313/publication/dellaportas-2012-control/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/dellaportas-2012-control/</guid>
+      <guid>http://localhost:1313/publication/dellaportas-2012-control/</guid>
       <description></description>
     </item>
     

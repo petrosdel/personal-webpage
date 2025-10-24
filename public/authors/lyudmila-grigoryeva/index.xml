@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lyudmila Grigoryeva | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/authors/lyudmila-grigoryeva/</link>
-      <atom:link href="https://petrosdel.github.io/authors/lyudmila-grigoryeva/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/lyudmila-grigoryeva/</link>
+      <atom:link href="http://localhost:1313/authors/lyudmila-grigoryeva/index.xml" rel="self" type="application/rss+xml" />
     <description>Lyudmila Grigoryeva</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Lyudmila Grigoryeva</title>
-      <link>https://petrosdel.github.io/authors/lyudmila-grigoryeva/</link>
+      <link>http://localhost:1313/authors/lyudmila-grigoryeva/</link>
     </image>
     
     <item>
       <title>Reservoir computing for macroeconomic forecasting with mixed frequency data</title>
-      <link>https://petrosdel.github.io/publication/ballarin2023reservoir/</link>
+      <link>http://localhost:1313/publication/ballarin2023reservoir/</link>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/ballarin2023reservoir/</guid>
+      <guid>http://localhost:1313/publication/ballarin2023reservoir/</guid>
       <description></description>
     </item>
     

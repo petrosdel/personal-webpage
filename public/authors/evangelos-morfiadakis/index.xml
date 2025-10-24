@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evangelos Morfiadakis | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/authors/evangelos-morfiadakis/</link>
-      <atom:link href="https://petrosdel.github.io/authors/evangelos-morfiadakis/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/evangelos-morfiadakis/</link>
+      <atom:link href="http://localhost:1313/authors/evangelos-morfiadakis/index.xml" rel="self" type="application/rss+xml" />
     <description>Evangelos Morfiadakis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 1999 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Evangelos Morfiadakis</title>
-      <link>https://petrosdel.github.io/authors/evangelos-morfiadakis/</link>
+      <link>http://localhost:1313/authors/evangelos-morfiadakis/</link>
     </image>
     
     <item>
       <title>Prediction of wind speed and direction at a potential site</title>
-      <link>https://petrosdel.github.io/publication/zaphiropoulos-1999-prediction/</link>
+      <link>http://localhost:1313/publication/zaphiropoulos-1999-prediction/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/zaphiropoulos-1999-prediction/</guid>
+      <guid>http://localhost:1313/publication/zaphiropoulos-1999-prediction/</guid>
       <description></description>
     </item>
     

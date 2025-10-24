@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fragiskos Mouzakis | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/authors/fragiskos-mouzakis/</link>
-      <atom:link href="https://petrosdel.github.io/authors/fragiskos-mouzakis/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/fragiskos-mouzakis/</link>
+      <atom:link href="http://localhost:1313/authors/fragiskos-mouzakis/index.xml" rel="self" type="application/rss+xml" />
     <description>Fragiskos Mouzakis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 1999 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Fragiskos Mouzakis</title>
-      <link>https://petrosdel.github.io/authors/fragiskos-mouzakis/</link>
+      <link>http://localhost:1313/authors/fragiskos-mouzakis/</link>
     </image>
     
     <item>
       <title>Fatigue loading parameter identification of a wind turbine operating in complex terrain</title>
-      <link>https://petrosdel.github.io/publication/mouzakis-1999-fatigue/</link>
+      <link>http://localhost:1313/publication/mouzakis-1999-fatigue/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/mouzakis-1999-fatigue/</guid>
+      <guid>http://localhost:1313/publication/mouzakis-1999-fatigue/</guid>
       <description></description>
     </item>
     

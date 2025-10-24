@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>G Kokolakis | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/authors/g-kokolakis/</link>
-      <atom:link href="https://petrosdel.github.io/authors/g-kokolakis/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/g-kokolakis/</link>
+      <atom:link href="http://localhost:1313/authors/g-kokolakis/index.xml" rel="self" type="application/rss+xml" />
     <description>G Kokolakis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 1996 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>G Kokolakis</title>
-      <link>https://petrosdel.github.io/authors/g-kokolakis/</link>
+      <link>http://localhost:1313/authors/g-kokolakis/</link>
     </image>
     
     <item>
       <title>Hierarchical modelling for classifying binary data</title>
-      <link>https://petrosdel.github.io/publication/kokolakis-1996-hierarchical/</link>
+      <link>http://localhost:1313/publication/kokolakis-1996-hierarchical/</link>
       <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/kokolakis-1996-hierarchical/</guid>
+      <guid>http://localhost:1313/publication/kokolakis-1996-hierarchical/</guid>
       <description></description>
     </item>
     

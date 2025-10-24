@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michalis Linardakis | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/authors/michalis-linardakis/</link>
-      <atom:link href="https://petrosdel.github.io/authors/michalis-linardakis/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/michalis-linardakis/</link>
+      <atom:link href="http://localhost:1313/authors/michalis-linardakis/index.xml" rel="self" type="application/rss+xml" />
     <description>Michalis Linardakis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Michalis Linardakis</title>
-      <link>https://petrosdel.github.io/authors/michalis-linardakis/</link>
+      <link>http://localhost:1313/authors/michalis-linardakis/</link>
     </image>
     
     <item>
       <title>Assessment of Athens&#39;s metro passenger behaviour via a multiranked probit model</title>
-      <link>https://petrosdel.github.io/publication/linardakis-2003-assessment/</link>
+      <link>http://localhost:1313/publication/linardakis-2003-assessment/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/linardakis-2003-assessment/</guid>
+      <guid>http://localhost:1313/publication/linardakis-2003-assessment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An approach to multidimensional item response modeling</title>
-      <link>https://petrosdel.github.io/publication/linardakis-2000-approach/</link>
+      <link>http://localhost:1313/publication/linardakis-2000-approach/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/linardakis-2000-approach/</guid>
+      <guid>http://localhost:1313/publication/linardakis-2000-approach/</guid>
       <description></description>
     </item>
     

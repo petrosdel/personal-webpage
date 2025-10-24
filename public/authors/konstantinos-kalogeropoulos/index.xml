@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Konstantinos Kalogeropoulos | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/authors/konstantinos-kalogeropoulos/</link>
-      <atom:link href="https://petrosdel.github.io/authors/konstantinos-kalogeropoulos/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/konstantinos-kalogeropoulos/</link>
+      <atom:link href="http://localhost:1313/authors/konstantinos-kalogeropoulos/index.xml" rel="self" type="application/rss+xml" />
     <description>Konstantinos Kalogeropoulos</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Konstantinos Kalogeropoulos</title>
-      <link>https://petrosdel.github.io/authors/konstantinos-kalogeropoulos/</link>
+      <link>http://localhost:1313/authors/konstantinos-kalogeropoulos/</link>
     </image>
     
     <item>
       <title>Likelihood-based inference for correlated diffusions</title>
-      <link>https://petrosdel.github.io/publication/kalogeropoulos-2011-likelihood/</link>
+      <link>http://localhost:1313/publication/kalogeropoulos-2011-likelihood/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/kalogeropoulos-2011-likelihood/</guid>
+      <guid>http://localhost:1313/publication/kalogeropoulos-2011-likelihood/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inference for stochastic volatility models using time change transformations</title>
-      <link>https://petrosdel.github.io/publication/kalogeropoulos-2010-inference/</link>
+      <link>http://localhost:1313/publication/kalogeropoulos-2010-inference/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/kalogeropoulos-2010-inference/</guid>
+      <guid>http://localhost:1313/publication/kalogeropoulos-2010-inference/</guid>
       <description></description>
     </item>
     

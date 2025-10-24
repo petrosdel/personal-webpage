@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Loukia Meligkotsidou | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/authors/loukia-meligkotsidou/</link>
-      <atom:link href="https://petrosdel.github.io/authors/loukia-meligkotsidou/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/loukia-meligkotsidou/</link>
+      <atom:link href="http://localhost:1313/authors/loukia-meligkotsidou/index.xml" rel="self" type="application/rss+xml" />
     <description>Loukia Meligkotsidou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Loukia Meligkotsidou</title>
-      <link>https://petrosdel.github.io/authors/loukia-meligkotsidou/</link>
+      <link>http://localhost:1313/authors/loukia-meligkotsidou/</link>
     </image>
     
     <item>
       <title>Forecasting with non-homogeneous hidden Markov models</title>
-      <link>https://petrosdel.github.io/publication/meligkotsidou-2011-forecasting/</link>
+      <link>http://localhost:1313/publication/meligkotsidou-2011-forecasting/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/meligkotsidou-2011-forecasting/</guid>
+      <guid>http://localhost:1313/publication/meligkotsidou-2011-forecasting/</guid>
       <description></description>
     </item>
     

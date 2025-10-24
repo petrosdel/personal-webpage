@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Santhosh Narayanan | Petros Dellaportas</title>
-    <link>https://petrosdel.github.io/authors/santhosh-narayanan/</link>
-      <atom:link href="https://petrosdel.github.io/authors/santhosh-narayanan/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/santhosh-narayanan/</link>
+      <atom:link href="http://localhost:1313/authors/santhosh-narayanan/index.xml" rel="self" type="application/rss+xml" />
     <description>Santhosh Narayanan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://petrosdel.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Santhosh Narayanan</title>
-      <link>https://petrosdel.github.io/authors/santhosh-narayanan/</link>
+      <link>http://localhost:1313/authors/santhosh-narayanan/</link>
     </image>
     
     <item>
       <title>Flexible marked spatio-temporal point processes with applications to event sequences from association football</title>
-      <link>https://petrosdel.github.io/publication/narayanan2023flexible/</link>
+      <link>http://localhost:1313/publication/narayanan2023flexible/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://petrosdel.github.io/publication/narayanan2023flexible/</guid>
+      <guid>http://localhost:1313/publication/narayanan2023flexible/</guid>
       <description></description>
     </item>
     
