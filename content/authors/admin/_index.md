@@ -51,7 +51,7 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?hl=en&pli=1&user=E0FmV8AAAAAJ
-- icon: linkedin
+- icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/petros-dellaportas-97056a112/
 #- icon: github
