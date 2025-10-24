@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aleksandar Mijatovic | Petros Dellaportas</title>
-    <link>http://localhost:1313/authors/aleksandar-mijatovic/</link>
-      <atom:link href="http://localhost:1313/authors/aleksandar-mijatovic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/aleksandar-mijatovic/</link>
+      <atom:link href="https://petrosdel.github.io/authors/aleksandar-mijatovic/index.xml" rel="self" type="application/rss+xml" />
     <description>Aleksandar Mijatovic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Aleksandar Mijatovic</title>
-      <link>http://localhost:1313/authors/aleksandar-mijatovic/</link>
+      <link>https://petrosdel.github.io/authors/aleksandar-mijatovic/</link>
     </image>
     
     <item>
       <title>Arbitrage-free prediction of the implied volatility smile</title>
-      <link>http://localhost:1313/publication/dellaportas-2014-arbitrage/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2014-arbitrage/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-2014-arbitrage/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2014-arbitrage/</guid>
       <description></description>
     </item>
     

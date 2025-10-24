@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dynamic Pricing | Petros Dellaportas</title>
-    <link>http://localhost:1313/tags/dynamic-pricing/</link>
-      <atom:link href="http://localhost:1313/tags/dynamic-pricing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/tags/dynamic-pricing/</link>
+      <atom:link href="https://petrosdel.github.io/tags/dynamic-pricing/index.xml" rel="self" type="application/rss+xml" />
     <description>Dynamic Pricing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Dynamic Pricing</title>
-      <link>http://localhost:1313/tags/dynamic-pricing/</link>
+      <link>https://petrosdel.github.io/tags/dynamic-pricing/</link>
     </image>
     
     <item>
       <title>Recovering Utilities from observational data</title>
-      <link>http://localhost:1313/project/dynamic-pricing-project/</link>
+      <link>https://petrosdel.github.io/project/dynamic-pricing-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/dynamic-pricing-project/</guid>
+      <guid>https://petrosdel.github.io/project/dynamic-pricing-project/</guid>
       <description></description>
     </item>
     

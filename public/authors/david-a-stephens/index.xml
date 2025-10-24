@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David a Stephens | Petros Dellaportas</title>
-    <link>http://localhost:1313/authors/david-a-stephens/</link>
-      <atom:link href="http://localhost:1313/authors/david-a-stephens/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/david-a-stephens/</link>
+      <atom:link href="https://petrosdel.github.io/authors/david-a-stephens/index.xml" rel="self" type="application/rss+xml" />
     <description>David a Stephens</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>David a Stephens</title>
-      <link>http://localhost:1313/authors/david-a-stephens/</link>
+      <link>https://petrosdel.github.io/authors/david-a-stephens/</link>
     </image>
     
     <item>
       <title>Interview with Professor Adrian FM Smith</title>
-      <link>http://localhost:1313/publication/dellaportas2020interview/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas2020interview/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas2020interview/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas2020interview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian Theory and Applications</title>
-      <link>http://localhost:1313/publication/damien-2013-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/damien-2013-bayesian/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/damien-2013-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/damien-2013-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantification of automobile insurance liability: a Bayesian failure time approach</title>
-      <link>http://localhost:1313/publication/stephens-2004-quantification/</link>
+      <link>https://petrosdel.github.io/publication/stephens-2004-quantification/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/stephens-2004-quantification/</guid>
+      <guid>https://petrosdel.github.io/publication/stephens-2004-quantification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian analysis of errors-in-variables regression models</title>
-      <link>http://localhost:1313/publication/dellaportas-1995-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-1995-bayesian/</link>
       <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-1995-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-1995-bayesian/</guid>
       <description></description>
     </item>
     

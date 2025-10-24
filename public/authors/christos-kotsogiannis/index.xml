@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christos Kotsogiannis | Petros Dellaportas</title>
-    <link>http://localhost:1313/authors/christos-kotsogiannis/</link>
-      <atom:link href="http://localhost:1313/authors/christos-kotsogiannis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/christos-kotsogiannis/</link>
+      <atom:link href="https://petrosdel.github.io/authors/christos-kotsogiannis/index.xml" rel="self" type="application/rss+xml" />
     <description>Christos Kotsogiannis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Christos Kotsogiannis</title>
-      <link>http://localhost:1313/authors/christos-kotsogiannis/</link>
+      <link>https://petrosdel.github.io/authors/christos-kotsogiannis/</link>
     </image>
     
     <item>
       <title>Detecting anomalies in heterogeneous population-scale VAT networks</title>
-      <link>http://localhost:1313/publication/alexopoulos2021vat/</link>
+      <link>https://petrosdel.github.io/publication/alexopoulos2021vat/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/alexopoulos2021vat/</guid>
+      <guid>https://petrosdel.github.io/publication/alexopoulos2021vat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sample size determination for risk-based tax auditing</title>
-      <link>http://localhost:1313/publication/dellaportas-2020-sample/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2020-sample/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-2020-sample/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2020-sample/</guid>
       <description></description>
     </item>
     

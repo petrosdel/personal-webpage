@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gareth Roberts | Petros Dellaportas</title>
-    <link>http://localhost:1313/authors/gareth-roberts/</link>
-      <atom:link href="http://localhost:1313/authors/gareth-roberts/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/gareth-roberts/</link>
+      <atom:link href="https://petrosdel.github.io/authors/gareth-roberts/index.xml" rel="self" type="application/rss+xml" />
     <description>Gareth Roberts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Gareth Roberts</title>
-      <link>http://localhost:1313/authors/gareth-roberts/</link>
+      <link>https://petrosdel.github.io/authors/gareth-roberts/</link>
     </image>
     
     <item>
       <title>Bayesian inference for nondecomposable graphical Gaussian models</title>
-      <link>http://localhost:1313/publication/dellaportas-2003-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2003-bayesian/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-2003-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2003-bayesian/</guid>
       <description></description>
     </item>
     

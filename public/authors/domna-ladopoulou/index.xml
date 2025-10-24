@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Domna Ladopoulou | Petros Dellaportas</title>
-    <link>http://localhost:1313/authors/domna-ladopoulou/</link>
-      <atom:link href="http://localhost:1313/authors/domna-ladopoulou/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/domna-ladopoulou/</link>
+      <atom:link href="https://petrosdel.github.io/authors/domna-ladopoulou/index.xml" rel="self" type="application/rss+xml" />
     <description>Domna Ladopoulou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Domna Ladopoulou</title>
-      <link>http://localhost:1313/authors/domna-ladopoulou/</link>
+      <link>https://petrosdel.github.io/authors/domna-ladopoulou/</link>
     </image>
     
     <item>
       <title>Probabilistic multilayer perceptrons for wind farm condition monitoring</title>
-      <link>http://localhost:1313/publication/fiocchi2025probabilistic/</link>
+      <link>https://petrosdel.github.io/publication/fiocchi2025probabilistic/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/fiocchi2025probabilistic/</guid>
+      <guid>https://petrosdel.github.io/publication/fiocchi2025probabilistic/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dat Minh Hong | Petros Dellaportas</title>
-    <link>http://localhost:1313/authors/dat-minh-hong/</link>
-      <atom:link href="http://localhost:1313/authors/dat-minh-hong/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/dat-minh-hong/</link>
+      <atom:link href="https://petrosdel.github.io/authors/dat-minh-hong/index.xml" rel="self" type="application/rss+xml" />
     <description>Dat Minh Hong</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Dat Minh Hong</title>
-      <link>http://localhost:1313/authors/dat-minh-hong/</link>
+      <link>https://petrosdel.github.io/authors/dat-minh-hong/</link>
     </image>
     
     <item>
       <title>Probabilistic Wind Power Forecasting via Non-Stationary Gaussian Processes</title>
-      <link>http://localhost:1313/publication/ladopoulou2025probabilistic/</link>
+      <link>https://petrosdel.github.io/publication/ladopoulou2025probabilistic/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ladopoulou2025probabilistic/</guid>
+      <guid>https://petrosdel.github.io/publication/ladopoulou2025probabilistic/</guid>
       <description></description>
     </item>
     

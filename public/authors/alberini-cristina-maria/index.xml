@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alberini Cristina Maria | Petros Dellaportas</title>
-    <link>http://localhost:1313/authors/alberini-cristina-maria/</link>
-      <atom:link href="http://localhost:1313/authors/alberini-cristina-maria/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/alberini-cristina-maria/</link>
+      <atom:link href="https://petrosdel.github.io/authors/alberini-cristina-maria/index.xml" rel="self" type="application/rss+xml" />
     <description>Alberini Cristina Maria</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 02 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Alberini Cristina Maria</title>
-      <link>http://localhost:1313/authors/alberini-cristina-maria/</link>
+      <link>https://petrosdel.github.io/authors/alberini-cristina-maria/</link>
     </image>
     
     <item>
       <title>Towards a framework for a new research ecosystem</title>
-      <link>http://localhost:1313/publication/savona2025towards/</link>
+      <link>https://petrosdel.github.io/publication/savona2025towards/</link>
       <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/savona2025towards/</guid>
+      <guid>https://petrosdel.github.io/publication/savona2025towards/</guid>
       <description></description>
     </item>
     

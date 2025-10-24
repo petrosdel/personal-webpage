@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mattia Stival | Petros Dellaportas</title>
-    <link>http://localhost:1313/authors/mattia-stival/</link>
-      <atom:link href="http://localhost:1313/authors/mattia-stival/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/mattia-stival/</link>
+      <atom:link href="https://petrosdel.github.io/authors/mattia-stival/index.xml" rel="self" type="application/rss+xml" />
     <description>Mattia Stival</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Mattia Stival</title>
-      <link>http://localhost:1313/authors/mattia-stival/</link>
+      <link>https://petrosdel.github.io/authors/mattia-stival/</link>
     </image>
     
     <item>
       <title>Doubly-online changepoint detection for monitoring health status during sports activities</title>
-      <link>http://localhost:1313/publication/stival2023doubly/</link>
+      <link>https://petrosdel.github.io/publication/stival2023doubly/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/stival2023doubly/</guid>
+      <guid>https://petrosdel.github.io/publication/stival2023doubly/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Missing data patterns in runners’ careers: do they matter?</title>
-      <link>http://localhost:1313/publication/stival2023missing/</link>
+      <link>https://petrosdel.github.io/publication/stival2023missing/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/stival2023missing/</guid>
+      <guid>https://petrosdel.github.io/publication/stival2023missing/</guid>
       <description></description>
     </item>
     

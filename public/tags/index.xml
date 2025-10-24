@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Petros Dellaportas</title>
-    <link>http://localhost:1313/tags/</link>
-      <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/tags/</link>
+      <atom:link href="https://petrosdel.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Tags</title>
-      <link>http://localhost:1313/tags/</link>
+      <link>https://petrosdel.github.io/tags/</link>
     </image>
     
     <item>
       <title>Top-Tier</title>
-      <link>http://localhost:1313/tags/top-tier/</link>
+      <link>https://petrosdel.github.io/tags/top-tier/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/top-tier/</guid>
+      <guid>https://petrosdel.github.io/tags/top-tier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alan Turing Institute</title>
-      <link>http://localhost:1313/tags/alan-turing-institute/</link>
+      <link>https://petrosdel.github.io/tags/alan-turing-institute/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/alan-turing-institute/</guid>
+      <guid>https://petrosdel.github.io/tags/alan-turing-institute/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic Pricing</title>
-      <link>http://localhost:1313/tags/dynamic-pricing/</link>
+      <link>https://petrosdel.github.io/tags/dynamic-pricing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/dynamic-pricing/</guid>
+      <guid>https://petrosdel.github.io/tags/dynamic-pricing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poisson Processes for  Identity Systems and Cyber-Security</title>
-      <link>http://localhost:1313/tags/poisson-processes-for--identity-systems-and-cyber-security/</link>
+      <link>https://petrosdel.github.io/tags/poisson-processes-for--identity-systems-and-cyber-security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/poisson-processes-for--identity-systems-and-cyber-security/</guid>
+      <guid>https://petrosdel.github.io/tags/poisson-processes-for--identity-systems-and-cyber-security/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reservoir Computing for Macroeconomic Modelling</title>
-      <link>http://localhost:1313/tags/reservoir-computing-for-macroeconomic-modelling/</link>
+      <link>https://petrosdel.github.io/tags/reservoir-computing-for-macroeconomic-modelling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/reservoir-computing-for-macroeconomic-modelling/</guid>
+      <guid>https://petrosdel.github.io/tags/reservoir-computing-for-macroeconomic-modelling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wind Energy</title>
-      <link>http://localhost:1313/tags/wind-energy/</link>
+      <link>https://petrosdel.github.io/tags/wind-energy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/wind-energy/</guid>
+      <guid>https://petrosdel.github.io/tags/wind-energy/</guid>
       <description></description>
     </item>
     

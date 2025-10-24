@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nicholas G Polson | Petros Dellaportas</title>
-    <link>http://localhost:1313/authors/nicholas-g-polson/</link>
-      <atom:link href="http://localhost:1313/authors/nicholas-g-polson/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/nicholas-g-polson/</link>
+      <atom:link href="https://petrosdel.github.io/authors/nicholas-g-polson/index.xml" rel="self" type="application/rss+xml" />
     <description>Nicholas G Polson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Nicholas G Polson</title>
-      <link>http://localhost:1313/authors/nicholas-g-polson/</link>
+      <link>https://petrosdel.github.io/authors/nicholas-g-polson/</link>
     </image>
     
     <item>
       <title>Bayesian Theory and Applications</title>
-      <link>http://localhost:1313/publication/damien-2013-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/damien-2013-bayesian/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/damien-2013-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/damien-2013-bayesian/</guid>
       <description></description>
     </item>
     

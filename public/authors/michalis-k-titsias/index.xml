@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michalis K Titsias | Petros Dellaportas</title>
-    <link>http://localhost:1313/authors/michalis-k-titsias/</link>
-      <atom:link href="http://localhost:1313/authors/michalis-k-titsias/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/michalis-k-titsias/</link>
+      <atom:link href="https://petrosdel.github.io/authors/michalis-k-titsias/index.xml" rel="self" type="application/rss+xml" />
     <description>Michalis K Titsias</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Michalis K Titsias</title>
-      <link>http://localhost:1313/authors/michalis-k-titsias/</link>
+      <link>https://petrosdel.github.io/authors/michalis-k-titsias/</link>
     </image>
     
     <item>
       <title>Gaussian Invariant Markov Chain Monte Carlo</title>
-      <link>http://localhost:1313/publication/titsias2025gaussian/</link>
+      <link>https://petrosdel.github.io/publication/titsias2025gaussian/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/titsias2025gaussian/</guid>
+      <guid>https://petrosdel.github.io/publication/titsias2025gaussian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variance Reduction for the Independent Metropolis Sampler</title>
-      <link>http://localhost:1313/publication/liu2024variance/</link>
+      <link>https://petrosdel.github.io/publication/liu2024variance/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu2024variance/</guid>
+      <guid>https://petrosdel.github.io/publication/liu2024variance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variance Reduction for Metropolis-Hastings Samplers</title>
-      <link>http://localhost:1313/publication/alexopoulos2023variance/</link>
+      <link>https://petrosdel.github.io/publication/alexopoulos2023variance/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/alexopoulos2023variance/</guid>
+      <guid>https://petrosdel.github.io/publication/alexopoulos2023variance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Entropy-based adaptive Hamiltonian Monte Carlo</title>
-      <link>http://localhost:1313/publication/hirt-2021-hmc/</link>
+      <link>https://petrosdel.github.io/publication/hirt-2021-hmc/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hirt-2021-hmc/</guid>
+      <guid>https://petrosdel.github.io/publication/hirt-2021-hmc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Large scale multi-label learning using Gaussian processes</title>
-      <link>http://localhost:1313/publication/panos-2021-large/</link>
+      <link>https://petrosdel.github.io/publication/panos-2021-large/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/panos-2021-large/</guid>
+      <guid>https://petrosdel.github.io/publication/panos-2021-large/</guid>
       <description></description>
     </item>
     

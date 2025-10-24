@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marika Vezzoli | Petros Dellaportas</title>
-    <link>http://localhost:1313/authors/marika-vezzoli/</link>
-      <atom:link href="http://localhost:1313/authors/marika-vezzoli/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/marika-vezzoli/</link>
+      <atom:link href="https://petrosdel.github.io/authors/marika-vezzoli/index.xml" rel="self" type="application/rss+xml" />
     <description>Marika Vezzoli</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Marika Vezzoli</title>
-      <link>http://localhost:1313/authors/marika-vezzoli/</link>
+      <link>https://petrosdel.github.io/authors/marika-vezzoli/</link>
     </image>
     
     <item>
       <title>Sovereign risk zones in Europe during and after the debt crisis</title>
-      <link>http://localhost:1313/publication/arakelian-2019-sovereign/</link>
+      <link>https://petrosdel.github.io/publication/arakelian-2019-sovereign/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/arakelian-2019-sovereign/</guid>
+      <guid>https://petrosdel.github.io/publication/arakelian-2019-sovereign/</guid>
       <description></description>
     </item>
     

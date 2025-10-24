@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yiorgos Zaphiropoulos | Petros Dellaportas</title>
-    <link>http://localhost:1313/authors/yiorgos-zaphiropoulos/</link>
-      <atom:link href="http://localhost:1313/authors/yiorgos-zaphiropoulos/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/yiorgos-zaphiropoulos/</link>
+      <atom:link href="https://petrosdel.github.io/authors/yiorgos-zaphiropoulos/index.xml" rel="self" type="application/rss+xml" />
     <description>Yiorgos Zaphiropoulos</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 1999 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Yiorgos Zaphiropoulos</title>
-      <link>http://localhost:1313/authors/yiorgos-zaphiropoulos/</link>
+      <link>https://petrosdel.github.io/authors/yiorgos-zaphiropoulos/</link>
     </image>
     
     <item>
       <title>Prediction of wind speed and direction at a potential site</title>
-      <link>http://localhost:1313/publication/zaphiropoulos-1999-prediction/</link>
+      <link>https://petrosdel.github.io/publication/zaphiropoulos-1999-prediction/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zaphiropoulos-1999-prediction/</guid>
+      <guid>https://petrosdel.github.io/publication/zaphiropoulos-1999-prediction/</guid>
       <description></description>
     </item>
     

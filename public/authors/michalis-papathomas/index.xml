@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michalis Papathomas | Petros Dellaportas</title>
-    <link>http://localhost:1313/authors/michalis-papathomas/</link>
-      <atom:link href="http://localhost:1313/authors/michalis-papathomas/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/michalis-papathomas/</link>
+      <atom:link href="https://petrosdel.github.io/authors/michalis-papathomas/index.xml" rel="self" type="application/rss+xml" />
     <description>Michalis Papathomas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Michalis Papathomas</title>
-      <link>http://localhost:1313/authors/michalis-papathomas/</link>
+      <link>https://petrosdel.github.io/authors/michalis-papathomas/</link>
     </image>
     
     <item>
       <title>A novel reversible jump algorithm for generalized linear models</title>
-      <link>http://localhost:1313/publication/papathomas-2011-novel/</link>
+      <link>https://petrosdel.github.io/publication/papathomas-2011-novel/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/papathomas-2011-novel/</guid>
+      <guid>https://petrosdel.github.io/publication/papathomas-2011-novel/</guid>
       <description></description>
     </item>
     

@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Top-Tier | Petros Dellaportas</title>
-    <link>http://localhost:1313/tags/top-tier/</link>
-      <atom:link href="http://localhost:1313/tags/top-tier/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/tags/top-tier/</link>
+      <atom:link href="https://petrosdel.github.io/tags/top-tier/index.xml" rel="self" type="application/rss+xml" />
     <description>Top-Tier</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Top-Tier</title>
-      <link>http://localhost:1313/tags/top-tier/</link>
+      <link>https://petrosdel.github.io/tags/top-tier/</link>
     </image>
     
     <item>
       <title>Bayesian online change point detection with Hilbert space approximate Student-t process</title>
-      <link>http://localhost:1313/publication/sellier2023bayesian/</link>
+      <link>https://petrosdel.github.io/publication/sellier2023bayesian/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sellier2023bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/sellier2023bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Entropy-based adaptive Hamiltonian Monte Carlo</title>
-      <link>http://localhost:1313/publication/hirt-2021-hmc/</link>
+      <link>https://petrosdel.github.io/publication/hirt-2021-hmc/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hirt-2021-hmc/</guid>
+      <guid>https://petrosdel.github.io/publication/hirt-2021-hmc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Copula-like Variational Inference</title>
-      <link>http://localhost:1313/publication/hirt-2019-copula/</link>
+      <link>https://petrosdel.github.io/publication/hirt-2019-copula/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hirt-2019-copula/</guid>
+      <guid>https://petrosdel.github.io/publication/hirt-2019-copula/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gradient-based adaptive Markov chain Monte Carlo</title>
-      <link>http://localhost:1313/publication/titsias-2019-gradient/</link>
+      <link>https://petrosdel.github.io/publication/titsias-2019-gradient/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/titsias-2019-gradient/</guid>
+      <guid>https://petrosdel.github.io/publication/titsias-2019-gradient/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Control variates for estimation based on reversible Markov chain Monte Carlo samplers</title>
-      <link>http://localhost:1313/publication/dellaportas-2012-control/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2012-control/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-2012-control/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2012-control/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A novel reversible jump algorithm for generalized linear models</title>
-      <link>http://localhost:1313/publication/papathomas-2011-novel/</link>
+      <link>https://petrosdel.github.io/publication/papathomas-2011-novel/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/papathomas-2011-novel/</guid>
+      <guid>https://petrosdel.github.io/publication/papathomas-2011-novel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inference for stochastic volatility models using time change transformations</title>
-      <link>http://localhost:1313/publication/kalogeropoulos-2010-inference/</link>
+      <link>https://petrosdel.github.io/publication/kalogeropoulos-2010-inference/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/kalogeropoulos-2010-inference/</guid>
+      <guid>https://petrosdel.github.io/publication/kalogeropoulos-2010-inference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian model selection for partially observed diffusion models</title>
-      <link>http://localhost:1313/publication/dellaportas-2006-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2006-bayesian/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-2006-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2006-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model determination for categorical data with factor level merging</title>
-      <link>http://localhost:1313/publication/dellaportas-2005-model/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2005-model/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-2005-model/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2005-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian inference for non-Gaussian Ornstein--Uhlenbeck stochastic volatility processes</title>
-      <link>http://localhost:1313/publication/roberts-2004-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/roberts-2004-bayesian/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/roberts-2004-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/roberts-2004-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markov chain Monte Carlo model determination for hierarchical and graphical log-linear models</title>
-      <link>http://localhost:1313/publication/dellaportas-1999-markov/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-1999-markov/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-1999-markov/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-1999-markov/</guid>
       <description></description>
     </item>
     

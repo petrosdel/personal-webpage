@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeremy Sellier | Petros Dellaportas</title>
-    <link>http://localhost:1313/authors/jeremy-sellier/</link>
-      <atom:link href="http://localhost:1313/authors/jeremy-sellier/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/jeremy-sellier/</link>
+      <atom:link href="https://petrosdel.github.io/authors/jeremy-sellier/index.xml" rel="self" type="application/rss+xml" />
     <description>Jeremy Sellier</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Jeremy Sellier</title>
-      <link>http://localhost:1313/authors/jeremy-sellier/</link>
+      <link>https://petrosdel.github.io/authors/jeremy-sellier/</link>
     </image>
     
     <item>
       <title>Bayesian online change point detection with Hilbert space approximate Student-t process</title>
-      <link>http://localhost:1313/publication/sellier2023bayesian/</link>
+      <link>https://petrosdel.github.io/publication/sellier2023bayesian/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sellier2023bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/sellier2023bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sparse Spectral Bayesian Permanental Process with Generalized Kernel</title>
-      <link>http://localhost:1313/publication/sellier2023sparse/</link>
+      <link>https://petrosdel.github.io/publication/sellier2023sparse/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sellier2023sparse/</guid>
+      <guid>https://petrosdel.github.io/publication/sellier2023sparse/</guid>
       <description></description>
     </item>
     

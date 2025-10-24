@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Petros Dellaportas</title>
-    <link>http://localhost:1313/authors/admin/</link>
-      <atom:link href="http://localhost:1313/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/admin/</link>
+      <atom:link href="https://petrosdel.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Petros Dellaportas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Petros Dellaportas</title>
-      <link>http://localhost:1313/authors/admin/</link>
+      <link>https://petrosdel.github.io/authors/admin/</link>
     </image>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/authors/admin/</link>
+      <link>https://petrosdel.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/authors/admin/</guid>
+      <guid>https://petrosdel.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Petros Dellaportas has a joint appointment as a professor in Statistical Science in the department of Statistical Science, &lt;a href=&#34;https://www.ucl.ac.uk/statistics/&#34;&gt;&lt;strong&gt;University College London&lt;/strong&gt;&lt;/a&gt;, and as a professor of Statistics in the department of Statistics, &lt;a href=&#34;https://www.dept.aueb.gr/en/stat/content/department-statistics&#34;&gt;&lt;strong&gt;Athens University of Economics and Business&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

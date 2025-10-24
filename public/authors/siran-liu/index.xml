@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Siran Liu | Petros Dellaportas</title>
-    <link>http://localhost:1313/authors/siran-liu/</link>
-      <atom:link href="http://localhost:1313/authors/siran-liu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/siran-liu/</link>
+      <atom:link href="https://petrosdel.github.io/authors/siran-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Siran Liu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Siran Liu</title>
-      <link>http://localhost:1313/authors/siran-liu/</link>
+      <link>https://petrosdel.github.io/authors/siran-liu/</link>
     </image>
     
     <item>
       <title>Gaussian Invariant Markov Chain Monte Carlo</title>
-      <link>http://localhost:1313/publication/titsias2025gaussian/</link>
+      <link>https://petrosdel.github.io/publication/titsias2025gaussian/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/titsias2025gaussian/</guid>
+      <guid>https://petrosdel.github.io/publication/titsias2025gaussian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variance Reduction for the Independent Metropolis Sampler</title>
-      <link>http://localhost:1313/publication/liu2024variance/</link>
+      <link>https://petrosdel.github.io/publication/liu2024variance/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu2024variance/</guid>
+      <guid>https://petrosdel.github.io/publication/liu2024variance/</guid>
       <description></description>
     </item>
     

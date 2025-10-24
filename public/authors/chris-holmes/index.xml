@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris Holmes | Petros Dellaportas</title>
-    <link>http://localhost:1313/authors/chris-holmes/</link>
-      <atom:link href="http://localhost:1313/authors/chris-holmes/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/chris-holmes/</link>
+      <atom:link href="https://petrosdel.github.io/authors/chris-holmes/index.xml" rel="self" type="application/rss+xml" />
     <description>Chris Holmes</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Chris Holmes</title>
-      <link>http://localhost:1313/authors/chris-holmes/</link>
+      <link>https://petrosdel.github.io/authors/chris-holmes/</link>
     </image>
     
     <item>
       <title>Flexible threshold models for modelling interest rate volatility</title>
-      <link>http://localhost:1313/publication/dellaportas-2007-flexible/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2007-flexible/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-2007-flexible/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2007-flexible/</guid>
       <description></description>
     </item>
     

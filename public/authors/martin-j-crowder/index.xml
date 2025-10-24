@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Martin J Crowder | Petros Dellaportas</title>
-    <link>http://localhost:1313/authors/martin-j-crowder/</link>
-      <atom:link href="http://localhost:1313/authors/martin-j-crowder/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/martin-j-crowder/</link>
+      <atom:link href="https://petrosdel.github.io/authors/martin-j-crowder/index.xml" rel="self" type="application/rss+xml" />
     <description>Martin J Crowder</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Martin J Crowder</title>
-      <link>http://localhost:1313/authors/martin-j-crowder/</link>
+      <link>https://petrosdel.github.io/authors/martin-j-crowder/</link>
     </image>
     
     <item>
       <title>Quantification of automobile insurance liability: a Bayesian failure time approach</title>
-      <link>http://localhost:1313/publication/stephens-2004-quantification/</link>
+      <link>https://petrosdel.github.io/publication/stephens-2004-quantification/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/stephens-2004-quantification/</guid>
+      <guid>https://petrosdel.github.io/publication/stephens-2004-quantification/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eleni Vradi | Petros Dellaportas</title>
-    <link>http://localhost:1313/authors/eleni-vradi/</link>
-      <atom:link href="http://localhost:1313/authors/eleni-vradi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/eleni-vradi/</link>
+      <atom:link href="https://petrosdel.github.io/authors/eleni-vradi/index.xml" rel="self" type="application/rss+xml" />
     <description>Eleni Vradi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Eleni Vradi</title>
-      <link>http://localhost:1313/authors/eleni-vradi/</link>
+      <link>https://petrosdel.github.io/authors/eleni-vradi/</link>
     </image>
     
     <item>
       <title>A Bayesian Approach for Analysis of Whole-Genome Bisulfite Sequencing Data Identifies Disease-Associated Changes in DNA Methylation</title>
-      <link>http://localhost:1313/publication/rackham-2017-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/rackham-2017-bayesian/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rackham-2017-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/rackham-2017-bayesian/</guid>
       <description></description>
     </item>
     

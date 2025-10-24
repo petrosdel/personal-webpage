@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Angelos Alexopoulos  | Petros Dellaportas</title>
-    <link>http://localhost:1313/authors/angelos-alexopoulos-/</link>
-      <atom:link href="http://localhost:1313/authors/angelos-alexopoulos-/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/angelos-alexopoulos-/</link>
+      <atom:link href="https://petrosdel.github.io/authors/angelos-alexopoulos-/index.xml" rel="self" type="application/rss+xml" />
     <description>Angelos Alexopoulos </description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Angelos Alexopoulos </title>
-      <link>http://localhost:1313/authors/angelos-alexopoulos-/</link>
+      <link>https://petrosdel.github.io/authors/angelos-alexopoulos-/</link>
     </image>
     
     <item>
       <title>Variance Reduction for Metropolis-Hastings Samplers</title>
-      <link>http://localhost:1313/publication/alexopoulos2023variance/</link>
+      <link>https://petrosdel.github.io/publication/alexopoulos2023variance/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/alexopoulos2023variance/</guid>
+      <guid>https://petrosdel.github.io/publication/alexopoulos2023variance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detecting anomalies in heterogeneous population-scale VAT networks</title>
-      <link>http://localhost:1313/publication/alexopoulos2021vat/</link>
+      <link>https://petrosdel.github.io/publication/alexopoulos2021vat/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/alexopoulos2021vat/</guid>
+      <guid>https://petrosdel.github.io/publication/alexopoulos2021vat/</guid>
       <description></description>
     </item>
     

@@ -2,581 +2,581 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Petros Dellaportas</title>
-    <link>http://localhost:1313/publication_types/2/</link>
-      <atom:link href="http://localhost:1313/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/publication_types/2/</link>
+      <atom:link href="https://petrosdel.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>2</title>
-      <link>http://localhost:1313/publication_types/2/</link>
+      <link>https://petrosdel.github.io/publication_types/2/</link>
     </image>
     
     <item>
       <title>Probabilistic multilayer perceptrons for wind farm condition monitoring</title>
-      <link>http://localhost:1313/publication/fiocchi2025probabilistic/</link>
+      <link>https://petrosdel.github.io/publication/fiocchi2025probabilistic/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/fiocchi2025probabilistic/</guid>
+      <guid>https://petrosdel.github.io/publication/fiocchi2025probabilistic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards a framework for a new research ecosystem</title>
-      <link>http://localhost:1313/publication/savona2025towards/</link>
+      <link>https://petrosdel.github.io/publication/savona2025towards/</link>
       <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/savona2025towards/</guid>
+      <guid>https://petrosdel.github.io/publication/savona2025towards/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning variational autoencoders via MCMC speed measures</title>
-      <link>http://localhost:1313/publication/hirt2024learning/</link>
+      <link>https://petrosdel.github.io/publication/hirt2024learning/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hirt2024learning/</guid>
+      <guid>https://petrosdel.github.io/publication/hirt2024learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian Tensor Factorisations for Time Series of Counts</title>
-      <link>http://localhost:1313/publication/wang2023bayesian/</link>
+      <link>https://petrosdel.github.io/publication/wang2023bayesian/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang2023bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/wang2023bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reservoir computing for macroeconomic forecasting with mixed frequency data</title>
-      <link>http://localhost:1313/publication/ballarin2023reservoir/</link>
+      <link>https://petrosdel.github.io/publication/ballarin2023reservoir/</link>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ballarin2023reservoir/</guid>
+      <guid>https://petrosdel.github.io/publication/ballarin2023reservoir/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Doubly-online changepoint detection for monitoring health status during sports activities</title>
-      <link>http://localhost:1313/publication/stival2023doubly/</link>
+      <link>https://petrosdel.github.io/publication/stival2023doubly/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/stival2023doubly/</guid>
+      <guid>https://petrosdel.github.io/publication/stival2023doubly/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flexible marked spatio-temporal point processes with applications to event sequences from association football</title>
-      <link>http://localhost:1313/publication/narayanan2023flexible/</link>
+      <link>https://petrosdel.github.io/publication/narayanan2023flexible/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/narayanan2023flexible/</guid>
+      <guid>https://petrosdel.github.io/publication/narayanan2023flexible/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inference for partially observed Riemannian Ornstein-Uhlenbeck diffusions of covariance matrices</title>
-      <link>http://localhost:1313/publication/bui2021inference/</link>
+      <link>https://petrosdel.github.io/publication/bui2021inference/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bui2021inference/</guid>
+      <guid>https://petrosdel.github.io/publication/bui2021inference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Missing data patterns in runners’ careers: do they matter?</title>
-      <link>http://localhost:1313/publication/stival2023missing/</link>
+      <link>https://petrosdel.github.io/publication/stival2023missing/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/stival2023missing/</guid>
+      <guid>https://petrosdel.github.io/publication/stival2023missing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variance Reduction for Metropolis-Hastings Samplers</title>
-      <link>http://localhost:1313/publication/alexopoulos2023variance/</link>
+      <link>https://petrosdel.github.io/publication/alexopoulos2023variance/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/alexopoulos2023variance/</guid>
+      <guid>https://petrosdel.github.io/publication/alexopoulos2023variance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian prediction of jumps in large panels of time series data</title>
-      <link>http://localhost:1313/publication/alexopoulos2022bayesian/</link>
+      <link>https://petrosdel.github.io/publication/alexopoulos2022bayesian/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/alexopoulos2022bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/alexopoulos2022bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scalable inference for a full multivariate stochastic volatility model</title>
-      <link>http://localhost:1313/publication/dellaportas-2021-scalable/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2021-scalable/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-2021-scalable/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2021-scalable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian forecasting of mortality rates by using latent Gaussian models</title>
-      <link>http://localhost:1313/publication/alexopoulos-2019-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/alexopoulos-2019-bayesian/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/alexopoulos-2019-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/alexopoulos-2019-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient sequential Monte Carlo algorithms for integrated population models</title>
-      <link>http://localhost:1313/publication/finke-2019-efficient/</link>
+      <link>https://petrosdel.github.io/publication/finke-2019-efficient/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/finke-2019-efficient/</guid>
+      <guid>https://petrosdel.github.io/publication/finke-2019-efficient/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Importance sampling from posterior distributions using copula-like approximations</title>
-      <link>http://localhost:1313/publication/dellaportas-2019-importance/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2019-importance/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-2019-importance/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2019-importance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sovereign risk zones in Europe during and after the debt crisis</title>
-      <link>http://localhost:1313/publication/arakelian-2019-sovereign/</link>
+      <link>https://petrosdel.github.io/publication/arakelian-2019-sovereign/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/arakelian-2019-sovereign/</guid>
+      <guid>https://petrosdel.github.io/publication/arakelian-2019-sovereign/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Bayesian Approach for Analysis of Whole-Genome Bisulfite Sequencing Data Identifies Disease-Associated Changes in DNA Methylation</title>
-      <link>http://localhost:1313/publication/rackham-2017-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/rackham-2017-bayesian/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rackham-2017-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/rackham-2017-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Volatility prediction based on scheduled macroeconomic announcements</title>
-      <link>http://localhost:1313/publication/petralias-2015-volatility/</link>
+      <link>https://petrosdel.github.io/publication/petralias-2015-volatility/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/petralias-2015-volatility/</guid>
+      <guid>https://petrosdel.github.io/publication/petralias-2015-volatility/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WGBSSuite: simulating whole-genome bisulphite sequencing data and benchmarking differential DNA methylation analysis tools</title>
-      <link>http://localhost:1313/publication/rackham-2015-wgbssuite/</link>
+      <link>https://petrosdel.github.io/publication/rackham-2015-wgbssuite/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rackham-2015-wgbssuite/</guid>
+      <guid>https://petrosdel.github.io/publication/rackham-2015-wgbssuite/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Arbitrage-free prediction of the implied volatility smile</title>
-      <link>http://localhost:1313/publication/dellaportas-2014-arbitrage/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2014-arbitrage/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-2014-arbitrage/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2014-arbitrage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Communication impacting financial markets</title>
-      <link>http://localhost:1313/publication/andersen-2014-communication/</link>
+      <link>https://petrosdel.github.io/publication/andersen-2014-communication/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/andersen-2014-communication/</guid>
+      <guid>https://petrosdel.github.io/publication/andersen-2014-communication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Museum factors affecting the ageing process of organic materials: review on experimental designs and the INVENVORG project as a pilot study</title>
-      <link>http://localhost:1313/publication/dellaportas-2014-museum/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2014-museum/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-2014-museum/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2014-museum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An MCMC model search algorithm for regression problems</title>
-      <link>http://localhost:1313/publication/petralias-2013-mcmc/</link>
+      <link>https://petrosdel.github.io/publication/petralias-2013-mcmc/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/petralias-2013-mcmc/</guid>
+      <guid>https://petrosdel.github.io/publication/petralias-2013-mcmc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cholesky-GARCH models with applications to finance</title>
-      <link>http://localhost:1313/publication/dellaportas-2012-cholesky/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2012-cholesky/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-2012-cholesky/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2012-cholesky/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conditional symmetry models for three-way contingency tables</title>
-      <link>http://localhost:1313/publication/kateri-2012-conditional/</link>
+      <link>https://petrosdel.github.io/publication/kateri-2012-conditional/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/kateri-2012-conditional/</guid>
+      <guid>https://petrosdel.github.io/publication/kateri-2012-conditional/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contagion determination via copula and volatility threshold models</title>
-      <link>http://localhost:1313/publication/arakelian-2012-contagion/</link>
+      <link>https://petrosdel.github.io/publication/arakelian-2012-contagion/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/arakelian-2012-contagion/</guid>
+      <guid>https://petrosdel.github.io/publication/arakelian-2012-contagion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Control variates for estimation based on reversible Markov chain Monte Carlo samplers</title>
-      <link>http://localhost:1313/publication/dellaportas-2012-control/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2012-control/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-2012-control/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2012-control/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joint specification of model space and parameter space prior distributions</title>
-      <link>http://localhost:1313/publication/dellaportas-2012-joint/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2012-joint/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-2012-joint/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2012-joint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A novel reversible jump algorithm for generalized linear models</title>
-      <link>http://localhost:1313/publication/papathomas-2011-novel/</link>
+      <link>https://petrosdel.github.io/publication/papathomas-2011-novel/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/papathomas-2011-novel/</guid>
+      <guid>https://petrosdel.github.io/publication/papathomas-2011-novel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Forecasting with non-homogeneous hidden Markov models</title>
-      <link>http://localhost:1313/publication/meligkotsidou-2011-forecasting/</link>
+      <link>https://petrosdel.github.io/publication/meligkotsidou-2011-forecasting/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/meligkotsidou-2011-forecasting/</guid>
+      <guid>https://petrosdel.github.io/publication/meligkotsidou-2011-forecasting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Likelihood-based inference for correlated diffusions</title>
-      <link>http://localhost:1313/publication/kalogeropoulos-2011-likelihood/</link>
+      <link>https://petrosdel.github.io/publication/kalogeropoulos-2011-likelihood/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/kalogeropoulos-2011-likelihood/</guid>
+      <guid>https://petrosdel.github.io/publication/kalogeropoulos-2011-likelihood/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inference for stochastic volatility models using time change transformations</title>
-      <link>http://localhost:1313/publication/kalogeropoulos-2010-inference/</link>
+      <link>https://petrosdel.github.io/publication/kalogeropoulos-2010-inference/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/kalogeropoulos-2010-inference/</guid>
+      <guid>https://petrosdel.github.io/publication/kalogeropoulos-2010-inference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian clustering for row effects models</title>
-      <link>http://localhost:1313/publication/tarantola-2008-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/tarantola-2008-bayesian/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/tarantola-2008-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/tarantola-2008-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelling nonlinearities and heavy tails via threshold normal mixture GARCH models</title>
-      <link>http://localhost:1313/publication/giannikis-2008-modelling/</link>
+      <link>https://petrosdel.github.io/publication/giannikis-2008-modelling/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/giannikis-2008-modelling/</guid>
+      <guid>https://petrosdel.github.io/publication/giannikis-2008-modelling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flexible threshold models for modelling interest rate volatility</title>
-      <link>http://localhost:1313/publication/dellaportas-2007-flexible/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2007-flexible/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-2007-flexible/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2007-flexible/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modelling volatility asymmetries: a Bayesian analysis of a class of tree structured multivariate GARCH models</title>
-      <link>http://localhost:1313/publication/dellaportas-2007-modelling/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2007-modelling/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-2007-modelling/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2007-modelling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian model selection for partially observed diffusion models</title>
-      <link>http://localhost:1313/publication/dellaportas-2006-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2006-bayesian/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-2006-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2006-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multivariate mixtures of normals with unknown number of components</title>
-      <link>http://localhost:1313/publication/dellaportas-2006-multivariate/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2006-multivariate/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-2006-multivariate/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2006-multivariate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian analysis of the unobserved arch model</title>
-      <link>http://localhost:1313/publication/giakoumatos-2005-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/giakoumatos-2005-bayesian/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/giakoumatos-2005-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/giakoumatos-2005-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model determination for categorical data with factor level merging</title>
-      <link>http://localhost:1313/publication/dellaportas-2005-model/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2005-model/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-2005-model/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2005-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian inference for non-Gaussian Ornstein--Uhlenbeck stochastic volatility processes</title>
-      <link>http://localhost:1313/publication/roberts-2004-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/roberts-2004-bayesian/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/roberts-2004-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/roberts-2004-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Periodic Markov switching autoregressive models for Bayesian analysis and forecasting of air pollution</title>
-      <link>http://localhost:1313/publication/spezia-2004-periodic/</link>
+      <link>https://petrosdel.github.io/publication/spezia-2004-periodic/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/spezia-2004-periodic/</guid>
+      <guid>https://petrosdel.github.io/publication/spezia-2004-periodic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantification of automobile insurance liability: a Bayesian failure time approach</title>
-      <link>http://localhost:1313/publication/stephens-2004-quantification/</link>
+      <link>https://petrosdel.github.io/publication/stephens-2004-quantification/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/stephens-2004-quantification/</guid>
+      <guid>https://petrosdel.github.io/publication/stephens-2004-quantification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A full-factor multivariate GARCH model</title>
-      <link>http://localhost:1313/publication/vrontos-2003-full/</link>
+      <link>https://petrosdel.github.io/publication/vrontos-2003-full/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/vrontos-2003-full/</guid>
+      <guid>https://petrosdel.github.io/publication/vrontos-2003-full/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessment of Athens&#39;s metro passenger behaviour via a multiranked probit model</title>
-      <link>http://localhost:1313/publication/linardakis-2003-assessment/</link>
+      <link>https://petrosdel.github.io/publication/linardakis-2003-assessment/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/linardakis-2003-assessment/</guid>
+      <guid>https://petrosdel.github.io/publication/linardakis-2003-assessment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian analysis of extreme values by mixture modeling</title>
-      <link>http://localhost:1313/publication/bottolo-2003-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/bottolo-2003-bayesian/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bottolo-2003-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/bottolo-2003-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian inference for nondecomposable graphical Gaussian models</title>
-      <link>http://localhost:1313/publication/dellaportas-2003-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2003-bayesian/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-2003-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2003-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian variable and link determination for generalised linear models</title>
-      <link>http://localhost:1313/publication/ntzoufras-2003-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/ntzoufras-2003-bayesian/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ntzoufras-2003-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/ntzoufras-2003-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inference for some multivariate ARCH and GARCH models</title>
-      <link>http://localhost:1313/publication/vrontos-2003-inference/</link>
+      <link>https://petrosdel.github.io/publication/vrontos-2003-inference/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/vrontos-2003-inference/</guid>
+      <guid>https://petrosdel.github.io/publication/vrontos-2003-inference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian modelling of outstanding liabilities incorporating claim count uncertainty</title>
-      <link>http://localhost:1313/publication/ntzoufras-2002-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/ntzoufras-2002-bayesian/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ntzoufras-2002-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/ntzoufras-2002-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Bayesian model and variable selection using MCMC</title>
-      <link>http://localhost:1313/publication/dellaportas-2002-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2002-bayesian/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-2002-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2002-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A simulation approach to hierarchical models</title>
-      <link>http://localhost:1313/publication/dellaportas-2001-bsimulation/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2001-bsimulation/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-2001-bsimulation/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2001-bsimulation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A simulation approach to nonparametric empirical Bayes analysis</title>
-      <link>http://localhost:1313/publication/dellaportas-2001-simulation/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2001-simulation/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-2001-simulation/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2001-simulation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An application of three bivariate time-varying volatility models</title>
-      <link>http://localhost:1313/publication/vrontos-2001-application/</link>
+      <link>https://petrosdel.github.io/publication/vrontos-2001-application/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/vrontos-2001-application/</guid>
+      <guid>https://petrosdel.github.io/publication/vrontos-2001-application/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian analysis of correlated proportions</title>
-      <link>http://localhost:1313/publication/kateri-2001-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/kateri-2001-bayesian/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/kateri-2001-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/kateri-2001-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian analysis of mortality data</title>
-      <link>http://localhost:1313/publication/dellaportas-2001-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-2001-bayesian/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-2001-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-2001-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wind speed prediction in a complex terrain</title>
-      <link>http://localhost:1313/publication/denison-2001-wind/</link>
+      <link>https://petrosdel.github.io/publication/denison-2001-wind/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/denison-2001-wind/</guid>
+      <guid>https://petrosdel.github.io/publication/denison-2001-wind/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Full Bayesian inference for GARCH and EGARCH models</title>
-      <link>http://localhost:1313/publication/vrontos-2000-full/</link>
+      <link>https://petrosdel.github.io/publication/vrontos-2000-full/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/vrontos-2000-full/</guid>
+      <guid>https://petrosdel.github.io/publication/vrontos-2000-full/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stochastic search variable selection for log-linear models</title>
-      <link>http://localhost:1313/publication/ntzoufras-2000-stochastic/</link>
+      <link>https://petrosdel.github.io/publication/ntzoufras-2000-stochastic/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ntzoufras-2000-stochastic/</guid>
+      <guid>https://petrosdel.github.io/publication/ntzoufras-2000-stochastic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Markov chain Monte Carlo convergence diagnostic using subsampling</title>
-      <link>http://localhost:1313/publication/giakoumatos-1999-markov/</link>
+      <link>https://petrosdel.github.io/publication/giakoumatos-1999-markov/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/giakoumatos-1999-markov/</guid>
+      <guid>https://petrosdel.github.io/publication/giakoumatos-1999-markov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fatigue loading parameter identification of a wind turbine operating in complex terrain</title>
-      <link>http://localhost:1313/publication/mouzakis-1999-fatigue/</link>
+      <link>https://petrosdel.github.io/publication/mouzakis-1999-fatigue/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mouzakis-1999-fatigue/</guid>
+      <guid>https://petrosdel.github.io/publication/mouzakis-1999-fatigue/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markov chain Monte Carlo model determination for hierarchical and graphical log-linear models</title>
-      <link>http://localhost:1313/publication/dellaportas-1999-markov/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-1999-markov/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-1999-markov/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-1999-markov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prediction of wind speed and direction at a potential site</title>
-      <link>http://localhost:1313/publication/zaphiropoulos-1999-prediction/</link>
+      <link>https://petrosdel.github.io/publication/zaphiropoulos-1999-prediction/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zaphiropoulos-1999-prediction/</guid>
+      <guid>https://petrosdel.github.io/publication/zaphiropoulos-1999-prediction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian classification of neolithic tools</title>
-      <link>http://localhost:1313/publication/dellaportas-1998-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-1998-bayesian/</link>
       <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-1998-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-1998-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An approach to diagnosing total variation convergence of MCMC algorithms</title>
-      <link>http://localhost:1313/publication/brooks-1997-approach/</link>
+      <link>https://petrosdel.github.io/publication/brooks-1997-approach/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/brooks-1997-approach/</guid>
+      <guid>https://petrosdel.github.io/publication/brooks-1997-approach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The role of embedded integration rules in Bayesian statistics</title>
-      <link>http://localhost:1313/publication/cools-1996-role/</link>
+      <link>https://petrosdel.github.io/publication/cools-1996-role/</link>
       <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/cools-1996-role/</guid>
+      <guid>https://petrosdel.github.io/publication/cools-1996-role/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian analysis of errors-in-variables regression models</title>
-      <link>http://localhost:1313/publication/dellaportas-1995-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-1995-bayesian/</link>
       <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-1995-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-1995-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Random variate transformations in the Gibbs sampler: Issues of efficiency and convergence</title>
-      <link>http://localhost:1313/publication/dellaportas-1995-random/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-1995-random/</link>
       <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-1995-random/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-1995-random/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian inference for generalized linear and proportional hazards models via Gibbs sampling</title>
-      <link>http://localhost:1313/publication/dellaportas-1993-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-1993-bayesian/</link>
       <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-1993-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-1993-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Numerical prediction for the two-parameter Weibull distribution</title>
-      <link>http://localhost:1313/publication/dellaportas-1991-numerical/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-1991-numerical/</link>
       <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-1991-numerical/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-1991-numerical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Positive embedded integration in Bayesian analysis</title>
-      <link>http://localhost:1313/publication/dellaportas-1991-positive/</link>
+      <link>https://petrosdel.github.io/publication/dellaportas-1991-positive/</link>
       <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dellaportas-1991-positive/</guid>
+      <guid>https://petrosdel.github.io/publication/dellaportas-1991-positive/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alessi Lucia | Petros Dellaportas</title>
-    <link>http://localhost:1313/authors/alessi-lucia/</link>
-      <atom:link href="http://localhost:1313/authors/alessi-lucia/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/alessi-lucia/</link>
+      <atom:link href="https://petrosdel.github.io/authors/alessi-lucia/index.xml" rel="self" type="application/rss+xml" />
     <description>Alessi Lucia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 02 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Alessi Lucia</title>
-      <link>http://localhost:1313/authors/alessi-lucia/</link>
+      <link>https://petrosdel.github.io/authors/alessi-lucia/</link>
     </image>
     
     <item>
       <title>Towards a framework for a new research ecosystem</title>
-      <link>http://localhost:1313/publication/savona2025towards/</link>
+      <link>https://petrosdel.github.io/publication/savona2025towards/</link>
       <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/savona2025towards/</guid>
+      <guid>https://petrosdel.github.io/publication/savona2025towards/</guid>
       <description></description>
     </item>
     

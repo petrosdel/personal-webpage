@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Takis Papaioannou | Petros Dellaportas</title>
-    <link>http://localhost:1313/authors/takis-papaioannou/</link>
-      <atom:link href="http://localhost:1313/authors/takis-papaioannou/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/takis-papaioannou/</link>
+      <atom:link href="https://petrosdel.github.io/authors/takis-papaioannou/index.xml" rel="self" type="application/rss+xml" />
     <description>Takis Papaioannou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2001 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Takis Papaioannou</title>
-      <link>http://localhost:1313/authors/takis-papaioannou/</link>
+      <link>https://petrosdel.github.io/authors/takis-papaioannou/</link>
     </image>
     
     <item>
       <title>Bayesian analysis of correlated proportions</title>
-      <link>http://localhost:1313/publication/kateri-2001-bayesian/</link>
+      <link>https://petrosdel.github.io/publication/kateri-2001-bayesian/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/kateri-2001-bayesian/</guid>
+      <guid>https://petrosdel.github.io/publication/kateri-2001-bayesian/</guid>
       <description></description>
     </item>
     

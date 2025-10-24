@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Constantinos Daskalakis  | Petros Dellaportas</title>
-    <link>http://localhost:1313/authors/constantinos-daskalakis-/</link>
-      <atom:link href="http://localhost:1313/authors/constantinos-daskalakis-/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://petrosdel.github.io/authors/constantinos-daskalakis-/</link>
+      <atom:link href="https://petrosdel.github.io/authors/constantinos-daskalakis-/index.xml" rel="self" type="application/rss+xml" />
     <description>Constantinos Daskalakis </description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://petrosdel.github.io/img/icon-192.png</url>
       <title>Constantinos Daskalakis </title>
-      <link>http://localhost:1313/authors/constantinos-daskalakis-/</link>
+      <link>https://petrosdel.github.io/authors/constantinos-daskalakis-/</link>
     </image>
     
     <item>
       <title>How Good are Low-Rank Approximations in Gaussian Process Regression?</title>
-      <link>http://localhost:1313/publication/daskalakis2020scalable/</link>
+      <link>https://petrosdel.github.io/publication/daskalakis2020scalable/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/daskalakis2020scalable/</guid>
+      <guid>https://petrosdel.github.io/publication/daskalakis2020scalable/</guid>
       <description></description>
     </item>
     
