@@ -17,13 +17,13 @@ organizations:
 -  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include  Bayesian theory and applications, machine learning, financial modelling.
+bio: My current research interests are financial modelling and statistical machine learning.
 
 interests:
-- Bayesian statistics
-- Machine learning
-- Financial econometrics
-- Dynamic pricing 
+- Statistical machine learning 
+- Quantitative finance
+- Point processes 
+- Computational statistics
 
 #education:
 #  courses:

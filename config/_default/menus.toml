@@ -40,6 +40,10 @@
   url = "#featured"
   weight = 35
 
+[[main]]
+  name = "Selected Publications"
+  url = "#selected-publications"
+  weight = 37
 
 [[main]]
   name = "Contact"

@@ -6,6 +6,7 @@ authors: ["Titsias Michalis", "Petros Dellaportas"]
 publication_types: ["1"]
 abstract: ""
 featured: true
-publication: "*Advances in Neural Information Processing Systems*"
+publication: "*Advances in Neural Information Processing Systems (NeurIPS)*"
+tags: [top-tier]
 ---
 

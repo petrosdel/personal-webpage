@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Journal of the Royal Statistical Society: Series B (Statistical Methodology)*"
+tags: [top-tier]
 ---
 
