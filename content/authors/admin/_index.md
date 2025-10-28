@@ -20,22 +20,16 @@ organizations:
 bio: My current research interests are financial modelling and statistical machine learning.
 
 interests:
-- Statistical machine learning 
+- Machine learning 
 - Quantitative finance
 - Point processes 
 - Computational statistics
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+  - course: ""
+    institution: I am currently accepting applications for PhD students for the next academic year.
+    year: ""
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
