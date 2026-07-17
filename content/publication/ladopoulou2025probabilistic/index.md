@@ -6,5 +6,5 @@ authors: ["Domniki Ladopoulou", "Dat Minh Hong", "Petros Dellaportas"]
 publication_types: ["2"]
 abstract: ""
 featured: true
-publication: "*Energy Reports, 15*"
+publication: "*Energy Reports*"
 ---
